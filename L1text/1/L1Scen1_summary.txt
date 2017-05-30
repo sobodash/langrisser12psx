@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「サルラスへ」/6/7/5王国騎士団のナームの手引きで/8城から脱出した王子レディンと/8ヴォルコフ。/6/7/5彼らは同盟を結んでいるサルラス/8の町へと向かう途中、僧侶を目指し/8ている少女クリスと出会い、彼女た/8ちを守りながら進むことになる。/8/5しかし、そんな彼らを野盗が/8狙っていた‥‥。/6/7×勝利条件/8/5・クリスがマップ左上の門へ脱出/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/8/5・クリスの死亡/6/7
-#EN:/5/8/5/5Scenario-0/3/8/5/5/5"To Salrath"/6/7/5The young prince, Ledin, and/8Volkoff escaped from the castle/8under, guided by Narm's troops./6/7/5While on the road to Salrath,/8Ledin met a young priestess named/8Chris. He decided to protect her/8on her journey there./6/7/5However, a band of thieves had/8set their sights on the small/8group.../6/7Winning Conditions/8/5- Chris escapes to the gates in/8/5  the upper-left of the map/8/5- Defeat of all enemies/8Losing Conditions/8/5- Death of Ledin/8/5- Death of Chris/6/7
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5“To Salrath”/6/7/5The young prince, Ledin, and/8Volkoff escaped from the castle/8under, guided by Narm’s troops./6/7/5While on the road to Salrath,/8Ledin met a young priestess named/8Chris. He decided to protect her/8on her journey there./6/7/5However, a band of thieves had/8set their sights on the small/8group.../6/7Winning Conditions/8/5- Chris escapes to the gates in/8/5  the upper-left of the map/8/5- Defeat of all enemies/8Losing Conditions/8/5- Death of Ledin/8/5- Death of Chris/6/7
 #EX:
  
  
