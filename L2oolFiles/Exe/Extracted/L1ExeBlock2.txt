@@ -1,786 +1,978 @@
 #HRESList 
  
 #JP:.
-#EN:
+#EN:.
 #EX:
  
 #JP:レテ゛ィン.
-#EN:
+#EN:Ledin.
 #EX:
  
 #JP:ナーム.
-#EN:
+#EN:Narm.
 #EX:
+ 
  
 #JP:クリス.
-#EN:
+#EN:Chris.
 #EX:
+ 
  
 #JP:テイラー.
-#EN:
+#EN:Taylor.
 #EX:
+ 
  
 #JP:シ゛ェシカ.
-#EN:
+#EN:Jessica.
 #EX:
+ 
  
 #JP:アルハ゛ート.
-#EN:
+#EN:Albert.
 #EX:
+ 
  
 #JP:ホーキンク゛.
-#EN:
+#EN:Hawking.
 #EX:
+ 
  
 #JP:ランス.
-#EN:
+#EN:Lance.
 #EX:
+ 
  
 #JP:ソーン.
-#EN:
+#EN:Thorn.
 #EX:
+ 
  
 #JP:ウ゛ォルコフ.
-#EN:
+#EN:Volkoff.
 #EX:
+ 
  
 #JP:イルサ゛ック.
-#EN:
+#EN:Isaac.
 #EX:
+ 
  
 #JP:テ゛ィコ゛ス.
-#EN:
+#EN:Digos.
 #EX:
+ 
  
 #JP:セ゛ルト゛.
-#EN:
+#EN:Zeld.
 #EX:
+ 
  
 #JP:セリア.
-#EN:
+#EN:Celia.
 #EX:
+ 
  
 #JP:ナーキ゛ャ.
-#EN:
+#EN:Nagya.
 #EX:
+ 
  
 #JP:ニコリス.
-#EN:
+#EN:Nicolis.
 #EX:
+ 
  
 #JP:ト゛?モトフ.
-#EN:
+#EN:Doh Motov.
 #EX:
+ 
  
 #JP:カ?イロウ.
-#EN:
+#EN:Kah Iroh.
 #EX:
+ 
  
 #JP:ライアス.
-#EN:
+#EN:Laias.
 #EX:
+ 
  
 #JP:レティシア.
-#EN:
+#EN:Laetitia.
 #EX:
+ 
  
 #JP:アントノフ.
-#EN:
+#EN:Antonov.
 #EX:
+ 
  
 #JP:ヘ゛ルヌーイ.
-#EN:
+#EN:Bernoulli.
 #EX:
+ 
  
 #JP:ネルウィー.
-#EN:
+#EN:Nervye.
 #EX:
+ 
  
 #JP:サ゛ルタ゛フ.
-#EN:
+#EN:Zaldaff.
 #EX:
+ 
  
 #JP:スカルテ゛ィス.
-#EN:
+#EN:Scaladis.
 #EX:
+ 
  
 #JP:カ゛ルウ゛ェス.
-#EN:
+#EN:Galvez.
 #EX:
+ 
  
 #JP:モーカ゛ン.
-#EN:
+#EN:Morgan.
 #EX:
+ 
  
 #JP:キルヒナー.
-#EN:
+#EN:Kirchner.
 #EX:
+ 
  
 #JP:テ゛ィスタン.
-#EN:
+#EN:Distin.
 #EX:
+ 
  
 #JP:アーサ゛ム.
-#EN:
+#EN:Asam.
 #EX:
+ 
  
 #JP:リスラム.
-#EN:
+#EN:Lythrum.
 #EX:
+ 
  
 #JP:イッハ゜ンヘイ.
-#EN:
+#EN:Soldier.
 #EX:
  
-#JP:シキカン.
-#EN:
-#EX:
  
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
  
+ 
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
+ 
+ 
+#JP:シキカン.
+#EN:Commander.
+#EX:
+ 
  
 #JP:シサイ.
-#EN:
+#EN:Priest.
 #EX:
  
-#JP:ムラヒ゛ト.
-#EN:
-#EX:
  
 #JP:ムラヒ゛ト.
-#EN:
+#EN:Villager.
 #EX:
  
+ 
 #JP:ムラヒ゛ト.
-#EN:
+#EN:Villager.
 #EX:
+ 
+ 
+#JP:ムラヒ゛ト.
+#EN:Villager.
+#EX:
+ 
  
 #JP:カイソ゛ク.
-#EN:
+#EN:Pirate.
 #EX:
  
+ 
 #JP:カイソ゛ク.
-#EN:
+#EN:Pirate.
 #EX:
+ 
  
 #JP:シ゛ケイタ゛ン.
-#EN:
+#EN:Militia.
 #EX:
+ 
  
 #JP:コッセル.
-#EN:
+#EN:Kossel.
 #EX:
+ 
  
 #JP:アト゛ン.
-#EN:
+#EN:Adon.
 #EX:
+ 
  
 #JP:サムソン.
-#EN:
+#EN:Sampson.
 #EX:
+ 
  
 #JP:ハ゛ラン.
-#EN:
+#EN:Varan.
 #EX:
  
-#JP:テイコクシキカン.
-#EN:
-#EX:
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:テイコクシキカン.
-#EN:
-#EX:
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:テイコクシキカン.
-#EN:
-#EX:
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:テイコクシキカン.
-#EN:
-#EX:
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:テイコクシキカン.
-#EN:
-#EX:
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
+ 
+ 
+#JP:テイコクシキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:テイコクシキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:テイコクシキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:テイコクシキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:テイコクシキカン.
+#EN:Commander.
+#EX:
+ 
  
 #JP:ウェアウルフ.
-#EN:
+#EN:Werewolf.
 #EX:
  
-#JP:ウェアウルフ.
-#EN:
-#EX:
  
 #JP:ウェアウルフ.
-#EN:
+#EN:Werewolf.
 #EX:
  
-#JP:ウェアウルフ.
-#EN:
-#EX:
  
 #JP:ウェアウルフ.
-#EN:
+#EN:Werewolf.
 #EX:
  
+ 
 #JP:ウェアウルフ.
-#EN:
+#EN:Werewolf.
 #EX:
+ 
+ 
+#JP:ウェアウルフ.
+#EN:Werewolf.
+#EX:
+ 
+ 
+#JP:ウェアウルフ.
+#EN:Werewolf.
+#EX:
+ 
  
 #JP:ケ゛ルキ゛ャサ゛ー.
-#EN:
+#EN:Gelgazer.
 #EX:
+ 
  
 #JP:ケ゛ルキ゛ャサ゛ー.
-#EN:
+#EN:Gelgazer.
 #EX:
+ 
  
 #JP:ケ゛ルキ゛ャサ゛ー.
-#EN:
+#EN:Gelgazer.
 #EX:
+ 
  
 #JP:ケ゛ルキ゛ャサ゛ー.
-#EN:
+#EN:Gelgazer.
 #EX:
  
-#JP:スキュラ.
-#EN:
-#EX:
  
 #JP:スキュラ.
-#EN:
+#EN:Scylla.
 #EX:
  
-#JP:スキュラ.
-#EN:
-#EX:
  
 #JP:スキュラ.
-#EN:
+#EN:Scylla.
 #EX:
  
+ 
 #JP:スキュラ.
-#EN:
+#EN:Scylla.
 #EX:
+ 
+ 
+#JP:スキュラ.
+#EN:Scylla.
+#EX:
+ 
+ 
+#JP:スキュラ.
+#EN:Scylla.
+#EX:
+ 
  
 #JP:ストーンコ゛ーレム.
-#EN:
+#EN:Stone Golem.
 #EX:
+ 
  
 #JP:ストーンコ゛ーレム.
-#EN:
+#EN:Stone Golem.
 #EX:
  
-#JP:リッチ.
-#EN:
-#EX:
  
 #JP:リッチ.
-#EN:
+#EN:Lich.
 #EX:
  
+ 
 #JP:リッチ.
-#EN:
+#EN:Lich.
 #EX:
+ 
+ 
+#JP:リッチ.
+#EN:Lich.
+#EX:
+ 
  
 #JP:リヒ゛ンク゛アーマー.
-#EN:
+#EN:Living Armor.
 #EX:
  
+ 
 #JP:リヒ゛ンク゛アーマー.
-#EN:
+#EN:Living Armor.
 #EX:
+ 
  
 #JP:ハ゛ンハ゜イアロート゛.
-#EN:
+#EN:Vampire Lord.
 #EX:
+ 
  
 #JP:コ゛ースト.
-#EN:
+#EN:Ghost.
 #EX:
+ 
  
 #JP:コ゛ースト.
-#EN:
+#EN:Ghost.
 #EX:
  
-#JP:ケルヘ゛ロス.
-#EN:
-#EX:
  
 #JP:ケルヘ゛ロス.
-#EN:
+#EN:Kerberos.
 #EX:
  
+ 
 #JP:ケルヘ゛ロス.
-#EN:
+#EN:Kerberos.
 #EX:
+ 
+ 
+#JP:ケルヘ゛ロス.
+#EN:Kerberos.
+#EX:
+ 
  
 #JP:マスターテ゛ィーノ.
-#EN:
+#EN:Master Dino.
 #EX:
+ 
  
 #JP:マスターテ゛ィーノ.
-#EN:
+#EN:Master Dino.
 #EX:
+ 
  
 #JP:ワイハ゛ーン.
-#EN:
+#EN:Wyvern.
 #EX:
+ 
  
 #JP:ワイハ゛ーン.
-#EN:
+#EN:Wyvern.
 #EX:
  
-#JP:ク゛レートト゛ラコ゛ン.
-#EN:
-#EX:
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
  
-#JP:ク゛レートト゛ラコ゛ン.
-#EN:
-#EX:
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
  
-#JP:ク゛レートト゛ラコ゛ン.
-#EN:
-#EX:
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
  
-#JP:ク゛レートト゛ラコ゛ン.
-#EN:
-#EX:
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
  
-#JP:ク゛レートト゛ラコ゛ン.
-#EN:
-#EX:
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
+ 
+ 
+#JP:ク゛レートト゛ラコ゛ン.
+#EN:Great Dragon.
+#EX:
+ 
+ 
+#JP:ク゛レートト゛ラコ゛ン.
+#EN:Great Dragon.
+#EX:
+ 
+ 
+#JP:ク゛レートト゛ラコ゛ン.
+#EN:Great Dragon.
+#EX:
+ 
+ 
+#JP:ク゛レートト゛ラコ゛ン.
+#EN:Great Dragon.
+#EX:
+ 
+ 
+#JP:ク゛レートト゛ラコ゛ン.
+#EN:Great Dragon.
+#EX:
+ 
  
 #JP:ミノタウロス.
-#EN:
+#EN:Minotaur.
 #EX:
+ 
  
 #JP:ミノタウロス.
-#EN:
+#EN:Minotaur.
 #EX:
  
-#JP:クラーケン.
-#EN:
-#EX:
  
 #JP:クラーケン.
-#EN:
+#EN:Kraken.
 #EX:
  
+ 
 #JP:クラーケン.
-#EN:
+#EN:Kraken.
 #EX:
+ 
+ 
+#JP:クラーケン.
+#EN:Kraken.
+#EX:
+ 
  
 #JP:サキュハ゛ス.
-#EN:
+#EN:Succubus.
 #EX:
+ 
  
 #JP:サキュハ゛ス.
-#EN:
+#EN:Succubus.
 #EX:
+ 
  
 #JP:テ゛ーモンロート゛.
-#EN:
+#EN:Demon Lord.
 #EX:
+ 
  
 #JP:テ゛ーモンロート゛.
-#EN:
+#EN:Demon Lord.
 #EX:
+ 
  
 #JP:テ゛ーモンロート゛.
-#EN:
+#EN:Demon Lord.
 #EX:
  
-#JP:アニキ.
-#EN:
-#EX:
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
  
-#JP:アニキ.
-#EN:
-#EX:
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
  
-#JP:アニキ.
-#EN:
-#EX:
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
+ 
+ 
+#JP:アニキ.
+#EN:Aniki.
+#EX:
+ 
+ 
+#JP:アニキ.
+#EN:Aniki.
+#EX:
+ 
+ 
+#JP:アニキ.
+#EN:Aniki.
+#EX:
+ 
  
 #JP:マシ゛ョ.
-#EN:
+#EN:Witch.
 #EX:
+ 
  
 #JP:マシ゛ョ.
-#EN:
+#EN:Witch.
 #EX:
  
-#JP:シンカン.
-#EN:
-#EX:
  
 #JP:シンカン.
-#EN:
+#EN:Priest.
 #EX:
+ 
+ 
+#JP:シンカン.
+#EN:Priest.
+#EX:
+ 
  
 #JP:テイコクヘイ.
-#EN:
+#EN:Soldier.
 #EX:
+ 
  
 #JP:ファイアス.
-#EN:
+#EN:Faias.
 #EX:
+ 
  
 #JP:.
-#EN:
+#EN:NEGATE.
 #EX:
+ 
  
 #JP:ロック.
-#EN:
+#EN:Roc.
 #EX:
+ 
  
 #JP:コ゛ースト.
-#EN:
+#EN:Ghost.
 #EX:
+ 
  
 #JP:コ゛ースト.
-#EN:
+#EN:Ghost.
 #EX:
  
-#JP:ネクロマンサー.
-#EN:
-#EX:
  
 #JP:ネクロマンサー.
-#EN:
+#EN:Necromancer.
 #EX:
+ 
+ 
+#JP:ネクロマンサー.
+#EN:Necromancer.
+#EX:
+ 
  
 #JP:サー?カ゛リウス.
-#EN:
+#EN:Sir Garius.
 #EX:
+ 
  
 #JP:ヒーテ゛ィアス.
-#EN:
+#EN:Hydra.
 #EX:
+ 
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
+ 
  
 #JP:テイコクシキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:シキカン.
-#EN:
-#EX:
  
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:シキカン.
-#EN:
-#EX:
  
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:シキカン.
-#EN:
-#EX:
  
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
  
-#JP:シキカン.
-#EN:
-#EX:
  
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
  
+ 
 #JP:シキカン.
-#EN:
+#EN:Commander.
 #EX:
+ 
+ 
+#JP:シキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:シキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:シキカン.
+#EN:Commander.
+#EX:
+ 
+ 
+#JP:シキカン.
+#EN:Commander.
+#EX:
+ 
  
 #JP:フェニックス.
-#EN:
+#EN:Phoenix.
 #EX:
+ 
  
 #JP:フェニックス.
-#EN:
+#EN:Phoenix.
 #EX:
  
-#JP:ハ゛ンハ゜イアロート゛.
-#EN:
-#EX:
  
 #JP:ハ゛ンハ゜イアロート゛.
-#EN:
+#EN:Vampire Lord.
 #EX:
+ 
+ 
+#JP:ハ゛ンハ゜イアロート゛.
+#EN:Vampire Lord.
+#EX:
+ 
  
 #JP:マスターテ゛ィーノ.
-#EN:
+#EN:Master Dino.
 #EX:
+ 
  
 #JP:マスターテ゛ィーノ.
-#EN:
+#EN:Master Dino.
 #EX:
  
+ 
 #JP:ハ゛ンハ゜イアロート゛.
-#EN:
+#EN:Vampire Lord.
 #EX:
+ 
  
 #JP:カオス.
-#EN:
+#EN:Chaos.
 #EX:
+ 
  
 #JP:ルシリス.
-#EN:
+#EN:Lushiris.
 #EX:
+ 
  
 #JP:ト゛ラフィム.
-#EN:
+#EN:Drafim.
 #EX:
+ 
  
 #JP:オーサ゛.
-#EN:
+#EN:Ogre.
 #EX:
+ 
  
 #JP:フェニックス.
-#EN:
+#EN:Phoenix.
 #EX:
  
-#JP:イェルムンカ゛ルト゛.
-#EN:
-#EX:
  
 #JP:イェルムンカ゛ルト゛.
-#EN:
+#EN:Jormungand.
 #EX:
+ 
+ 
+#JP:イェルムンカ゛ルト゛.
+#EN:Jormungand.
+#EX:
+ 
  
 #JP:サキュハ゛ス.
-#EN:
+#EN:Succubus.
 #EX:
+ 
  
 #JP:ミノタウロス.
-#EN:
+#EN:Minotaur.
 #EX:
  
-#JP:アニキ.
-#EN:
-#EX:
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
  
-#JP:アニキ.
-#EN:
-#EX:
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
  
+ 
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
+ 
+ 
+#JP:アニキ.
+#EN:Aniki.
+#EX:
+ 
+ 
+#JP:アニキ.
+#EN:Aniki.
+#EX:
+ 
  
 #JP:ラーカス.
-#EN:
+#EN:Larcas.
 #EX:
+ 
  
 #JP:モルカ゛ン.
-#EN:
+#EN:Morgan.
 #EX:
+ 
  
 #JP:リーアッフ゜.
-#EN:
+#EN:Lirapp.
 #EX:
+ 
  
 #JP:アルファーン.
-#EN:
+#EN:Alfan.
 #EX:
+ 
  
 #JP:マツニス.
-#EN:
+#EN:Matsunith.
 #EX:
+ 
  
 #JP:ラミスローセ゛.
-#EN:
+#EN:Ramisrose.
 #EX:
  
-#JP:イッハ゜ンヘイ.
-#EN:
-#EX:
  
 #JP:イッハ゜ンヘイ.
-#EN:
+#EN:Soldier.
 #EX:
  
+ 
 #JP:イッハ゜ンヘイ.
-#EN:
+#EN:Soldier.
 #EX:
+ 
+ 
+#JP:イッハ゜ンヘイ.
+#EN:Soldier.
+#EX:
+ 
  
 #JP:ホ゛ーセ゛ル.
-#EN:
+#EN:Boser.
 #EX:
+ 
  
 #JP:オーキ゛タンス.
-#EN:
+#EN:Orgitans.
 #EX:
+ 
  
 #JP:アクトラクト.
-#EN:
+#EN:Actract.
 #EX:
+ 
  
 #JP:ツタ゛ーク.
-#EN:
+#EN:Tsudark.
 #EX:
+ 
  
 #JP:ハイスキ゛ット.
-#EN:
+#EN:Haisgit.
 #EX:
+ 
  
 #JP:テールホーン.
-#EN:
+#EN:Terlhon.
 #EX:
+ 
  
 #JP:セ゛ルウ゛ィス.
-#EN:
+#EN:Zervith.
 #EX:
  
-#JP:モンスター.
-#EN:
-#EX:
  
 #JP:モンスター.
-#EN:
+#EN:Monster.
 #EX:
  
-#JP:モンスター.
-#EN:
-#EX:
  
 #JP:モンスター.
-#EN:
+#EN:Monster.
 #EX:
  
-#JP:モンスター.
-#EN:
-#EX:
  
 #JP:モンスター.
-#EN:
+#EN:Monster.
 #EX:
  
-#JP:モンスター.
-#EN:
-#EX:
  
 #JP:モンスター.
-#EN:
+#EN:Monster.
 #EX:
+ 
+ 
+#JP:モンスター.
+#EN:Monster.
+#EX:
+ 
+ 
+#JP:モンスター.
+#EN:Monster.
+#EX:
+ 
+ 
+#JP:モンスター.
+#EN:Monster.
+#EX:
+ 
+ 
+#JP:モンスター.
+#EN:Monster.
+#EX:
+ 
  
 #JP:ハ゛レンツ.
-#EN:
+#EN:Barents.
 #EX:
+ 
  
 #JP:ルキワート゛.
-#EN:
+#EN:Lukward.
 #EX:
+ 
  
 #JP:アキセル.
-#EN:
+#EN:Aksel.
 #EX:
+ 
  
 #JP:イフリート.
-#EN:
+#EN:Efreet.
 #EX:
+ 
  
 #JP:レーサス.
-#EN:
+#EN:Lersath.
+#EX:
+ 
+ 
+#JP:シカソ゛ク.
+#EN:Shika Tribesman.
+#EX:
+ 
+ 
+#JP:シカソ゛ク.
+#EN:Shika Tribesman.
+#EX:
+ 
+ 
+#JP:シカソ゛ク.
+#EN:Shika Tribesman.
+#EX:
+ 
+ 
+#JP:シカソ゛ク.
+#EN:Shika Tribesman.
+#EX:
+ 
+ 
+#JP:シカソ゛ク.
+#EN:Shika Tribesman.
 #EX:
  
 #JP:シカソ゛ク.
-#EN:
-#EX:
- 
-#JP:シカソ゛ク.
-#EN:
-#EX:
- 
-#JP:シカソ゛ク.
-#EN:
-#EX:
- 
-#JP:シカソ゛ク.
-#EN:
-#EX:
- 
-#JP:シカソ゛ク.
-#EN:
-#EX:
- 
-#JP:シカソ゛ク.
-#EN:
+#EN:Shika Tribesman.
 #EX:
  

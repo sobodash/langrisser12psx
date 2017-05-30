@@ -1,1022 +1,1276 @@
 #HRESList 
  
+ 
 #JP:________.
-#EN:
+#EN:________.
 #EX:
  
-#JP:ファイター.
-#EN:
-#EX:
  
 #JP:ファイター.
-#EN:
+#EN:Fighter.
 #EX:
  
+ 
 #JP:ファイター.
-#EN:
+#EN:Fighter.
 #EX:
+ 
+ 
+#JP:ファイター.
+#EN:Fighter.
+#EX:
+ 
  
 #JP:ク゛ラテ゛ィエーター.
-#EN:
+#EN:Gladiator.
 #EX:
+ 
  
 #JP:ウ゛ァンハ゜イア.
-#EN:
+#EN:Vampire.
 #EX:
  
-#JP:ナイト.
-#EN:
-#EX:
  
 #JP:ナイト.
-#EN:
+#EN:Knight.
 #EX:
+ 
+ 
+#JP:ナイト.
+#EN:Knight.
+#EX:
+ 
  
 #JP:ハ゜イレーツ.
-#EN:
+#EN:Pirate.
 #EX:
  
-#JP:ホークナイト.
-#EN:
-#EX:
  
 #JP:ホークナイト.
-#EN:
+#EN:Hawk Knight.
 #EX:
+ 
+ 
+#JP:ホークナイト.
+#EN:Hawk Knight.
+#EX:
+ 
  
 #JP:シスター.
-#EN:
+#EN:Sister.
 #EX:
+ 
  
 #JP:シャーマン.
-#EN:
+#EN:Shaman.
 #EX:
  
-#JP:ウォーロック.
-#EN:
-#EX:
  
 #JP:ウォーロック.
-#EN:
+#EN:Warlock.
 #EX:
+ 
+ 
+#JP:ウォーロック.
+#EN:Warlock.
+#EX:
+ 
  
 #JP:ウェアウルフ.
-#EN:
+#EN:Werewolf.
 #EX:
+ 
  
 #JP:ケ゛ルキ゛ャサ゛ー.
-#EN:
+#EN:Gelgazer.
 #EX:
+ 
  
 #JP:コ゛ースト.
-#EN:
+#EN:Ghost.
 #EX:
+ 
  
 #JP:スキュラ.
-#EN:
+#EN:Scylla.
 #EX:
+ 
  
 #JP:ロック.
-#EN:
+#EN:Roc.
 #EX:
  
-#JP:ロート゛.
-#EN:
-#EX:
  
 #JP:ロート゛.
-#EN:
+#EN:Lord.
 #EX:
  
+ 
 #JP:ロート゛.
-#EN:
+#EN:Lord.
 #EX:
+ 
+ 
+#JP:ロート゛.
+#EN:Lord.
+#EX:
+ 
  
 #JP:ハ゜イレーツ.
-#EN:
+#EN:Pirate.
 #EX:
+ 
  
 #JP:アサシン.
-#EN:
+#EN:Assassin.
 #EX:
  
-#JP:シルハ゛ーナイト.
-#EN:
-#EX:
  
 #JP:シルハ゛ーナイト.
-#EN:
+#EN:Silver Knight.
 #EX:
  
+ 
 #JP:シルハ゛ーナイト.
-#EN:
+#EN:Silver Knight.
 #EX:
+ 
+ 
+#JP:シルハ゛ーナイト.
+#EN:Silver Knight.
+#EX:
+ 
  
 #JP:キャフ゜テン.
-#EN:
+#EN:Captain.
 #EX:
+ 
  
 #JP:キャフ゜テン.
-#EN:
+#EN:Captain.
 #EX:
  
-#JP:ホークロート゛.
-#EN:
-#EX:
  
 #JP:ホークロート゛.
-#EN:
+#EN:Hawk Lord.
 #EX:
+ 
+ 
+#JP:ホークロート゛.
+#EN:Hawk Lord.
+#EX:
+ 
  
 #JP:クレリック.
-#EN:
+#EN:Cleric.
 #EX:
+ 
  
 #JP:ネクロマンサー.
-#EN:
+#EN:Necromancer.
 #EX:
  
-#JP:ソーサラー.
-#EN:
-#EX:
  
 #JP:ソーサラー.
-#EN:
+#EN:Sorcerer.
 #EX:
  
+ 
 #JP:ソーサラー.
-#EN:
+#EN:Sorcerer.
 #EX:
+ 
+ 
+#JP:ソーサラー.
+#EN:Sorcerer.
+#EX:
+ 
  
 #JP:ハ゜ラテ゛ィン.
-#EN:
+#EN:Paladin.
 #EX:
  
+ 
 #JP:ハ゜ラテ゛ィン.
-#EN:
+#EN:Paladin.
 #EX:
+ 
  
 #JP:ケルヘ゛ロス.
-#EN:
+#EN:Kerberos.
 #EX:
+ 
  
 #JP:テ゛ュラハン.
-#EN:
+#EN:Dullahan.
 #EX:
+ 
  
 #JP:リッチ.
-#EN:
+#EN:Lich.
 #EX:
+ 
  
 #JP:サーヘ゜ント.
-#EN:
+#EN:Serpent.
 #EX:
+ 
  
 #JP:ワイハ゛ーン.
-#EN:
+#EN:Wyvern.
 #EX:
  
-#JP:ハイロート゛.
-#EN:
-#EX:
  
 #JP:ハイロート゛.
-#EN:
+#EN:High Lord.
 #EX:
  
+ 
 #JP:ハイロート゛.
-#EN:
+#EN:High Lord.
 #EX:
+ 
+ 
+#JP:ハイロート゛.
+#EN:High Lord.
+#EX:
+ 
  
 #JP:ソート゛マン.
-#EN:
+#EN:Swordsman.
 #EX:
+ 
  
 #JP:ソート゛マン.
-#EN:
+#EN:Swordsman.
 #EX:
  
-#JP:ハイランタ゛ー.
-#EN:
-#EX:
  
 #JP:ハイランタ゛ー.
-#EN:
+#EN:Highlander.
 #EX:
  
+ 
 #JP:ハイランタ゛ー.
-#EN:
+#EN:Highlander.
 #EX:
+ 
+ 
+#JP:ハイランタ゛ー.
+#EN:Highlander.
+#EX:
+ 
  
 #JP:サーヘ゜ンナイト.
-#EN:
+#EN:Serpent Knight.
 #EX:
+ 
  
 #JP:ク゛ラテ゛ィエーター.
-#EN:
+#EN:Gladiator.
 #EX:
  
-#JP:ト゛ラコ゛ンナイト.
-#EN:
-#EX:
  
 #JP:ト゛ラコ゛ンナイト.
-#EN:
+#EN:Dragon Knight.
 #EX:
+ 
+ 
+#JP:ト゛ラコ゛ンナイト.
+#EN:Dragon Knight.
+#EX:
+ 
  
 #JP:フ゜リースト.
-#EN:
+#EN:Priest.
 #EX:
+ 
  
 #JP:サモナー.
-#EN:
+#EN:Summoner.
 #EX:
  
-#JP:メイシ゛.
-#EN:
-#EX:
  
 #JP:メイシ゛.
-#EN:
+#EN:Mage.
 #EX:
  
+ 
 #JP:メイシ゛.
-#EN:
+#EN:Mage.
 #EX:
+ 
+ 
+#JP:メイシ゛.
+#EN:Mage.
+#EX:
+ 
  
 #JP:セイント.
-#EN:
+#EN:Saint.
 #EX:
  
+ 
 #JP:セイント.
-#EN:
+#EN:Saint.
 #EX:
+ 
  
 #JP:ユニコーンナイト.
-#EN:
+#EN:Unicorn Knight.
 #EX:
+ 
  
 #JP:ミノタウロス.
-#EN:
+#EN:Minotaur.
 #EX:
+ 
  
 #JP:リヒ゛ンク゛アーマー.
-#EN:
+#EN:Living Armor.
 #EX:
+ 
  
 #JP:サキュハ゛ス.
-#EN:
+#EN:Succubus.
 #EX:
+ 
  
 #JP:クラーケン.
-#EN:
+#EN:Kraken.
 #EX:
+ 
  
 #JP:フェニックス.
-#EN:
+#EN:Phoenix.
 #EX:
  
-#JP:シ゛ェネラル.
-#EN:
-#EX:
  
 #JP:シ゛ェネラル.
-#EN:
+#EN:General.
 #EX:
  
+ 
 #JP:シ゛ェネラル.
-#EN:
+#EN:General.
 #EX:
+ 
+ 
+#JP:シ゛ェネラル.
+#EN:General.
+#EX:
+ 
  
 #JP:ソート゛マスター.
-#EN:
+#EN:Sword Master.
 #EX:
+ 
  
 #JP:ソート゛マスター.
-#EN:
+#EN:Sword Master.
 #EX:
  
-#JP:ナイトマスター.
-#EN:
-#EX:
  
 #JP:ナイトマスター.
-#EN:
+#EN:Knight Master.
 #EX:
  
+ 
 #JP:ナイトマスター.
-#EN:
+#EN:Knight Master.
 #EX:
+ 
+ 
+#JP:ナイトマスター.
+#EN:Knight Master.
+#EX:
+ 
  
 #JP:サーヘ゜ンロート゛.
-#EN:
+#EN:Serpent Lord.
 #EX:
+ 
  
 #JP:ハ゜イレーツ.
-#EN:
+#EN:Pirate.
 #EX:
  
-#JP:ト゛ラコ゛ンロート゛.
-#EN:
-#EX:
  
 #JP:ト゛ラコ゛ンロート゛.
-#EN:
+#EN:Dragon Lord.
 #EX:
+ 
+ 
+#JP:ト゛ラコ゛ンロート゛.
+#EN:Dragon Lord.
+#EX:
+ 
  
 #JP:ハイフ゜リースト.
-#EN:
+#EN:High Priest.
 #EX:
+ 
  
 #JP:サ゛ーウ゛ェラー.
-#EN:
+#EN:Zauberer.
 #EX:
+ 
  
 #JP:サ゛ーウ゛ェラー.
-#EN:
+#EN:Zauberer.
 #EX:
  
-#JP:アークメイシ゛.
-#EN:
-#EX:
  
 #JP:アークメイシ゛.
-#EN:
+#EN:Arch Mage.
 #EX:
  
+ 
 #JP:アークメイシ゛.
-#EN:
+#EN:Arch Mage.
 #EX:
+ 
+ 
+#JP:アークメイシ゛.
+#EN:Arch Mage.
+#EX:
+ 
  
 #JP:セーシ゛.
-#EN:
+#EN:Sage.
 #EX:
+ 
  
 #JP:セーシ゛.
-#EN:
+#EN:Sage.
 #EX:
  
-#JP:レンシ゛ャー.
-#EN:
-#EX:
  
 #JP:レンシ゛ャー.
-#EN:
+#EN:Ranger.
 #EX:
+ 
+ 
+#JP:レンシ゛ャー.
+#EN:Ranger.
+#EX:
+ 
  
 #JP:マスターテ゛ィーノ.
-#EN:
+#EN:Master Dino.
 #EX:
+ 
  
 #JP:ストーンコ゛ーレム.
-#EN:
+#EN:Stone Golem.
 #EX:
+ 
  
 #JP:ハ゛ンハ゜イアロート゛.
-#EN:
+#EN:Vampire Lord.
 #EX:
+ 
  
 #JP:イェルムンカ゛ルト゛.
-#EN:
+#EN:Jormungand.
 #EX:
+ 
  
 #JP:ク゛レートト゛ラコ゛ン.
-#EN:
+#EN:Great Dragon.
 #EX:
+ 
  
 #JP:キンク゛.
-#EN:
+#EN:King.
 #EX:
+ 
  
 #JP:エンヘ゜ラー.
-#EN:
+#EN:Emperor.
 #EX:
  
-#JP:ヒーロー.
-#EN:
-#EX:
  
 #JP:ヒーロー.
-#EN:
+#EN:Hero.
 #EX:
  
+ 
 #JP:ヒーロー.
-#EN:
+#EN:Hero.
 #EX:
+ 
+ 
+#JP:ヒーロー.
+#EN:Hero.
+#EX:
+ 
  
 #JP:クィーン.
-#EN:
+#EN:Queen.
 #EX:
  
-#JP:ロイヤルカ゛ート゛.
-#EN:
-#EX:
  
 #JP:ロイヤルカ゛ート゛.
-#EN:
+#EN:Royal Guard.
 #EX:
  
-#JP:ロイヤルカ゛ート゛.
-#EN:
-#EX:
  
 #JP:ロイヤルカ゛ート゛.
-#EN:
+#EN:Royal Guard.
 #EX:
+ 
+ 
+#JP:ロイヤルカ゛ート゛.
+#EN:Royal Guard.
+#EX:
+ 
+ 
+#JP:ロイヤルカ゛ート゛.
+#EN:Royal Guard.
+#EX:
+ 
  
 #JP:サーヘ゜ンマスター.
-#EN:
+#EN:Serpent Master.
 #EX:
+ 
  
 #JP:ト゛ラコ゛ンマスター.
-#EN:
+#EN:Dragon Master.
 #EX:
+ 
  
 #JP:エーシ゛ェント.
-#EN:
+#EN:Agent.
 #EX:
+ 
  
 #JP:タ゛ークマスター.
-#EN:
+#EN:Dark Master.
 #EX:
+ 
  
 #JP:タ゛ークマスター.
-#EN:
+#EN:Dark Master.
 #EX:
  
-#JP:ウィサ゛ート゛.
-#EN:
-#EX:
  
 #JP:ウィサ゛ート゛.
-#EN:
+#EN:Wizard.
 #EX:
  
-#JP:ウィサ゛ート゛.
-#EN:
-#EX:
  
 #JP:ウィサ゛ート゛.
-#EN:
+#EN:Wizard.
 #EX:
+ 
+ 
+#JP:ウィサ゛ート゛.
+#EN:Wizard.
+#EX:
+ 
+ 
+#JP:ウィサ゛ート゛.
+#EN:Wizard.
+#EX:
+ 
  
 #JP:フ゜リンセス.
-#EN:
+#EN:Princess.
 #EX:
+ 
  
 #JP:ソーサラー.
-#EN:
+#EN:Sorcerer.
 #EX:
  
-#JP:ハイマスター.
-#EN:
-#EX:
  
 #JP:ハイマスター.
-#EN:
+#EN:High Master.
 #EX:
+ 
+ 
+#JP:ハイマスター.
+#EN:High Master.
+#EX:
+ 
  
 #JP:モンク.
-#EN:
+#EN:Monk.
 #EX:
+ 
  
 #JP:ハ゛ーハ゛リアン.
-#EN:
+#EN:Barbarian.
 #EX:
  
-#JP:ソルシ゛ャー.
-#EN:
-#EX:
  
 #JP:ソルシ゛ャー.
-#EN:
+#EN:Soldier.
 #EX:
  
+ 
 #JP:ソルシ゛ャー.
-#EN:
+#EN:Soldier.
 #EX:
+ 
+ 
+#JP:ソルシ゛ャー.
+#EN:Soldier.
+#EX:
+ 
  
 #JP:ハ゛ーサーカー.
-#EN:
+#EN:Berzerker.
 #EX:
  
-#JP:ク゛レナテ゛ィーア.
-#EN:
-#EX:
  
 #JP:ク゛レナテ゛ィーア.
-#EN:
+#EN:Grenadier.
 #EX:
  
+ 
 #JP:ク゛レナテ゛ィーア.
-#EN:
+#EN:Grenadier.
 #EX:
+ 
+ 
+#JP:ク゛レナテ゛ィーア.
+#EN:Grenadier.
+#EX:
+ 
  
 #JP:タ゛ークカ゛ート゛.
-#EN:
+#EN:Dark Guard.
 #EX:
+ 
  
 #JP:ランサー.
-#EN:
+#EN:Lancer.
 #EX:
  
-#JP:トルーハ゜ー.
-#EN:
-#EX:
  
 #JP:トルーハ゜ー.
-#EN:
+#EN:Trooper.
 #EX:
+ 
+ 
+#JP:トルーハ゜ー.
+#EN:Trooper.
+#EX:
+ 
  
 #JP:ヘルハウント゛.
-#EN:
+#EN:Hellhound.
 #EX:
+ 
  
 #JP:ロイヤルランサー.
-#EN:
+#EN:Royal Lancer.
 #EX:
  
-#JP:ト゛ラク゛ーン.
-#EN:
-#EX:
  
 #JP:ト゛ラク゛ーン.
-#EN:
+#EN:Dragoon.
 #EX:
+ 
+ 
+#JP:ト゛ラク゛ーン.
+#EN:Dragoon.
+#EX:
+ 
  
 #JP:ホ゛ーンテ゛ィーノ.
-#EN:
+#EN:Bone Dino.
 #EX:
+ 
  
 #JP:ハ゜イク.
-#EN:
+#EN:Pikemen.
 #EX:
+ 
  
 #JP:ハ゜イク.
-#EN:
+#EN:Pikemen.
 #EX:
+ 
  
 #JP:ハ゜イク.
-#EN:
+#EN:Pikemen.
 #EX:
  
-#JP:ファランクス.
-#EN:
-#EX:
  
 #JP:ファランクス.
-#EN:
+#EN:Phalanx.
 #EX:
  
+ 
 #JP:ファランクス.
-#EN:
+#EN:Phalanx.
 #EX:
+ 
+ 
+#JP:ファランクス.
+#EN:Phalanx.
+#EX:
+ 
  
 #JP:コ゛ーレム.
-#EN:
+#EN:Golem.
 #EX:
  
-#JP:エルフ.
-#EN:
-#EX:
  
 #JP:エルフ.
-#EN:
+#EN:Elf.
 #EX:
  
+ 
 #JP:エルフ.
-#EN:
+#EN:Elf.
 #EX:
+ 
+ 
+#JP:エルフ.
+#EN:Elf.
+#EX:
+ 
  
 #JP:タ゛ークエルフ.
-#EN:
+#EN:Dark Elf.
 #EX:
  
-#JP:ハイエルフ.
-#EN:
-#EX:
  
 #JP:ハイエルフ.
-#EN:
+#EN:High Elf.
 #EX:
+ 
+ 
+#JP:ハイエルフ.
+#EN:High Elf.
+#EX:
+ 
  
 #JP:クロウラー.
-#EN:
+#EN:Crawler.
 #EX:
+ 
  
 #JP:ウィッチ.
-#EN:
+#EN:Witch.
 #EX:
  
-#JP:ハ゛リスタ.
-#EN:
-#EX:
  
 #JP:ハ゛リスタ.
-#EN:
+#EN:Ballista.
 #EX:
  
+ 
 #JP:ハ゛リスタ.
-#EN:
+#EN:Ballista.
 #EX:
+ 
+ 
+#JP:ハ゛リスタ.
+#EN:Ballista.
+#EX:
+ 
  
 #JP:?アント.
-#EN:
+#EN:Ant.
 #EX:
+ 
  
 #JP:レイス.
-#EN:
+#EN:Ghost.
 #EX:
+ 
  
 #JP:スヘ゜クター.
-#EN:
+#EN:Spectre.
 #EX:
+ 
  
 #JP:テ゛ーモン.
-#EN:
+#EN:Demon.
 #EX:
+ 
  
 #JP:アークテ゛ーモン.
-#EN:
+#EN:Arch Demon.
 #EX:
+ 
  
 #JP:マーマン.
-#EN:
+#EN:Mermen.
 #EX:
+ 
  
 #JP:マーマン.
-#EN:
+#EN:Mermen.
 #EX:
+ 
  
 #JP:リサ゛ート゛マン.
-#EN:
+#EN:Lizardman.
 #EX:
+ 
  
 #JP:リサ゛ート゛マン.
-#EN:
+#EN:Lizardman.
 #EX:
+ 
  
 #JP:ニクシー.
-#EN:
+#EN:Nixie.
 #EX:
+ 
  
 #JP:ニクシー.
-#EN:
+#EN:Nixie.
 #EX:
+ 
  
 #JP:リウ゛ァイアサン.
-#EN:
+#EN:Leviathan.
 #EX:
+ 
  
 #JP:リウ゛ァイアサン.
-#EN:
+#EN:Leviathan.
 #EX:
  
-#JP:ハーヒ゜ー.
-#EN:
-#EX:
  
 #JP:ハーヒ゜ー.
-#EN:
+#EN:Harpy.
 #EX:
+ 
+ 
+#JP:ハーヒ゜ー.
+#EN:Harpy.
+#EX:
+ 
  
 #JP:フェアリー.
-#EN:
+#EN:Fairy.
 #EX:
+ 
  
 #JP:ハ゛ット.
-#EN:
+#EN:Bat.
 #EX:
  
-#JP:ク゛リフォン.
-#EN:
-#EX:
  
 #JP:ク゛リフォン.
-#EN:
+#EN:Griffin.
 #EX:
+ 
+ 
+#JP:ク゛リフォン.
+#EN:Griffin.
+#EX:
+ 
  
 #JP:エンシ゛ェル.
-#EN:
+#EN:Angel.
 #EX:
+ 
  
 #JP:カ゛ーコ゛イル.
-#EN:
+#EN:Gargoyle.
 #EX:
+ 
  
 #JP:モンク.
-#EN:
+#EN:Monk.
 #EX:
+ 
  
 #JP:ハ゛ーハ゛リアン.
-#EN:
+#EN:Barbarian.
 #EX:
  
+ 
 #JP:クルセイタ゛ー.
-#EN:
+#EN:Crusader.
 #EX:
+ 
  
 #JP:クイーンアント.
-#EN:
+#EN:Queen Ant.
 #EX:
+ 
  
 #JP:ハ゛ーハ゛リアン.
-#EN:
+#EN:Barbarian.
 #EX:
+ 
  
 #JP:ハ゛ーハ゛リアン.
-#EN:
+#EN:Barbarian.
 #EX:
  
-#JP:ハ゛ンテ゛ィット゛.
-#EN:
-#EX:
  
 #JP:ハ゛ンテ゛ィット゛.
-#EN:
+#EN:Bandit.
 #EX:
+ 
+ 
+#JP:ハ゛ンテ゛ィット゛.
+#EN:Bandit.
+#EX:
+ 
  
 #JP:ソ゛ンヒ゛.
-#EN:
+#EN:Zombie.
 #EX:
+ 
  
 #JP:スケルトン.
-#EN:
+#EN:Skeleton.
 #EX:
+ 
  
 #JP:ウルフマン.
-#EN:
+#EN:Wolfman.
 #EX:
+ 
  
 #JP:オーカ゛ー.
-#EN:
+#EN:Ogre.
 #EX:
+ 
  
 #JP:ケ゛ル.
-#EN:
+#EN:Gel.
 #EX:
+ 
  
 #JP:エレメンタル.
-#EN:
+#EN:Elemental.
 #EX:
+ 
  
 #JP:シヒ゛リアン.
-#EN:
+#EN:Civilian.
 #EX:
+ 
  
 #JP:ウ゛ァルキリー.
-#EN:
+#EN:Valkyrie.
 #EX:
+ 
  
 #JP:フレイヤ.
-#EN:
+#EN:Freiya.
 #EX:
+ 
  
 #JP:ホワイトト゛ラコ゛ン.
-#EN:
+#EN:White Dragon.
 #EX:
+ 
  
 #JP:サラマンタ゛ー.
-#EN:
+#EN:Salamander.
 #EX:
+ 
  
 #JP:アイアンコ゛ーレム.
-#EN:
+#EN:Iron Golem.
 #EX:
+ 
  
 #JP:テ゛ーモンロート゛.
-#EN:
+#EN:Demon Lord.
 #EX:
+ 
  
 #JP:スレイフ゜ニル.
-#EN:
+#EN:Sleipnir.
 #EX:
+ 
  
 #JP:フェンリル.
-#EN:
+#EN:Fenrir.
 #EX:
+ 
  
 #JP:アニキ.
-#EN:
+#EN:Aniki.
 #EX:
+ 
  
 #JP:ヒ゛ルタ゛ー.
-#EN:
+#EN:Builder.
 #EX:
+ 
  
 #JP:キンク゛.
-#EN:
+#EN:King.
 #EX:
  
-#JP:エンヘ゜ラー.
-#EN:
-#EX:
  
 #JP:エンヘ゜ラー.
-#EN:
+#EN:Emperor.
 #EX:
+ 
+ 
+#JP:エンヘ゜ラー.
+#EN:Emperor.
+#EX:
+ 
  
 #JP:アサシン.
-#EN:
+#EN:Assassin.
 #EX:
  
-#JP:シャーマン.
-#EN:
-#EX:
  
 #JP:シャーマン.
-#EN:
+#EN:Shaman.
 #EX:
+ 
+ 
+#JP:シャーマン.
+#EN:Shaman.
+#EX:
+ 
  
 #JP:シルハ゛ーナイト.
-#EN:
+#EN:Silver Knight.
 #EX:
+ 
  
 #JP:ナイトマスター.
-#EN:
+#EN:Knight Master.
 #EX:
  
+ 
 #JP:シルハ゛ーナイト.
-#EN:
+#EN:Silver Knight.
 #EX:
+ 
  
 #JP:ロート゛.
-#EN:
+#EN:Lord.
 #EX:
+ 
  
 #JP:サ゛ーウ゛ェラー.
-#EN:
+#EN:Zauberer.
 #EX:
+ 
  
 #JP:ト゛ラコ゛ンロート゛.
-#EN:
+#EN:Dragon Lord.
 #EX:
  
+ 
 #JP:アークメイシ゛.
-#EN:
+#EN:Arch Mage.
 #EX:
+ 
  
 #JP:ハ゜ラテ゛ィン.
-#EN:
+#EN:Paladin.
 #EX:
+ 
  
 #JP:モンク.
-#EN:
+#EN:Monk.
 #EX:
  
+ 
 #JP:ナイト.
-#EN:
+#EN:Knight.
 #EX:
+ 
  
 #JP:トルーハ゜ー.
-#EN:
+#EN:Trooper.
 #EX:
  
+ 
 #JP:ク゛ランナイト.
-#EN:
+#EN:Grand Knight.
 #EX:
+ 
  
 #JP:アサシン.
-#EN:
+#EN:Assassin.
 #EX:
+ 
  
 #JP:ハ゛ーサーカー.
-#EN:
+#EN:Berzerker.
 #EX:
+ 
  
 #JP:クルセイタ゛ー.
-#EN:
+#EN:Crusader.
 #EX:
+ 
  
 #JP:リウ゛ァイアサン.
-#EN:
+#EN:Leviathan.
 #EX:
+ 
  
 #JP:ウィサ゛ート゛.
-#EN:
+#EN:Wizard.
 #EX:
  
+ 
 #JP:ハイフ゜リースト.
-#EN:
+#EN:High Priest.
 #EX:
+ 
  
 #JP:カオス.
-#EN:
+#EN:Chaos.
 #EX:
+ 
  
 #JP:ヒ゛ショッフ゜.
-#EN:
+#EN:Bishop.
 #EX:
+ 
  
 #JP:ルシリス.
-#EN:
+#EN:Lushiris.
 #EX:
+ 
  
 #JP:ソーサラー.
-#EN:
+#EN:Sorcerer.
 #EX:
+ 
  
 #JP:シルハ゛ーナイト.
-#EN:
+#EN:Silver Knight.
 #EX:
+ 
  
 #JP:ネクロマンサー.
-#EN:
+#EN:Necromancer.
 #EX:
  
+ 
 #JP:セイント.
-#EN:
+#EN:Saint.
 #EX:
+ 
  
 #JP:メイシ゛.
-#EN:
+#EN:Mage.
 #EX:
  
+ 
 #JP:ソート゛マン.
-#EN:
+#EN:Swordsman.
 #EX:
+ 
  
 #JP:ハ゛シ゛リスク.
-#EN:
+#EN:Basilisk.
 #EX:
+ 
  
 #JP:セイント.
-#EN:
+#EN:Saint.
 #EX:
+ 
  
 #JP:サモナー.
-#EN:
+#EN:Summoner.
 #EX:
+ 
  
 #JP:ソート゛マン.
-#EN:
+#EN:Swordsman.
 #EX:
+ 
  
 #JP:サーヘ゜ンナイト.
-#EN:
+#EN:Serpent Knight.
 #EX:
+ 
  
 #JP:フ゜リースト.
-#EN:
+#EN:Priest.
 #EX:
+ 
  
 #JP:ホークナイト.
-#EN:
+#EN:Hawk Knight.
 #EX:
+ 
  
 #JP:ト゛ラコ゛ンロート゛.
-#EN:
+#EN:Dragon Lord.
 #EX:
  
-#JP:セーシ゛.
-#EN:
-#EX:
  
 #JP:セーシ゛.
-#EN:
+#EN:Sage.
 #EX:
+ 
+ 
+#JP:セーシ゛.
+#EN:Sage.
+#EX:
+ 
  
 #JP:アークメイシ゛.
-#EN:
+#EN:Arch Mage.
 #EX:
+ 
  
 #JP:シ゛ェネラル.
-#EN:
+#EN:General.
 #EX:
  
+ 
 #JP:ソート゛マスター.
-#EN:
+#EN:Sword Master.
 #EX:
+ 
  
 #JP:サーヘ゜ンロート゛.
-#EN:
+#EN:Serpent Lord.
 #EX:
+ 
  
 #JP:ソート゛マスター.
-#EN:
+#EN:Sword Master.
 #EX:
+ 
  
 #JP:ハイフ゜リースト.
-#EN:
+#EN:High Priest.
 #EX:
+ 
  
 #JP:イフリート.
-#EN:
+#EN:Efreet.
 #EX:
+ 
  
 #JP:シ゛ェネラル.
-#EN:
+#EN:General.
 #EX:
  
-#JP:ク゛ランナイト.
-#EN:
-#EX:
  
 #JP:ク゛ランナイト.
-#EN:
+#EN:Grand Knight.
 #EX:
+ 
+ 
+#JP:ク゛ランナイト.
+#EN:Grand Knight.
+#EX:
+ 
  
 #JP:ナイト.
-#EN:
+#EN:Knight.
 #EX:
- 
