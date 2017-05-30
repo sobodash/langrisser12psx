@@ -5,295 +5,295 @@
  
 #MT:ホーキング
 #JP:どうやら/8地下神殿のようですな。
-#EN:
+#EN:It looks like this might be the/8underground sanctuary.
 #EX:
  
  
 #MT:アルバート
 #JP:むっ！/8敵に囲まれているぞ！
-#EN:
+#EN:Huh?!/8We're surrounded by enemies!
 #EX:
  
  
 #MT:ニコリス
 #JP:バカな奴らだ‥‥。/6/7まんまとワナに/8はまりおったか。
-#EN:
+#EN:What idiots.../6/7/8I can't believe you fell so/8easily into my trap.
 #EX:
  
  
 #MT:テイラー
 #JP:もうあきらめたらどうだ！/6/7お前もナーギャのように/8なりたいのか！
-#EN:
+#EN:Arrr... this fight be just/8beginnin'!/6/7/8Ye best give up!/8Unless ya wanna end up like yer/8mate, Nagya?
 #EX:
  
  
 #MT:ニコリス
 #JP:ナーギャ？/6/7フン！/8あんな者、かわりは/8いくらでもおるわ！/6/7そこいらにいる人間に/8私の術をかけるだけで/8よいのだからな。
-#EN:
+#EN:Nagya?/8Ha ha ha, end up like Nagya,/8indeed./6/7/8That man was an expendable idiot/8who is be easily replaced./6/7/8All I need is another man to/8cast my magic on.
 #EX:
  
  
 #MT:ナーム
 #JP:あなたは最低の人間だわ！
-#EN:
+#EN:You are the lowest scum/8humanity has to offer!
 #EX:
  
  
 #MT:ニコリス
 #JP:人のもつ欲望は/8強力な力を生むからな。/6/7そういえば‥‥/8ダルシス帝国のディゴスという/8男に、ラングリッサーを/8強奪させた事もあったな。/6/7自分が操られている事に/8気付きもしないとは、/8ゆかいな話だな。
-#EN:
+#EN:My magic works best when the/8person already has exceptional/8power./6/7/8That's why... that Dalshis/8Emperor, Digos, served me so/8well. Why, he even managed to/8obtain Langrisser for me./6/7/8Or weren't you aware of his/8involvement, yet?
 #EX:
  
  
 #MT:クリス
 #JP:あなたの、あなたのために/8今まで何人の人々が/8苦しんできたと思っているの！
-#EN:
+#EN:... You... You.../8Do you have ANY idea how much/8suffering you have caused!
 #EX:
  
  
 #MT:ニコリス
 #JP:ほざくがいい！/6/7ではさらばだ、諸君！
-#EN:
+#EN:Talk is cheap!/6/7/8Now anyway, I must bid you/8farewell, ladies and gents.
 #EX:
  
  
 #MT:レディン
 #JP:急げ！/6/7やつらに呪文を唱えさせるな！
-#EN:
+#EN:Hurry!/6/7/8He may try to put another curse/8on one of us!
 #EX:
  
  
 #MT:ニコリス
 #JP:愚か者どもめ！/6/7我が手の中で、死ぬまで/8おどり続けるがいい！
-#EN:
+#EN:Damnable fools!/6/7/8I could crush your life in the/8palm of my hand!
 #EX:
  
  
 #MT:レディン
 #JP:負けるものか！
-#EN:
+#EN:I'll never be defeated!
 #EX:
  
  
 #MT:ニコリス
 #JP:愚か者め！/6/7己れの非力さを/8思い知ったか
-#EN:
+#EN:Fools!/6/7/8Don't you realize how powerless/8you are?!
 #EX:
  
  
 #MT:レディン
 #JP:クソッ！/6/7ここまでか‥‥。
-#EN:
+#EN:Guah!/6/7/8This is the end...
 #EX:
  
  
 #MT:ナーム
 #JP:くらえ！
-#EN:
+#EN:Take this!
 #EX:
  
  
 #MT:ナーム
 #JP:まだ剣の修業が/8足りないのかしら？
-#EN:
+#EN:Maybe I need a few more years/8of studying the sword...?
 #EX:
  
  
 #MT:ソーン
 #JP:このヤロー！
-#EN:
+#EN:These assholes!
 #EX:
  
  
 #MT:ソーン
 #JP:ダメだ！/6/7足をやられた！
-#EN:
+#EN:It's no use!/6/7/8I can't move my feet!
 #EX:
  
  
 #MT:クリス
 #JP:私だって/8怒る時があるのよ！
-#EN:
+#EN:You're really starting to piss/8me off!
 #EX:
  
  
 #MT:クリス
 #JP:キャッ！
-#EN:
+#EN:Eeeek!
 #EX:
  
  
 #MT:テイラー
 #JP:そう簡単に/8倒せるものか！
-#EN:
+#EN:I'll bring you down easily!!
 #EX:
  
  
 #MT:テイラー
 #JP:クッ‥‥/6/7不覚！
-#EN:
+#EN:Guh.../6/7/8I've failed!
 #EX:
  
  
 #MT:ジェシカ
 #JP:これ以上、思い通りには/8いかせませんわ。
-#EN:
+#EN:I won't let you have our world!
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ‥‥
-#EN:
+#EN:Aaah...
 #EX:
  
  
 #MT:アルバート
 #JP:死んでもらおう！
-#EN:
+#EN:Die!
 #EX:
  
  
 #MT:アルバート
 #JP:ここまでのようだな‥‥
-#EN:
+#EN:This is the end of the line/8for me...
 #EX:
  
  
 #MT:ホーキング
 #JP:この世界をお前達の/8好きなようにはさせんぞ！
-#EN:
+#EN:I won't let you do as you please/8with our world!
 #EX:
  
  
 #MT:ホーキング
 #JP:いかん！
-#EN:
+#EN:Oh no!
 #EX:
  
  
 #MT:ラーカス
 #JP:この私に挑む気か！
-#EN:
+#EN:Are you challenging me?
 #EX:
  
  
 #MT:ラーカス
 #JP:な、なぜだ‥‥/6/7この私が負けたのか？！
-#EN:
+#EN:Wh-Why...?!/6/7/8How could I defeated again...
 #EX:
  
  
 #MT:リーアップ
 #JP:えーい！/8こざかしい！
-#EN:
+#EN:Hyaaa!/8How clever!
 #EX:
  
  
 #MT:リーアップ
 #JP:そんな、バカな！/6/7ウワー！
-#EN:
+#EN:No way! Impossible!/8Uwaaa!
 #EX:
  
  
 #MT:マツニス
 #JP:えっ？！/6/7この私と戦うんですか？
-#EN:
+#EN:Eh?/6/7/8Who am I fighting, again?
 #EX:
  
  
 #MT:マツニス
 #JP:ウワー！/6/7やめてくれー！
-#EN:
+#EN:Uwaaaa!clsr>/8Stop it, please!
 #EX:
  
  
 #MT:ラミスローゼ
 #JP:私の手で永遠の眠りを/8与えてあげましょう！
-#EN:
+#EN:By my hand, I'll deliver you into/8eternal slumber!
 #EX:
  
  
 #MT:ラミスローゼ
 #JP:ボ、ボーゼル様‥‥
-#EN:
+#EN:M... Master Boser...!
 #EX:
  
  
 #MT:アルファーン
 #JP:死んでもらいましょうか。
-#EN:
+#EN:Do you want to die?
 #EX:
  
  
 #MT:アルファーン
 #JP:そんなはずでは‥‥
-#EN:
+#EN:I went as far as I could...
 #EX:
  
  
 #MT:モルガン
 #JP:しかたない‥‥。/6/7望み通り殺してあげますよ。
-#EN:
+#EN:You're bound to fail, but do as/8you wish.
 #EX:
  
  
 #MT:モルガン
 #JP:ギャー！
-#EN:
+#EN:Kyaaa!
 #EX:
  
  
 #MT:オーザ
 #JP:お前らは/8ここで皆殺しだ！
-#EN:
+#EN:I'll murder you all!
 #EX:
  
  
 #MT:オーザ
 #JP:ウエッ！/6/7私の負けだ‥‥
-#EN:
+#EN:Uweeee!/6/7/8I've bee defeated...
 #EX:
  
  
 #MT:ニコリス
 #JP:きさまらを我が下僕と/8してやろう。/6/7闇の世界は楽しいぞぉ！
-#EN:
+#EN:I'll defeat all of you./6/7/8Then our world of darkness can/8begin!
 #EX:
  
  
 #MT:ニコリス
 #JP:私を倒したところで、/8もう遅いわ。すでに/8ボーゼル様は闇の力を‥‥/6/7うっ！グフッ！
-#EN:
+#EN:Even though I am beaten, Master/8Boser has already started our/8ancient god's revival.../6/7/8Ungh! Guwaaaa!
 #EX:
  
  
 #MT:ジェシカ
 #JP:王子、もう一刻の/8猶予もありません！
-#EN:
+#EN:Prince, we cannot waste/8another moment!
 #EX:
  
  
 #MT:一般兵
 #JP:王子、もう一刻の/8猶予もありません！
-#EN:
+#EN:Prince, we cannot waste/8another moment!
 #EX:
  
  
 #MT:クリス
 #JP:/2様、/8下に向かう階段があります！
-#EN:
+#EN:Lord /2, I found a stairway/8descending into the darkness!
 #EX:
  
  
 #MT:一般兵
 #JP:/2様、/8下に向かう階段があります！
-#EN:
+#EN:Lord /2, I found a stairway/8descending into the darkness!
 #EX:
  
  
 #MT:レディン
 #JP:よし、二手に分かれる！/6/7ボーゼルの思うようには/8させないぞ！
-#EN:
+#EN:OK, let's break into two groups./6/7/8We'll find Boser... and destroy/8him!
 #EX:
  
  

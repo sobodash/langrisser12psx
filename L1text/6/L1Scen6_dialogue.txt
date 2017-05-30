@@ -5,415 +5,415 @@
  
 #MT:ベルヌーイ
 #JP:ええぃ！まだ落ちぬのか！/6/7攻撃を強めろ！/8叩きつぶせ！
-#EN:
+#EN:Eh? You STILL aren't dead?!/6/7/8Everyone, form up for a stronger/8attack!/8Let's crush that bastard!
 #EX:
  
  
 #MT:一般兵
 #JP:ハッ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:アルバート
 #JP:敵も本気だな‥‥
-#EN:
+#EN:Looks like these guys are getting/8serious...
 #EX:
  
  
 #MT:一般兵
 #JP:だめです！/8数が違いすぎます！/6/7このままでは全滅です！
-#EN:
+#EN:It's no good!/8We're badly outnumbered!/6/7/8If we continue like this, we'll/8be wiped out!
 #EX:
  
  
 #MT:アルバート
 #JP:弱音をはくな！/8必ず王子が助けに来てくれる！/6/7それまでがんばるんだ！
-#EN:
+#EN:Quit your bitching!/8We may be outnumbered, but we're/8not yet outmatched!/6/7/8The prince will come to help/8us for sure!/8Just do your best until then!
 #EX:
  
  
 #MT:レディン
 #JP:アンゼルの砦は、/8誰が守っている？
-#EN:
+#EN:Who is that defending Anzel/8Fortress?
 #EX:
  
  
 #MT:ナーム
 #JP:アルバート殿の隊です。
-#EN:
+#EN:If I'm not mistaken, that looks/8like Albert and his company.
 #EX:
  
  
 #MT:テイラー
 #JP:さすがだ、/8よく持ちこたえている。
-#EN:
+#EN:Sink me! I can scarce believe that/8landlubber's held out this long.
 #EX:
  
  
 #MT:レディン
 #JP:よし、/8敵を蹴散らすぞ！
-#EN:
+#EN:All right!/8Let's drive these guys out!
 #EX:
  
  
 #MT:ジェシカ
 #JP:いくらアルバート殿といえ/8そろそろ限界でしょう。
-#EN:
+#EN:I wonder how much longer Albert/8can hold that line?
 #EX:
  
  
 #MT:レディン
 #JP:急ぐんだ！/6/7急いでアルバートを/8助けるんだ！
-#EN:
+#EN:Hurry up!/6/7/8We need to help Albert as soon/8as possible!
 #EX:
  
  
 #MT:ソーン
 #JP:/2！/6/7貴様の思うようには/8させんぞ！
-#EN:
+#EN:/2!/6/7/8I'll pay you back for the/8humiliation I suffered before!
 #EX:
  
  
 #MT:レディン
 #JP:ランスか、邪魔をするな！
-#EN:
+#EN:Is that Lance?/8Damn, not again.
 #EX:
  
  
 #MT:ソーン
 #JP:そうはいかん。/8この前のかりは/8返させてもらう。/6/7行くぞ！
-#EN:
+#EN:That's right!/8I told you we'd cross swords/8again./6/7/8Today is that day!/8Have at you!
 #EX:
  
  
 #MT:アルバート
 #JP:王子だ！/6/7王子が助けに来てくれたぞ！/8みんな、もう少しのしんぼうだ！
-#EN:
+#EN:It's the prince!/6/7/8The prince himself came to help!/8Everyone! We just need to hold/8out a little longer!
 #EX:
  
  
 #MT:レディン
 #JP:待っていろ、アルバート！/6/7必ず助けてみせるぞ！
-#EN:
+#EN:Wait for me, Albert!/6/7/8I'll be there to help you soon!
 #EX:
  
  
 #MT:レディン
 #JP:待っていろ、アルバート！/6/7今、助けに行くぞ！
-#EN:
+#EN:Wait for me, Albert!/6/7/8I'm coming to help you right now!
 #EX:
  
  
 #MT:レディン
 #JP:邪魔をするな！
-#EN:
+#EN:Out of my way!
 #EX:
  
  
 #MT:レディン
 #JP:すまない、アルバート。/8私が先にやられるとは‥‥
-#EN:
+#EN:Sorry, Albert.../8It seems I've fallen early...
 #EX:
  
  
 #MT:ナーム
 #JP:これ以上、/8思い通りにはさせないわ！
-#EN:
+#EN:I can't let you continue to do/8as you please!
 #EX:
  
  
 #MT:ナーム
 #JP:アッ！
-#EN:
+#EN:Aaaah!
 #EX:
  
  
 #MT:一般兵
 #JP:ナーム様、さがって下さい！
-#EN:
+#EN:Narm, back off!
 #EX:
  
  
 #MT:ソーン
 #JP:まだ死にたくなかったら/8素直にそこをどくんだな！
-#EN:
+#EN:If you don't want to die,/8get the fuck out of my way!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/8腕をやられた！/6/7後はまかせる！
-#EN:
+#EN:Shit!/8My arm has had it!/6/7/8I'm have to leave the rest to you!
 #EX:
  
  
 #MT:クリス
 #JP:急がないと/8アルバートさんが危ないわ！
-#EN:
+#EN:Albert is in danger, we have to/8hurry!
 #EX:
  
  
 #MT:クリス
 #JP:いけない！
-#EN:
+#EN:This isn't good!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Eeeeek!
 #EX:
  
  
 #MT:テイラー
 #JP:海賊として名をはせた、/8その力をあじわえ！
-#EN:
+#EN:Avast! On the seas, all scallywags/8feared the name of Captain Tyler!/6/7/8Want to know why?/8Because dead men tell no tales,/8savvy?
 #EX:
  
  
 #MT:テイラー
 #JP:ちっ！/8この程度の敵に負けるとは/8なさけねぇ。
-#EN:
+#EN:Damn!/8These guys aren't going down/8without a fight, are they?
 #EX:
  
  
 #MT:ジェシカ
 #JP:許しませんよ！
-#EN:
+#EN:Hold it right there!
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ！
-#EN:
+#EN:Aaaah!
 #EX:
  
  
 #MT:アルバート
 #JP:ひるむな！/6/7一歩も引くな！/8王子がくるまで耐えるんだ！
-#EN:
+#EN:You must not falter! /6/7/8Don't fall back even one step!/8We have to hold out till the/8prince arrives!
 #EX:
  
  
 #MT:一般兵
 #JP:アルバート様！/6/7これ以上もちません！
-#EN:
+#EN:Lord Albert!/6/7/8The line is breaking!/8We can't hold out any more!
 #EX:
  
  
 #MT:アルバート
 #JP:くっ、仕方ない。/6/7下がって持久戦に/8持ち込むぞ！
-#EN:
+#EN:Damn, I'm helpless./6/7/8If I'm going down, I'm taking/8you with me!
 #EX:
  
  
 #MT:アルバート
 #JP:まだだ！/6/7まだ負けるわけにはいかん！
-#EN:
+#EN:Not yet!/8I won't be defeated yet!
 #EX:
  
  
 #MT:アルバート
 #JP:クッ！/6/7ここまでか！
-#EN:
+#EN:Guhh!/6/7/8Not here!
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7アンゼルの砦が落ちました‥‥。
-#EN:
+#EN:Lord /2!/6/7/8Anzel Fortress has fallen...
 #EX:
  
  
 #MT:レディン
 #JP:ア、アルバート‥‥。
-#EN:
+#EN:Al.. Albert...
 #EX:
  
  
 #MT:ベルヌーイ
 #JP:ええいっ！/8こんな小さな砦ごときに、/8いつまで手間取っている！/6/7私が手本を見せてやる！
-#EN:
+#EN:Yaaaaaa!/8How can you waste time with such/8a little fortress like this?/6/7/8I'll show you how it's done!
 #EX:
  
  
 #MT:ベルヌーイ
 #JP:くそっ！/8私は負けぬぞ！
-#EN:
+#EN:Shit!/8I won't be defeated!
 #EX:
  
  
 #MT:ベルヌーイ
 #JP:そ、そんなバカな！/6/7グフッ！
-#EN:
+#EN:N-No way!/6/7/8Guwaaa!
 #EX:
  
  
 #MT:ソーン
 #JP:チッ！/8攻撃は失敗か。/6/7ひきあげるぞ！
-#EN:
+#EN:Damn!/8Our attack failed./6/7/8Let's withdraw for now!
 #EX:
  
  
 #MT:レディン
 #JP:アルバート！/6/7アルバートはいるか！
-#EN:
+#EN:Albert!/6/7/8Albert, are you here?!
 #EX:
  
  
 #MT:アルバート
 #JP:ここにおります、王子。
-#EN:
+#EN:I'm here, prince.
 #EX:
  
  
 #MT:レディン
 #JP:大丈夫か？/6/7遅くなってすまぬ。
-#EN:
+#EN:Are you all right?/6/7/8It would be difficult for us to/8bring an injured man.
 #EX:
  
  
 #MT:アルバート
 #JP:このぐらい、/8大した事ではありません。
-#EN:
+#EN:They barely managed to scratch me.
 #EX:
  
  
 #MT:ジェシカ
 #JP:偵察隊の伝令によると/8敵の軍隊が後退していくのを/8発見したようです。
-#EN:
+#EN:According to the messenger from/8reconnaissance, it seems the enemy/8has begun to retreat.
 #EX:
  
  
 #MT:一般兵
 #JP:偵察隊の伝令によると/8敵の軍隊が後退していくのを/8発見したようです。
-#EN:
+#EN:According to the messenger from/8reconnaissance, it seems the enemy/8has begun to retreat.
 #EX:
  
  
 #MT:テイラー
 #JP:ここが落とせなかったので/8後続部隊が/8後退するつもりだな！
-#EN:
+#EN:Handsomley now, men!/6/7/8If we be havin' a chance in this/8war, we'll have to block their/8retreat!/6/7/8We'll chase them down!
 #EX:
  
  
 #MT:一般兵
 #JP:ここが落とせなかったので/8後続部隊が/8後退するつもりだな！
-#EN:
+#EN:Handsomley now, men!/6/7/8If we be havin' a chance in this/8war, we'll have to block their/8retreat!/6/7/8We'll chase them down!
 #EX:
  
  
 #MT:レディン
 #JP:よし、このまま追撃するぞ！
-#EN:
+#EN:OK, let's head after them!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:奴らを水上へ誘い込め！/6/7陸の上では戦うな！/8不利になるぞ！
-#EN:
+#EN:Avast! Come out for a swim, you/8scurvy dogs!/6/7/8I can't very well keelhaul ya on/8land!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:いざ、覚悟！
-#EN:
+#EN:Come on, prepare yourself!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:グフッ！
-#EN:
+#EN:Guhuu!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:我が騎兵隊の突撃、/8とくと味わえ！！
-#EN:
+#EN:Taste the power of our cavalry!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:死んでもらおう！
-#EN:
+#EN:Die!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:む、無念‥‥
-#EN:
+#EN:H-How regrettable...
 #EX:
  
  
 #MT:ネルウィー
 #JP:キサマらごときに/8俺が倒せるものか！/8あまい、あまいわっ！
-#EN:
+#EN:You think you assholes have what/8it takes to beat me?!/6/7/8I have news for you, you don't!
 #EX:
  
  
 #MT:ネルウィー
 #JP:こ、こんなハズでは‥‥
-#EN:
+#EN:This... this is fate...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:こしゃくな！
-#EN:
+#EN:Impudent fools!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:グワァー！
-#EN:
+#EN:Gwaaaah!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:いけー！
-#EN:
+#EN:Go!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:ダルシス帝国よ、永遠なれ！
-#EN:
+#EN:Glory to the Dalshis Empire/8forever!/6/7/8It's my time to visit Davey Jones's/8Locker...
 #EX:
  
  
 #MT:ソーン
 #JP:覚悟してもらおうか‥‥。
-#EN:
+#EN:I hope you're prepared...
 #EX:
  
  
 #MT:ソーン
 #JP:チィッ！/6/7またきさまらに敗北するとは！
-#EN:
+#EN:Damn!/6/7/8I'll be back to defeat you later!
 #EX:
  
  
 #MT:ライアス
 #JP:逃がすかぁー！
-#EN:
+#EN:Are you trying to flee!?
 #EX:
  
  
 #MT:ライアス
 #JP:くそう！
-#EN:
+#EN:Shit!
 #EX:
  
  
 #MT:ソーン
 #JP:お前にはまだ無理だ、さがっていろ！
-#EN:
+#EN:Just retreat!/6/7/8If you continue this/8foolishness, you'll die!
 #EX:
  
  
 #MT:ライアス
 #JP:は、はい。
-#EN:
+#EN:O-OK..
 #EX:
  
  

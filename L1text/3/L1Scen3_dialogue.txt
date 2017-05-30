@@ -5,367 +5,367 @@
  
 #MT:レディン
 #JP:ここが死霊の森か‥‥。/6/7かなり深い森だな。
-#EN:
+#EN:So this is the Forest of Death.../8It seems like we're in pretty/8deep.
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子、/8この森は危険です。/8急いで抜けましょう。
-#EN:
+#EN:Prince, this forest is dangerous./8We need to cross it as soon as/8possible.
 #EX:
  
  
 #MT:レディン
 #JP:そうだな。/6/7しかし何か様子が変だぞ。
-#EN:
+#EN:I guess so./6/7/8But have you noticed? Something/8seems odd.../6/7/8Like we're being watched.
 #EX:
  
  
 #MT:ナーム
 #JP:大変！/6/7化け物に囲まれているわ！
-#EN:
+#EN:We're in trouble!/6/7/8We've been surrounded by monsters!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:何と！/6/7奴らが組織的に動くとは！
-#EN:
+#EN:What?!/8Everyone form up! Prepare to/8defend!
 #EX:
  
  
 #MT:レディン
 #JP:来るぞ！/6/7気を付けろ！
-#EN:
+#EN:They're coming!/6/7/8Look out!
 #EX:
  
  
 #MT:ナーム
 #JP:普通の攻撃じゃ/8あまりダメージを/8与えられないわ！
-#EN:
+#EN:Ordinary attacks won't hurt/8these creatures!
 #EX:
  
  
 #MT:レディン
 #JP:兵力を分散せずに/8集中して戦うんだ！
-#EN:
+#EN:Don't let your troops spread/8out! Stay close together!
 #EX:
  
  
 #MT:ソーン
 #JP:こいつらは火に弱い！/6/7全軍突撃、/8一気に蹴散らしてしまえ！
-#EN:
+#EN:These things are weak against/8fire!/6/7/8All troops charge! Let's crush/8them!
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7今、お助けします！
-#EN:
+#EN:Lord /2!/6/7/8We're here to help you!
 #EX:
  
  
 #MT:レディン
 #JP:クリス！/6/7なぜここに？！
-#EN:
+#EN:Chris?!/8Why did you follow us here?!
 #EX:
  
  
 #MT:ナーム
 #JP:化け物が逃げ始めたわ！
-#EN:
+#EN:The monsters are trying to escape!
 #EX:
  
  
 #MT:レディン
 #JP:助かったか。/8しかし、なぜ化け物が‥‥？
-#EN:
+#EN:We're saved./8But why did the monsters...
 #EX:
  
  
 #MT:ソーン
 #JP:/2様、/6/7ご無事でしたか！
-#EN:
+#EN:Lord /2./6/7/8It's safe now!
 #EX:
  
  
 #MT:レディン
 #JP:ありがとう、助かったよ。
-#EN:
+#EN:Thank you, if it weren't for your/8help, I dare not think what could/8have become of us.
 #EX:
  
  
 #MT:ソーン
 #JP:私はソーンと申します。/6/7ホーキング公の命により、/8/2様の指揮下に/8入るために参りました。
-#EN:
+#EN:I talked with Thorn about/8following you./6/7/8Hawking was worried about you/8crossing the forest alone, so he/8asked us to help you.
 #EX:
  
  
 #MT:レディン
 #JP:それは心強い。
-#EN:
+#EN:I am again in his debt.
 #EX:
  
  
 #MT:クリス
 #JP:/2様。/6/7野盗から助けて頂いたお礼にと/8サルラスの人達からクロスを/8預かってきました。
-#EN:
+#EN:Lord /2./6/7/8In thanks for protecting them/8from the thieves, the people of/8Salrath wanted you to have/8this Cross.
 #EX:
  
  
 #MT:クリス
 #JP:あ、あの‥‥/2様、/8私も/2様の戦いに/8お供させてもらえませんか？
-#EN:
+#EN:Um... /2.../6/7/8I really want to be able to fight/8alongside you in this battle.
 #EX:
  
  
 #MT:レディン
 #JP:ダメだ、危険すぎる！
-#EN:
+#EN:No, it's too dangerous! I couldn't/8see you injured for my sake.
 #EX:
  
  
 #MT:クリス
 #JP:御願いです！/6/7決して足手まといには/8なりませんから‥‥
-#EN:
+#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won't get in your/8way...
 #EX:
  
  
 #MT:レディン
 #JP:‥‥わかったよ、クリス。/6/7これから共に戦おう。
-#EN:
+#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I'll be glad to have/8you with us.
 #EX:
  
  
 #MT:クリス
 #JP:ハ、ハイ！
-#EN:
+#EN:Thank you!
 #EX:
  
  
 #MT:
 #JP:デビルアックスを手に入れた！
-#EN:
+#EN:Obtained a Devil Axe!
 #EX:
  
  
 #MT:
 #JP:チェインメイルを手に入れた！
-#EN:
+#EN:Obtained a Chain Mail!
 #EX:
  
  
 #MT:レディン
 #JP:なぜだ？/6/7こいつらに知能は/8無いはずだぞ！
-#EN:
+#EN:What's going on?!/6/7/8Ordinary monsters shouldn't have/8been able to plan an ambush like/8this...!
 #EX:
  
  
 #MT:レディン
 #JP:あと少しでバルディアまで/8たどり着けたのに、/8こんな所で力つきるのか‥‥
-#EN:
+#EN:After making it so close to/8Baldea, can I really be finished/8in such a place...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ぬうっ！
-#EN:
+#EN:Nrgh...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:傷を負いすぎたか‥‥。/6/7王子、/8私はいったん退却します。
-#EN:
+#EN:I'm severely injured.../6/7/8Prince, I must retreat for now.
 #EX:
  
  
 #MT:ナーム
 #JP:こんな気味の悪い森で/8死ぬわけにはいかないわ！
-#EN:
+#EN:We won't fall prey to this/8Forest of Death!
 #EX:
  
  
 #MT:ナーム
 #JP:もう無理だわ。/6/7あとを頼みます！
-#EN:
+#EN:I can't go on./8The rest is up to you!
 #EX:
  
  
 #MT:ソーン
 #JP:化け物どもを/8火あぶりにしてやれ！
-#EN:
+#EN:Let's roast these bastards!
 #EX:
  
  
 #MT:一般兵
 #JP:ハッ！
-#EN:
+#EN:Yeah!
 #EX:
  
  
 #MT:ソーン
 #JP:えぇーい、/6/7うっとうしい奴らめ！
-#EN:
+#EN:Eh? These guys don't look/8so tough to me./6/7/8Let's make soup out of them!
 #EX:
  
  
 #MT:ソーン
 #JP:せっかく弱点を見つけたのに/8役に立たなかったのか？
-#EN:
+#EN:Even if we know their weakness,/8will it be any use?
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7ゲルは/8私たちに任せて下さい！
-#EN:
+#EN:Lord /2!/6/7/8Please leave the Gels to us!
 #EX:
  
  
 #MT:レディン
 #JP:すまない、クリス。
-#EN:
+#EN:I'm sorry Chris.../6/7/8Everyone, reinforcements are here!/8Hold strong!
 #EX:
  
  
 #MT:クリス
 #JP:キャー、気持ち悪い！/6/7こっちに来ないでー！
-#EN:
+#EN:Eww! This is so disgusting!/8They're all slimy!/6/7/8And they're coming this way!!!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！ベトベトする！/6/7気持ち悪い！！
-#EN:
+#EN:Eeeeeew! They're so sticky!/6/7/8This feels gross!
 #EX:
  
  
 #MT:レディン
 #JP:クリス、無理はするな！/6/7後は俺たちに任せろ！
-#EN:
+#EN:Chris, that's enough!/6/7/8Leave the rest to me!
 #EX:
  
  
 #MT:クリス
 #JP:ハイ。
-#EN:
+#EN:OK!
 #EX:
  
  
 #MT:モンスター
 #JP:ブシュッ！
-#EN:
+#EN:BSHOOOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ブシュッ！
-#EN:
+#EN:BSHOOOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ブシュッ！
-#EN:
+#EN:BSHOOOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ブシュッ！
-#EN:
+#EN:BSHOOOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ブシュッ！
-#EN:
+#EN:BSHOOOOO!
 #EX:
  
  
 #MT:ナーム
 #JP:化け物を全部倒しました！/6/7このままバルディア城まで/8一気に進軍しましょう！
-#EN:
+#EN:All the monsters are beaten!/6/7/8Let's head on to Baldea castle/8as fast as possible!
 #EX:
  
  
 #MT:一般兵
 #JP:化け物を全部倒しました！/6/7このままバルディア城まで/8一気に進軍しましょう！
-#EN:
+#EN:All the monsters are beaten!/6/7/8Let's head on to Baldea castle/8as fast as possible!
 #EX:
  
  
 #MT:レディン
 #JP:よし。/6/7このままディゴスを倒し、/8バルディア城を取り戻すぞ！/6/7しかし苦しい戦いだった。/6/7ソーンとクリスのおかげで、/8本当に助かった。
-#EN:
+#EN:All right!/6/7/8Let's defeat Digos's troops and/8retake the castle!/6/7/8But this was a hard fight./6/7/8It was Chris and Thorn's helps/8that saw us through it.
 #EX:
  
  
 #MT:ソーン
 #JP:当然の事をしたまでです。/6/7ホーキング公の命により、/8/2様の指揮下に/8入るために参りました。
-#EN:
+#EN:We had to find you./6/7/8Hawking was worried about you/8crossing the forest alone, so he/8asked us to aid you.
 #EX:
  
  
 #MT:クリス
 #JP:王子！
-#EN:
+#EN:Prince!
 #EX:
  
  
 #MT:ソーン
 #JP:/2様、/6/7ご無事でしたか！。
-#EN:
+#EN:Lord /2!/6/7/8You're safe!
 #EX:
  
  
 #MT:ソーン
 #JP:ホーキング公の命により、/8/2様の指揮下に/8入るために参りました。
-#EN:
+#EN:Hawking was worried about you/8crossing the forest alone, so he/8asked us to aid you.
 #EX:
  
  
 #MT:レディン
 #JP:それは心強い。
-#EN:
+#EN:I am again in his debt.
 #EX:
  
  
 #MT:クリス
 #JP:/2様。/6/7野盗から助けて頂いたお礼にと/8サルラスの人達からクロスを/8預かってきました。
-#EN:
+#EN:Lord /2./6/7/8In thanks for protecting them from/8the thieves, the people of Salrath/8wanted you to have this cross.
 #EX:
  
  
 #MT:
 #JP:クロスを手に入れた！
-#EN:
+#EN:Obtained a Cross!
 #EX:
  
  
 #MT:クリス
 #JP:あ、あの‥‥/2様、/8私も/2様の戦いに/8お供させてもらえませんか？
-#EN:
+#EN:Um... /2.../6/7/8I really want to be able to fight/8alongside you in this battle.
 #EX:
  
  
 #MT:レディン
 #JP:ダメだ、危険すぎる！
-#EN:
+#EN:No, it's too dangerous! I couldn't/8see you injured for my sake.
 #EX:
  
  
 #MT:クリス
 #JP:御願いです！/6/7決して足手まといには/8なりませんから‥‥
-#EN:
+#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won't get in your/8way...
 #EX:
  
  
 #MT:レディン
 #JP:‥‥わかったよ、クリス。/6/7これから共に戦おう。
-#EN:
+#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I'll be glad to have/8you with us.
 #EX:
  
  
 #MT:クリス
 #JP:ハ、ハイ！
-#EN:
+#EN:Thank you!
 #EX:
  
  

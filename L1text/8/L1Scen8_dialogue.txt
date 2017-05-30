@@ -5,457 +5,457 @@
  
 #MT:レディン
 #JP:ずいぶんと大きな川だな。/8他に渡れる場所はないのか？
-#EN:
+#EN:This river looks pretty big./8There doesn't appear to be any/8cover for them.
 #EX:
  
  
 #MT:ジェシカ
 #JP:他の場所は流れがきつく、/8渡川は無理でしょう。
-#EN:
+#EN:Their ground lies pretty deep in/8the current. Crossing there would/8be a bad move./6/7/8We'll need to find another point/8in the river.
 #EX:
  
  
 #MT:テイラー
 #JP:対岸に、敵が防御陣を張って/8待ち受けてるぜ。
-#EN:
+#EN:Ho! The dogs be spread out across/8the other bank!/6/7/8Blimey! They may have been/8expectin' us after all...
 #EX:
  
  
 #MT:レディン
 #JP:仕方がない。/6/7強行突破だ！
-#EN:
+#EN:It doesn't matter./6/7/8We'll force our way through!
 #EX:
  
  
 #MT:ガルヴェス
 #JP:敵が動き始めたか。/6/7予想通りここを強行突破する/8つもりだな！
-#EN:
+#EN:The enemy is moving!/6/7/8It looks like we'll need to break/8through them here!
 #EX:
  
  
 #MT:スカルディス
 #JP:では思う存分/8戦わせてもらおう！
-#EN:
+#EN:Ho! A free fight may be our best/8move I say!
 #EX:
  
  
 #MT:セリア
 #JP:このワール川だけは/8絶対に渡川させないわ！
-#EN:
+#EN:There's no way we'll be able to/8cross the Warl at this point.
 #EX:
  
  
 #MT:ソーン
 #JP:敵に水兵がいるぞ！
-#EN:
+#EN:The enemy's forces consist of/8sailor units!
 #EX:
  
  
 #MT:ナーム
 #JP:水上で戦うのは/8かなり不利ね。
-#EN:
+#EN:If we engage them in the water,/8we'd be at a considerable/8disadvantage.
 #EX:
  
  
 #MT:アルバート
 #JP:あの化け物は陸に/8おびき寄せましょう。
-#EN:
+#EN:Let's try to lure the monsters/8onto the land./6/7/8If we can pull it off, we'll have/8a tactical advantage!
 #EX:
  
  
 #MT:レディン
 #JP:うむ、その方が/8危険が少なそうだな。
-#EN:
+#EN:Hmmm, it seems like it may be/8a little dangerous, though.
 #EX:
  
  
 #MT:レディン
 #JP:ランス？！
-#EN:
+#EN:Lance?!
 #EX:
  
  
 #MT:ソーン
 #JP:フッ、これは/8久し振りだな、/2。/6/7まさか化け物狩りの途中で/8貴様に会えるとはな。
-#EN:
+#EN:Sigh... How unexpected, /2./6/7/8I never thought I'd encounter you/8while hunting these monsters.
 #EX:
  
  
 #MT:レディン
 #JP:クッ！/6/7こんな時に！
-#EN:
+#EN:Damn!/6/7/8What horrible timing!
 #EX:
  
  
 #MT:ソーン
 #JP:チィッ！逃げられたか。/6/7化け物など無視しろ！/8奴らを追うぞ！
-#EN:
+#EN:Don't let them escape!/6/7/8Just ignore the monsters and keep/8after those guys!
 #EX:
  
  
 #MT:レディン
 #JP:どうやら/8抜けたようだな。
-#EN:
+#EN:Somehow we managed a victory.
 #EX:
  
  
 #MT:ナーム
 #JP:でも、あの化け物は/8何なのかしら？
-#EN:
+#EN:But... what were those monsters?
 #EX:
  
  
 #MT:ナーム
 #JP:でも、あの化け物は/8何なのかしら？
-#EN:
+#EN:But... what were those monsters?
 #EX:
  
  
 #MT:テイラー
 #JP:少なくとも奴らの/8仲間じゃないようだぜ。
-#EN:
+#EN:That kind of beast surely was not/8the companion of any mortal.
 #EX:
  
  
 #MT:テイラー
 #JP:少なくとも奴らの/8仲間じゃないようだぜ。
-#EN:
+#EN:That kind of beast surely was not/8the companion of any mortal.
 #EX:
  
  
 #MT:ナーム
 #JP:まさか邪悪の力が？！
-#EN:
+#EN:Could it be that the powers of/8darkness have already awakened?!
 #EX:
  
  
 #MT:ナーム
 #JP:まさか邪悪の力が？！
-#EN:
+#EN:Could it be that the powers of/8darkness have already awakened?!
 #EX:
  
  
 #MT:ジェシカ
 #JP:おそらく、/8その通りでしょう。
-#EN:
+#EN:Perhaps... I fear that may be.
 #EX:
  
  
 #MT:ジェシカ
 #JP:おそらく、/8その通りでしょう。
-#EN:
+#EN:Perhaps... I fear that may be.
 #EX:
  
  
 #MT:クリス
 #JP:それじゃあ、/8化け物たちも/8ラングリッサーを狙って？！
-#EN:
+#EN:Maybe those monsters were after/8Langrisser...
 #EX:
  
  
 #MT:クリス
 #JP:それじゃあ、/8化け物たちも/8ラングリッサーを狙って？！
-#EN:
+#EN:Maybe those monsters were after/8Langrisser...
 #EX:
  
  
 #MT:レディン
 #JP:そうかもしれない。/6/7よし、先を急ぐぞ！
-#EN:
+#EN:If that's the case.../8then it's all more reason to/8hurry!
 #EX:
  
  
 #MT:レディン
 #JP:立ち止まるな！/6/7走れ、突破だ！
-#EN:
+#EN:Don't let up!/6/7/8Keep moving and break through/8their line!
 #EX:
  
  
 #MT:レディン
 #JP:クッ‥‥。/6/7ここまでか‥‥
-#EN:
+#EN:Ugh....../6/7/8Is this it......?
 #EX:
  
  
 #MT:ナーム
 #JP:くらえ！
-#EN:
+#EN:Take this!
 #EX:
  
  
 #MT:ナーム
 #JP:アッ！
-#EN:
+#EN:Aaah!
 #EX:
  
  
 #MT:ソーン
 #JP:ムッ？！
-#EN:
+#EN:Muu?!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7ここまでか！
-#EN:
+#EN:Shit!/6/7/8This is it!
 #EX:
  
  
 #MT:クリス
 #JP:エイ！
-#EN:
+#EN:Eiii!
 #EX:
  
  
 #MT:クリス
 #JP:！
-#EN:
+#EN:!
 #EX:
  
  
 #MT:テイラー
 #JP:俺の力を見せてやるぜ！
-#EN:
+#EN:Yo ho! Learn the terror of/8the dread Captain Taylor!
 #EX:
  
  
 #MT:テイラー
 #JP:チッ！/6/7油断しちまった！
-#EN:
+#EN:Damn!/6/7/8I was caught off-guard!
 #EX:
  
  
 #MT:ジェシカ
 #JP:私の力をあなどると/8痛い目にあいますよ！
-#EN:
+#EN:Witness my blinding magic!
 #EX:
  
  
 #MT:ジェシカ
 #JP:私はいったん下がります。
-#EN:
+#EN:I will not go down!
 #EX:
  
  
 #MT:アルバート
 #JP:意地でも/8ここは通してもらう！
-#EN:
+#EN:I'll carve us a path through/8these guys with sheer power if/8need be!
 #EX:
  
  
 #MT:アルバート
 #JP:やるな‥‥。
-#EN:
+#EN:Not bad...
 #EX:
  
  
 #MT:セリア
 #JP:ランスが援護に来たぞ！/8チャンスだ！/8奴らを返り討ちにしろ！
-#EN:
+#EN:Lance is here to back us up!/8This is our chance!/8Counterattack and crush them all!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:了解しました！
-#EN:
+#EN:Understood!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:トウッ！
-#EN:
+#EN:Touuu!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:ギャーッ！
-#EN:
+#EN:Gyaa!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:く、苦しいッ！
-#EN:
+#EN:OW!/8P-P-Painful!!!
 #EX:
  
  
 #MT:スカルディス
 #JP:バカめ！/8この戦場で私に勝てるとでも/8思っているのか！
-#EN:
+#EN:Curses!/8Do ye expect me to go down/8quietly?/6/7/8Avast, I'll make ya dance with/8ole' Jack Ketch!
 #EX:
  
  
 #MT:スカルディス
 #JP:ふざけやがって！
-#EN:
+#EN:I'm not fucking around!
 #EX:
  
  
 #MT:スカルディス
 #JP:セ、セリア様‥‥
-#EN:
+#EN:L- Lady Celia...
 #EX:
  
  
 #MT:ガルヴェス
 #JP:蹴散らしてくれるわ！
-#EN:
+#EN:Guess I'm gonna have to show/8you what real pain is!
 #EX:
  
  
 #MT:ガルヴェス
 #JP:そ、そんなバカな‥‥。/6/7ぐわぁー！
-#EN:
+#EN:This- This is impossible.../6/7/8Gwaaa!
 #EX:
  
  
 #MT:セリア
 #JP:ゼルド様‥‥。/6/7かたきは、このセリアが/8必ず討ってみせます！
-#EN:
+#EN:Lord Zeld.../6/7/8I'll show you what I,/8Celia, can do!
 #EX:
  
  
 #MT:セリア
 #JP:今度は、この前のように/8いかないわよ！
-#EN:
+#EN:This won't be like the last time!
 #EX:
  
  
 #MT:セリア
 #JP:負けるもんですか！
-#EN:
+#EN:I can't be defeated!
 #EX:
  
  
 #MT:セリア
 #JP:ゼルド様‥‥/6/7今、おそばに参ります‥‥。
-#EN:
+#EN:Lord Zeld.../6/7/8I've been defeated...
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＩＩＩＩＩ！
-#EN:
+#EN:GUGIIIII!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＯＧＹＯＯＯ！
-#EN:
+#EN:GYOGYOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＯＧＹＯＯＯ！
-#EN:
+#EN:GYOGYOOO!
 #EX:
  
  
 #MT:ソーン
 #JP:今までのかり、/8まとめて返すぞ！/6/7かかれ！
-#EN:
+#EN:The time of our conclusion is at/8hand!/6/7/8Prepare yourself!
 #EX:
  
  
 #MT:ソーン
 #JP:その程度で/8私に勝てると思うなよ！
-#EN:
+#EN:Do you really think you can/8defeat me?!
 #EX:
  
  
 #MT:ソーン
 #JP:/2！/6/7今度こそ、/8決着をつけてくれる！
-#EN:
+#EN:/2!/6/7/8The time to conclude our duel/8is now!
 #EX:
  
  
 #MT:レディン
 #JP:望むところだ！
-#EN:
+#EN:That's just what I wanted/8to hear!
 #EX:
  
  
 #MT:ソーン
 #JP:くっ！私の力では/8奴らを倒せぬのか？！
-#EN:
+#EN:Keh! Is defeating him really/8beyond my power...?!
 #EX:
  
  
 #MT:レディン
 #JP:どうやら/8全部倒したようだな。
-#EN:
+#EN:Somehow we managed a victory.
 #EX:
  
  
 #MT:ソーン
 #JP:しかし、/8あの化け物は、何なんだ？
-#EN:
+#EN:But... what was that monster?
 #EX:
  
  
 #MT:テイラー
 #JP:少なくとも奴らの/8仲間じゃないようだぜ。
-#EN:
+#EN:Arrr... such a beast be not the/8companion of any mortal..
 #EX:
  
  
 #MT:ナーム
 #JP:まさか邪悪の力が？！
-#EN:
+#EN:Could it be the powers of/8darkness?!
 #EX:
  
  
 #MT:ジェシカ
 #JP:おそらく、/8その通りでしょう。
-#EN:
+#EN:Perhaps... that may be.
 #EX:
  
  
 #MT:クリス
 #JP:それじゃあ化け物達も/8ラングリッサーを狙って‥‥。
-#EN:
+#EN:Maybe those monsters were/8after Langrisser...
 #EX:
  
  
 #MT:レディン
 #JP:そうかもしれない。/6/7よし、先を急ぐぞ！
-#EN:
+#EN:If that's the case.../8then it's all more reason to/8hurry!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＡＧＩＩＩＩ！
-#EN:
+#EN:GYAGIIII!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＳＹＡＡＡＡＡ！
-#EN:
+#EN:GISYAAAAA!
 #EX:
  
  
 #MT:レディン
 #JP:何だ、あの化け物は？！/8奴らの仲間なのか？
-#EN:
+#EN:What the, those monsters, are they/8their companions?!
 #EX:
  
  
 #MT:セリア
 #JP:何事だ！
-#EN:
+#EN:What the hell are they?
 #EX:
  
  
 #MT:ガルヴェス
 #JP:何だ！なぜこいつらが/8こんな所に！
-#EN:
+#EN:What!?/8What the hell are those things/8doing here?!
 #EX:
  
  
 #MT:セリア
 #JP:うろたえてどうするの！/6/7バルディアの奴らと一緒に/8叩きつぶしておしまい！
-#EN:
+#EN:... Don't get distracted!/6/7/8Just concentrate on striking down/8those Baldean bastards! Worry about/8the monsters later!
 #EX:
  
  

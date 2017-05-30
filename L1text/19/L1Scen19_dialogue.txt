@@ -5,403 +5,403 @@
  
 #MT:ソーン
 #JP:ここが/8最深部のようです。
-#EN:
+#EN:This is the deepest part of the/8temple.
 #EX:
  
  
 #MT:ボーゼル
 #JP:人間ごときが、/8よくここまでこれたものだな。
-#EN:
+#EN:Ahh, the humans./8It's quite impressive that you've/8made it this far.
 #EX:
  
  
 #MT:レディン
 #JP:ボーゼル！/6/7お前を倒し、二度と/8よみがえらぬように/8封じてやる！
-#EN:
+#EN:Boser!/6/7/8Your defeat is at hand!/8I can't allow you to revive/8the dark god!
 #EX:
  
  
 #MT:ボーゼル
 #JP:フッ！/6/7私は闇の力により/8よみがえり、/8人間を越えたのだ！/6/7できるものなら、/8やってみるがよい。/6/7フハハハハ！
-#EN:
+#EN:Ha ha ha!/6/7/8Nothing can stop me from reviving/8the powerful darkness!/8Feeble mortals like you are/8little more than a nuisance./6/7/8Are you really foolish enough to/8fight me?/8Sit back and watch, runts!/6/7/8WA HA HA HA!
 #EX:
  
  
 #MT:レディン
 #JP:これで最後だ！/8全軍突撃！
-#EN:
+#EN:This all ends NOW!/8Troops, charge!!!
 #EX:
  
  
 #MT:レディン
 #JP:闇の力は/8ここで封印してみせる！
-#EN:
+#EN:Watch closely, for this is the/8day darkness shall once again/8be sealed!
 #EX:
  
  
 #MT:ボーゼル
 #JP:その程度の実力で/8よくここまでこれたものだな。
-#EN:
+#EN:Come on, I won't hold back!/8Witness my true strength!
 #EX:
  
  
 #MT:レディン
 #JP:あと一歩という時に、無念‥‥
-#EN:
+#EN:Terrible... I was just one step/8short...
 #EX:
  
  
 #MT:ナーム
 #JP:この戦い、/8必ず勝たせてもらうわ！
-#EN:
+#EN:I'll win this battle for sure!
 #EX:
  
  
 #MT:ナーム
 #JP:こんな時に傷を負うとは‥‥/6/7いったん下がります。
-#EN:
+#EN:How could I be injured at a time/8like this.../6/7/8I'm beaten.
 #EX:
  
  
 #MT:ソーン
 #JP:俺に剣を向けるとは/8生意気な！
-#EN:
+#EN:Conceited bastard!/8How dare you turn your blade/8at me!
 #EX:
  
  
 #MT:ソーン
 #JP:しまった。/8後は頼む！
-#EN:
+#EN:Damn... please win this fight/8for me!
 #EX:
  
  
 #MT:クリス
 #JP:！
-#EN:
+#EN:Huh?!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！/6/7/2さまっ！
-#EN:
+#EN:Shriek---!/6/7/8L-/2....!
 #EX:
  
  
 #MT:レディン
 #JP:無理はするな！/6/7戦線から離脱しろ！
-#EN:
+#EN:Fall back! You're too injured to/8continue this fight!/6/7/8I can't see you die!
 #EX:
  
  
 #MT:クリス
 #JP:ハ、ハイ！
-#EN:
+#EN:O-OK!
 #EX:
  
  
 #MT:テイラー
 #JP:逃がさねえぜ！
-#EN:
+#EN:Don't think you're going to get/8away from me!
 #EX:
  
  
 #MT:テイラー
 #JP:くそっ！/8かんじんな時に！/6/7いったん退却する！
-#EN:
+#EN:Bilge!/8How can I be beaten by such/8salts...!/6/7/8Sorry, a retreat I must make!
 #EX:
  
  
 #MT:ジェシカ
 #JP:ここで負けるわけには/8まいりません！
-#EN:
+#EN:I won't let myself be defeated/8here!
 #EX:
  
  
 #MT:ジェシカ
 #JP:私はもうダメです。/6/7しばらくさがります！
-#EN:
+#EN:I did the best I could.../6/7/8Maybe it's time for me to rest for/8a while...!
 #EX:
  
  
 #MT:アルバート
 #JP:お前たちの野望も/8ここで終わりだ！
-#EN:
+#EN:Your evil ambition ends here!
 #EX:
  
  
 #MT:アルバート
 #JP:ここで動けぬとは‥‥/8みんな、すまぬ！
-#EN:
+#EN:I can't go on.../8Everyone... I'm sorry!
 #EX:
  
  
 #MT:ホーキング
 #JP:突破するぞ！
-#EN:
+#EN:Break through them!
 #EX:
  
  
 #MT:ホーキング
 #JP:だめか‥‥。/8いったん下がります。
-#EN:
+#EN:It's useless.../8This time I am beaten.
 #EX:
  
  
 #MT:アクトラクト
 #JP:これ以上はやらせぬ！
-#EN:
+#EN:I won't let you go any further!
 #EX:
  
  
 #MT:アクトラクト
 #JP:私は死なぬ！/6/7私は‥‥ぐ、ぐふっ！
-#EN:
+#EN:I won't die!/6/7/8I... won't.../8guh... guwaa!
 #EX:
  
  
 #MT:ゼルヴィス
 #JP:闇の神に逆らって、/8無事に生きていられると/8思っているのか！
-#EN:
+#EN:What fools! Do you think we'll/8ever allow you to live if you/8oppose our dark god?
 #EX:
  
  
 #MT:ゼルヴィス
 #JP:闇の神よ！/6/7我が身をささげます！
-#EN:
+#EN:God of darkness!/8I offer you my life!
 #EX:
  
  
 #MT:テールホーン
 #JP:覚悟しろ！
-#EN:
+#EN:Prepare yourself!
 #EX:
  
  
 #MT:テールホーン
 #JP:よく私に勝てたな！/6/7しかしお前達は/8ここを生きて出る事はない！/6/7ふはははは‥‥
-#EN:
+#EN:You think you can defeat me?/6/7/8Sorry children, but you are/8wasting your lives!/6/7/8HA HA HA HA HA...
 #EX:
  
  
 #MT:ハイスギット
 #JP:図に乗りおって！
-#EN:
+#EN:Follow our plan!
 #EX:
  
  
 #MT:ハイスギット
 #JP:くっ、私とした事が‥‥/6/7ぐふっ！
-#EN:
+#EN:Kuh... how could I be beaten.../6/7/8Gwaaa!
 #EX:
  
  
 #MT:ツダーク
 #JP:この私に/8勝てるわけがないでしょう！
-#EN:
+#EN:Do you think to defeat me?!
 #EX:
  
  
 #MT:ツダーク
 #JP:私に勝ったところで、/8どうせ貴様らは/8死ぬ運命にあるのだ‥‥/6/7グギャー！
-#EN:
+#EN:Even if you defeat me, your/8destiny ends here.../6/7/8Guyaa!
 #EX:
  
  
 #MT:オーギタンス
 #JP:もらった！/8死ねい！
-#EN:
+#EN:Take this! Die!!!
 #EX:
  
  
 #MT:オーギタンス
 #JP:闇の神よ！/6/7この者達に恐ろしい死を/8与えて下さい！
-#EN:
+#EN:God of darkness!/6/7/8I call on you to give these/8people a hideous death!
 #EX:
  
  
 #MT:ボーゼル
 #JP:私は闇の力を我が物とし、/8神となるのだ！
-#EN:
+#EN:God, grant me your dark power!
 #EX:
  
  
 #MT:ボーゼル
 #JP:真の我が力、/8たっぷりと味わうがよい！
-#EN:
+#EN:Come, mortals!/8Taste our full power upon/8your flesh!
 #EX:
  
  
 #MT:レディン
 #JP:闇へかえれ！/8ボーゼル！
-#EN:
+#EN:Return to the darkness from/8whence you came, Boser!
 #EX:
  
  
 #MT:ボーゼル
 #JP:フッ！もう遅いな。/6/7今、全ての闇の力が/8解放されるのだ。/8フハハハハ‥‥
-#EN:
+#EN:Hah! You're too late./6/7/8Now, the seal that bound the powers/8of darkness has already/8been broken!/6/7/8FWA HA HA HA HA...
 #EX:
  
  
 #MT:レディン
 #JP:な、何だ？！/6/7この振動は？
-#EN:
+#EN:W-What?!/6/7/8What's this vibration?
 #EX:
  
  
 #MT:ボーゼル
 #JP:ばかな！/6/7私は、私は‥‥/8ウワー！
-#EN:
+#EN:Impossible!/6/7/8I'm... I'm.../8Uwaaaaah!
 #EX:
  
  
 #MT:カオス
 #JP:我が名はカオス。/6/7いま、この時より/8私にかせられた/8使命を果そう。
-#EN:
+#EN:My name is Chaos./6/7/8The time has come to fulfill my/8mission in this world.
 #EX:
  
  
 #MT:ジェシカ
 #JP:こ、これが/8闇の力の本体？！
-#EN:
+#EN:Th-This is the source of the/8dark powers?!
 #EX:
  
  
 #MT:一般兵
 #JP:こ、これが/8闇の力の本体？！
-#EN:
+#EN:Th-This is the source of the/8dark powers?!
 #EX:
  
  
 #MT:カオス
 #JP:私は世界を常に/8カオスとし続けるため、/8世界と共に創造された力だ。
-#EN:
+#EN:Since the beginning, my purpose/8has been to create chaos and/8conflict in the world of man.
 #EX:
  
  
 #MT:ナーム
 #JP:それはどういう意味なの？
-#EN:
+#EN:And for what purpose?
 #EX:
  
  
 #MT:カオス
 #JP:私は世界の進化を、/8カオスを維持するため、/8物質を破壊する。
-#EN:
+#EN:To prevent stagnation./6/7/8Without conflict, without war,/8without strife, this world can/8not continue to evolve.
 #EX:
  
  
 #MT:ホーキング
 #JP:そんな事はさせん！
-#EN:
+#EN:I won't let you do it!
 #EX:
  
  
 #MT:一般兵
 #JP:そんな事はさせん！
-#EN:
+#EN:I won't let you do it!
 #EX:
  
  
 #MT:カオス
 #JP:世界のことわりに/8反抗は許されない。/6/7カオスの維持を邪魔する/8ものは、全て破壊する。
-#EN:
+#EN:I cannot permit any who oppose me/8to live in this world./6/7/8I will destroy anything which/8prevents me from serving my/8purpose.
 #EX:
  
  
 #MT:レディン
 #JP:そうはさせるか！/6/7お前をラングリッサーで/8封印する！
-#EN:
+#EN:You think you can?!/6/7/8Demon! I'll seal you once again/8with Langrisser!
 #EX:
  
  
 #MT:カオス
 #JP:ラングリッサーを持つ/8光輝の末えいよ。/6/7私を止める事が/8できるかどうか、/8試してみるがよい。
-#EN:
+#EN:Descendant of light who bears/8Langrisser!/6/7/8I warn you now, it is not/8possible to stop me./6/7/8But should you wish to follow/8your ancestors, so be it./6/7/8Come forth!
 #EX:
  
  
 #MT:カオス
 #JP:破壊する！
-#EN:
+#EN:I'll destroy you!
 #EX:
  
  
 #MT:レディン
 #JP:これで終わりだ！/6/7永遠に消えてなくなれ！/8カオス！
-#EN:
+#EN:This is the end!/6/7/8Vanish into the flow of eternity,/8Chaos!
 #EX:
  
  
 #MT:カオス
 #JP:私が消滅することはない。/8絶対にな。
-#EN:
+#EN:There is no time when I shall/8ever disappear or cease to exist.
 #EX:
  
  
 #MT:テイラー
 #JP:何だとっ！？
-#EN:
+#EN:What?!
 #EX:
  
  
 #MT:カオス
 #JP:私は世界というものの/8１つの表れ。/6/7遠い過去から、世界の混沌面を/8司ってきた。
-#EN:
+#EN:This only one of the times I have/8manifested in this world./6/7/8Since times too ancient for man/8to remember, I have existed to/8guide this world into conflict.
 #EX:
  
  
 #MT:ナーム
 #JP:じゃあ、/8私たちが戦ってきたのは、/8世界‥‥！？
-#EN:
+#EN:Then... what has our battle been/8for... what of the world...!?
 #EX:
  
  
 #MT:ホーキング
 #JP:だが、我々は混沌を認める/8わけにはゆかぬ。/8法のみが世界を平和に導く。
-#EN:
+#EN:Mankind will never bend to the/8power of chaos./8We are led by laws.
 #EX:
  
  
 #MT:カオス
 #JP:世界を構成する/8もう１つの力、/8法は、安定へと導く力。/6/7だが、その行き着く先は/8停滞にすぎぬ。/6/7動かぬものからは/8なにも生まれはしない。
-#EN:
+#EN:True, the power of man's laws and/8willingness to follow them has/8led the world to stability./6/7/8However, when stability is/8achieved, stagnation begins./6/7/8Nothing is born from something/8that does not move and progress.
 #EX:
  
  
 #MT:ジェシカ
 #JP:創造には混沌が/8必要だというのですか？
-#EN:
+#EN:So you are saying chaos is a/8necessary element of creation?
 #EX:
  
  
 #MT:カオス
 #JP:そうだ。/6/7だが、愚かにも人間は、/8我欲のために/8混沌の力を使う。
-#EN:
+#EN:Exactly./6/7/8But humans continue to battle the/8power of chaos for foolish/8personal desires.
 #EX:
  
  
 #MT:アルバート
 #JP:我々はちがうっ！
-#EN:
+#EN:We're different than that!
 #EX:
  
  
 #MT:カオス
 #JP:まあ、よい。/6/7人間とは/8法と混沌の２つの力を/8持ち合わせているもの。/6/7光に現される法を/8信じるのも良かろう。
-#EN:
+#EN:Hear me./6/7/8Humans are the only creatures/8which possess the powers of both/8order and chaos./6/7/8Order is reflected by the light/8and chaos by the dark.
 #EX:
  
  
 #MT:クリス
 #JP:あなたは‥‥/8神、なのですか？
-#EN:
+#EN:Are you... really a god?
 #EX:
  
  
 #MT:カオス
 #JP:娘よ。/8その答えは/8人々の心の中にある。/6/7法や混沌を/8神と認め求めれば、/8バランスが崩れ、/6/7世界の力が神として/8再び、/8この世に現れるであろう。/6/7だが今は、天秤はどちらにも/8かたむいてはおらぬ。/6/7私は/8今一度/8眠りにつくとしよう。/6/7さらばだ、/8光輝の末裔よ‥‥
-#EN:
+#EN:Little girl./8The answer to that question lies/8within your heart./6/7/8If you believe a god recognizes/8order and seeks chaos to destroy/8balance, then yes./6/7/8My power will appear in this/8world once again./6/7/8But for now, the scales have/8tilted in your favor./6/7/8My time for another rest has/8come./6/7/8Farewell... descendants of light.
 #EX:
  
  

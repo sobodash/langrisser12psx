@@ -5,535 +5,535 @@
  
 #MT:クリス
 #JP:/2様、大変です！
-#EN:
+#EN:Lord /2! It's terrible!
 #EX:
  
  
 #MT:レディン
 #JP:クリス、こんな夜更けに、/8どうしたんだい？
-#EN:
+#EN:Chris, what's wrong, why are you/8up so late?
 #EX:
  
  
 #MT:クリス
 #JP:昼間の野盗が町に！/6/7今、町の人達が戦ってます！
-#EN:
+#EN:The thieves are inside the town!/6/7/8They ambushed us and are killing/8the villagers!
 #EX:
  
  
 #MT:レディン
 #JP:しまった！やられたか！/6/7クリス、君は町の人と/8教会に避難してくれ。
-#EN:
+#EN:Damn! They attacked this early?!/6/7/8Chris! Evacuate as many people as/8you can into the old church!
 #EX:
  
  
 #MT:クリス
 #JP:ハ、ハイ！
-#EN:
+#EN:O... OK.
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ムッ、昼間の奴等か！
-#EN:
+#EN:Damn... I guess these guys must/8be morning people.
 #EX:
  
  
 #MT:カ・イロウ
 #JP:シカッ！/6/7誰にもわしの邪魔はできん！/8全員みな殺しにしてやる！
-#EN:
+#EN:SHIKA!/6/7/8EVERYONE MAKE SUFFER!/8EVERYONE MAKE KILL!
 #EX:
  
  
 #MT:レディン
 #JP:あの異様に変な男が/8こいつらを率いているのか？/6/7奴を倒せばこいつらも/8しばらくの間、/8おとなしくなるだろう！
-#EN:
+#EN:That one seems to be the/8leader... but why isn't he/8attacking?/6/7/8Maybe he's just scared after/8seeing all his buddies get/8killed!
 #EX:
  
  
 #MT:カ・イロウ
 #JP:ウォォォ！/6/7このわしに勝てるか！
-#EN:
+#EN:GRAAAAAAH!/6/7/8YOU THINK CAN BEAT ME?!
 #EX:
  
  
 #MT:ド・モトフ
 #JP:ヒッヒッヒッ！/6/7両方からはさみ込め！/8ついでに金目の物、奪え！/6/7シカー！
-#EN:
+#EN:HE HE HE HE HE!/6/7/8WE SPLIT MEN UP!/8GO FOR GOLD EYE MAN FIRST!/6/7/8SHIKA!
 #EX:
  
  
 #MT:レディン
 #JP:しまった！/6/7あんな所にもいたのか！
-#EN:
+#EN:Damn it!/6/7/8Even that place isn't safe!
 #EX:
  
  
 #MT:ホーキング
 #JP:王子、ここは私に任せて/8他の市民達を/8避難させて下さい。
-#EN:
+#EN:Prince, leave this area to me./8Please go and evacuate the other/8villagers.
 #EX:
  
  
 #MT:レディン
 #JP:すまない、ホーキング公。
-#EN:
+#EN:I'll do my best.
 #EX:
  
  
 #MT:
 #JP:ルーンストーンを見つけた！
-#EN:
+#EN:Found a Rune Stone!
 #EX:
  
  
 #MT:レディン
 #JP:これ以上やらせるな！/6/7１人残らず町から追い出せ！
-#EN:
+#EN:You won't make it past me!/6/7/8I'll drive every last one of you/8out of the town!
 #EX:
  
  
 #MT:レディン
 #JP:私の力が/8およばぬばかりに‥‥。
-#EN:
+#EN:My power just wasn't enough...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:素人め！/6/7力量の差に気付かぬようでは/8戦場で生き残れんぞ！
-#EN:
+#EN:Amateurs!/6/7/8If you can't see the difference/8in our power, you have no place/8on the battlefield!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ウッ、持病の発作が‥‥。
-#EN:
+#EN:Ungh... my chronic disease seems/8to be acting up again...
 #EX:
  
  
 #MT:ソーン
 #JP:貴様ら/8しつこすぎるぞ！
-#EN:
+#EN:You're too persistent for your/8own good!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7やられた！
-#EN:
+#EN:Shit!/8Don't mess with me!
 #EX:
  
  
 #MT:レディン
 #JP:後退するんだ！/6/7後は私がやる！
-#EN:
+#EN:I'm here to back you up!/6/7/8Leave the rest to me!
 #EX:
  
  
 #MT:ソーン
 #JP:すまない！頼んだ！
-#EN:
+#EN:Sorry about this, thanks for your/8help!
 #EX:
  
  
 #MT:クリス
 #JP:市民のみなさーん！/6/7急いで教会まで避難して/8下さーい！
-#EN:
+#EN:Everybody listen!!/8Get into the church as fast as/8possible!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Eyaa!
 #EX:
  
  
 #MT:レディン
 #JP:まずい！/6/7野盗があそこまで/8侵入していたのか！
-#EN:
+#EN:Chris!!/6/7/8... Incredible!/6/7/8The thieves have made it even/8that far into town...?
 #EX:
  
  
 #MT:クリス
 #JP:キャーッ！
-#EN:
+#EN:Kyaa!!
 #EX:
  
  
 #MT:レディン
 #JP:クリス、ここは危ない！/6/7さがっていろ！
-#EN:
+#EN:Chris! It's dangerous here!/8Please stay back!
 #EX:
  
  
 #MT:村人
 #JP:キャー！/6/7助けてー！
-#EN:
+#EN:Eek! Oh noo! Help meeee!
 #EX:
  
  
 #MT:シカ族
 #JP:ヒッヒッヒッ、女だ！女だ！/6/7殺せ！殺せ！いけにえだ！
-#EN:
+#EN:HEE HEE HEE!/8A WOMAN! A WOMAN!/6/7/8KILL! KILL!/8SACRIFICE YOU TO GOD!/8SHIKA!
 #EX:
  
  
 #MT:村人
 #JP:キャーッ！/6/7誰か助けてぇー！
-#EN:
+#EN:Eeeeeeek!/6/7/8Someone, please help me!
 #EX:
  
  
 #MT:村人
 #JP:キャーッ！
-#EN:
+#EN:Eeeek!
 #EX:
  
  
 #MT:カ・イロウ
 #JP:シカッ！シカッ！/6/7いけにえだぁー！
-#EN:
+#EN:SHIKA! SHIKA!/8WE SACRIFICE YOU!
 #EX:
  
  
 #MT:村人
 #JP:イヤー！助けてー！/6/7変な人が迫ってくる！
-#EN:
+#EN:Help! Please! Help me!/6/7/8Those masked freaks are coming/8after me!!
 #EX:
  
  
 #MT:シカ族
 #JP:ヒッヒッヒッ、女だ！女だ！/6/7殺せ！殺せ！いけにえだ！
-#EN:
+#EN:HEE HEE HEE!/8A WOMAN! A WOMAN!/6/7/8KILL! KILL!/8SACRIFICE YOU TO GOD!/8SHIKA!
 #EX:
  
  
 #MT:村人
 #JP:キャーッ！/6/7誰か助けてぇー！
-#EN:
+#EN:Eeek! Someone, save me!/6/7/8Those weird men are attacking me!
 #EX:
  
  
 #MT:村人
 #JP:キャーッ！
-#EN:
+#EN:Eeeek!
 #EX:
  
  
 #MT:カ・イロウ
 #JP:シカッ！シカッ！/6/7いけにえだぁー！
-#EN:
+#EN:SHIKA! SHIKA!/8WE SACRIFICE YOU!
 #EX:
  
  
 #MT:レディン
 #JP:私の力が/8およばぬばかりに‥‥。
-#EN:
+#EN:It seems my power just wasn't/8enough....
 #EX:
  
  
 #MT:ホーキング
 #JP:まさか、この町にまで/8攻めてくるとは‥‥。/6/7不覚であった！
-#EN:
+#EN:For them to have gotten this far/8into town... I was very/8careless...
 #EX:
  
  
 #MT:ホーキング
 #JP:私の町で自由にはさせぬ！
-#EN:
+#EN:I won't permit savages to disturb/8the peace of my town!
 #EX:
  
  
 #MT:ホーキング
 #JP:ウッ！
-#EN:
+#EN:Ungh!
 #EX:
  
  
 #MT:レディン
 #JP:ホーキング公！/6/7大丈夫ですか？
-#EN:
+#EN:Lord Hawking!/8Are you all right?!
 #EX:
  
  
 #MT:ホーキング
 #JP:すみません、後は任せます！
-#EN:
+#EN:I'm sorry... I have to leave the/8rest to you.
 #EX:
  
  
 #MT:カ・イロウ
 #JP:ウォォォー！
-#EN:
+#EN:UWAAAGH!
 #EX:
  
  
 #MT:カ・イロウ
 #JP:か、神よ！/6/7シ、シカーッ！
-#EN:
+#EN:G-GOD! I COME SEE YOU NOW!/8SH... SH... SHIKA!
 #EX:
  
  
 #MT:カ・イロウ
 #JP:一人残らず、/8神にささげるのだぁー！
-#EN:
+#EN:YOU NOT SEE GOD ALONE!
 #EX:
  
  
 #MT:シカ族
 #JP:シカーッ！
-#EN:
+#EN:SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:シカ族
 #JP:シカッ！シカッ！
-#EN:
+#EN:SHIKA! SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:ゲフッ！
-#EN:
+#EN:GRAAAAAA...
 #EX:
  
  
 #MT:ド・モトフ
 #JP:今度こそ負けない！
-#EN:
+#EN:I NO CAN LOSE!
 #EX:
  
  
 #MT:ド・モトフ
 #JP:またやられた！/6/7もうだめだ！/8ブバッ！
-#EN:
+#EN:END IS HERE FOR ME!/6/7/8I NO CAN DO MORE!/8BWAAAAGH!
 #EX:
  
  
 #MT:レディン
 #JP:やっと追い払ったか‥‥。
-#EN:
+#EN:Finally, we were able to drive/8them out...
 #EX:
  
  
 #MT:村人
 #JP:助けていただいて/8ありがとうございます。/6/7このネックレスを/8使ってください。/8きっとお役に立つはずです。
-#EN:
+#EN:Thank you for saving me./6/7/8Please accept this Necklace,/8I'm sure some day it will be/8useful.
 #EX:
  
  
 #MT:レディン
 #JP:ありがとう。
-#EN:
+#EN:Thanks.
 #EX:
  
  
 #MT:
 #JP:ネックレスを手に入れた！
-#EN:
+#EN:Obtained a Necklace!
 #EX:
  
  
 #MT:クリス
 #JP:/2様。/6/7/2様にお会いしたいと/8いう方が見えております。
-#EN:
+#EN:Lord /2!/6/7/8Lord /2, there is someone here/8who wishes to speak to you!
 #EX:
  
  
 #MT:ナーム
 #JP:王子‥‥。
-#EN:
+#EN:My... prince...
 #EX:
  
  
 #MT:レディン
 #JP:ナーム？！/6/7ナームじゃないか。/8一体どうしたんだ？
-#EN:
+#EN:Narm?!/6/7/8What are you doing here?
 #EX:
  
  
 #MT:ナーム
 #JP:城が‥‥/8城が‥落ちました‥‥。
-#EN:
+#EN:The castle.../8Oh god... the castle.../8... has fallen...
 #EX:
  
  
 #MT:レディン
 #JP:そんな！/6/7父上はどうなったのだ！
-#EN:
+#EN:WHAT?!/6/7/8My father?! What's happened to/8my father?!
 #EX:
  
  
 #MT:ナーム
 #JP:最後に私を逃し、１人で/8敵に向かっていきました。
-#EN:
+#EN:King Isaac allowed me to escape.../8He stayed at the castle alone.../8to fight to the end...
 #EX:
  
  
 #MT:レディン
 #JP:父上‥‥。/6/7ホーキング公、/8私はすぐに出発します！
-#EN:
+#EN:Father.../6/7/8Lord Hawking, I must set out/8immediately!
 #EX:
  
  
 #MT:ホーキング
 #JP:では、私は兵を集めしだい/8向かいます。/8それまで無理はなさらぬよう。
-#EN:
+#EN:Then allow me to find some/8soldiers to send with you./6/7/8That's the least I can do for/8you.
 #EX:
  
  
 #MT:レディン
 #JP:わかりました。
-#EN:
+#EN:Thank you, I truly appreciate it.
 #EX:
  
  
 #MT:ナーム
 #JP:私も参ります！
-#EN:
+#EN:I am in your debt as well!
 #EX:
  
  
 #MT:レディン
 #JP:ケガは大丈夫なのか？
-#EN:
+#EN:How fares your injury?
 #EX:
  
  
 #MT:ナーム
 #JP:このまま引き下がるわけには/8参りません。
-#EN:
+#EN:It's not enough to keep me out/8of the battlefield.
 #EX:
  
  
 #MT:レディン
 #JP:わかった。/8しかし無理は/8するんじゃないぞ。
-#EN:
+#EN:I understand./8Just be careful.
 #EX:
  
  
 #MT:クリス
 #JP:行ってしまわれるのですね、/8/2様‥‥。
-#EN:
+#EN:It looks like you'll be leaving/8then, Lord /2...
 #EX:
  
  
 #MT:レディン
 #JP:クリス‥‥。
-#EN:
+#EN:Chris...
 #EX:
  
  
 #MT:クリス
 #JP:ご武運を/8お祈りしています‥‥。
-#EN:
+#EN:I'll pray for your safety in/8battle...
 #EX:
  
  
 #MT:ナーム
 #JP:それから、イルザック王が/8この剣を王子に/8渡してくれと‥‥。
-#EN:
+#EN:King Isaac asked that I give this/8sword to the prince...
 #EX:
  
  
 #MT:
 #JP:グレートソードを手に入れた！
-#EN:
+#EN:Obtained a Great Sword!
 #EX:
  
  
 #MT:レディン
 #JP:父上‥‥。
-#EN:
+#EN:Father...
 #EX:
  
  
 #MT:ナーム
 #JP:申し訳ありません‥‥。
-#EN:
+#EN:There's no way I can apologize/8for what has happened...
 #EX:
  
  
 #MT:レディン
 #JP:いや、ナームのせいではない。/6/7気にするな。
-#EN:
+#EN:No, Narm, it's not your fault./6/7/8Don't be distressed.
 #EX:
  
  
 #MT:レディン
 #JP:全軍に告ぐ！/6/7これより我々はバルディアへ/8向かう！
-#EN:
+#EN:Attention all troops!/6/7/8We will now begin our march on/8Baldea!
 #EX:
  
  
 #MT:一般兵
 #JP:おおっ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:ナーム
 #JP:ならば、帝国軍をあざむくため、/8死霊の森から向かいましょう。
-#EN:
+#EN:To avoid the imperial troops,/8we'll need to cross through the/8Forest of Death.
 #EX:
  
  

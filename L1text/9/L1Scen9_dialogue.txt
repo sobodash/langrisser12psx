@@ -5,403 +5,403 @@
  
 #MT:テイラー
 #JP:鉄壁の守りだな‥‥。
-#EN:
+#EN:Their formation be like an iron/8wall, I say...
 #EX:
  
  
 #MT:ジェシカ
 #JP:王子。これ以上戦いが/8長引くと、敵の増援部隊が/8到着してしまいます。
-#EN:
+#EN:Prince, if this fight drags out/8too long, enemy reinforcements/8are bound to arrive.
 #EX:
  
  
 #MT:レディン
 #JP:よし、これより/8最終攻撃をかける。/6/7これで終わりにするぞ！
-#EN:
+#EN:OK, treat this like our final/8strike!/6/7/8This is the decisive battle!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:敵が攻撃を再開しました！
-#EN:
+#EN:They enemy has begun their attack!
 #EX:
  
  
 #MT:キルヒナー
 #JP:フン！こりもせずに/8また来たか。
-#EN:
+#EN:Shit! You've come even this far...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:何度やっても/8無駄だと言う事を/8たっぷり教えてやる！
-#EN:
+#EN:Ho! How many times till you swabs/8learn you're wasting your time?/6/7/8Prepare yourselves, Baldeans.
 #EX:
  
  
 #MT:アルバート
 #JP:どうやら敵は援軍を/8待っているようです。
-#EN:
+#EN:It seems like the enemies are/8holding out for reinforcements.
 #EX:
  
  
 #MT:レディン
 #JP:注意して戦った方が/8よさそうだな。
-#EN:
+#EN:Use caution in engagement, they/8could be plotting something.
 #EX:
  
  
 #MT:ソーン
 #JP:な、なんだ？！
-#EN:
+#EN:Wh-What?!
 #EX:
  
  
 #MT:クリス
 #JP:/2様、敵の援軍です！
-#EN:
+#EN:Lord /2!/6/7/8Enemy reinforcements are here!
 #EX:
  
  
 #MT:レディン
 #JP:あわてるな！/6/7早く城を落とすんだ！
-#EN:
+#EN:Don't be distracted!/6/7/8We must act quickly to bring down/8the castle if we're to succeed!
 #EX:
  
  
 #MT:バレンツ
 #JP:奴らを叩きつぶせ！
-#EN:
+#EN:Crush them!
 #EX:
  
  
 #MT:一般兵
 #JP:援軍だ！/6/7援軍が来るぞ！
-#EN:
+#EN:It's reinforcements!/6/7/8Reinforcements are coming!
 #EX:
  
  
 #MT:キルヒナー
 #JP:おお、待ちわびたぞ。/8よし反撃に移れ！
-#EN:
+#EN:Don't falter!/8The time to strike is now!
 #EX:
  
  
 #MT:レディン
 #JP:敵の増援部隊が来る前に/8城を落とすぞ！
-#EN:
+#EN:We must bring down the castle/8before reinforcements reach us!
 #EX:
  
  
 #MT:レディン
 #JP:いくぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:レディン
 #JP:あと少しでダルシス城と/8いう所で‥‥
-#EN:
+#EN:The next stop is Dalshis castle...
 #EX:
  
  
 #MT:キルヒナー
 #JP:この難攻不落とうたわれる/8ヴァルク城を落とそうとは、/8とんだ思い上がり共だな。/8ハッハッハッ！
-#EN:
+#EN:You'll never make it through the/8walls of Castle Valk!/6/7/8What on Earth are you thinking?!/8HA HA HA HA!
 #EX:
  
  
 #MT:ナーム
 #JP:女だからって/8甘く見ない方がいいわよ！
-#EN:
+#EN:Don't take me lightly just/8because I'm a woman!
 #EX:
  
  
 #MT:ナーム
 #JP:いけない！
-#EN:
+#EN:You're not going anywhere!
 #EX:
  
  
 #MT:ソーン
 #JP:邪魔をするな！
-#EN:
+#EN:You're in my way!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7肩をやられた！/6/7後は頼むぞ！
-#EN:
+#EN:Shit!/6/7/8My shoulder is hurt!/6/7/8Please fill in for me!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Kyaaa!
 #EX:
  
  
 #MT:クリス
 #JP:アッ！
-#EN:
+#EN:AAAAH!
 #EX:
  
  
 #MT:テイラー
 #JP:どきやがれ！
-#EN:
+#EN:Gangway!
 #EX:
  
  
 #MT:テイラー
 #JP:くそっ！/6/7やるじゃねえか！
-#EN:
+#EN:Shit!/6/7/8You're pretty good!
 #EX:
  
  
 #MT:ジェシカ
 #JP:邪魔はさせません！
-#EN:
+#EN:Never trifle with a sorceress!
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ、もう戦えないわ！
-#EN:
+#EN:Aah! I can't fight anymore!
 #EX:
  
  
 #MT:アルバート
 #JP:そこだ！
-#EN:
+#EN:Over here!
 #EX:
  
  
 #MT:アルバート
 #JP:ここまでか‥‥。
-#EN:
+#EN:I can't fall here...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:死ね！
-#EN:
+#EN:Die!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:うわぁー！
-#EN:
+#EN:Uwaaa!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:サカナのエサにしてやる！
-#EN:
+#EN:You're fish food!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:うわぁー！
-#EN:
+#EN:Uwaaa!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:貴様らの進軍も/8ここまでだ！
-#EN:
+#EN:Your march ends here!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:しまった！/6/7ゲフッ！
-#EN:
+#EN:Damn it!/6/7/8Gufuuh!
 #EX:
  
  
 #MT:一般兵
 #JP:まずい、/8城門が突破されるぞ！
-#EN:
+#EN:This isn't good, the port has/8fallen!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:クッ、やるな！/8だが、ここは通さぬ！
-#EN:
+#EN:Tsk, not bad!/8But I can't let you past here!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:目にものを見せてやるわ！
-#EN:
+#EN:This will be the last thing you/8ever see!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:死になさい！
-#EN:
+#EN:Kindly die already!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:今度会ったら/8タダじゃすまないわよ！
-#EN:
+#EN:When next we meet,/8I won't forgive this!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:血祭りにしてやる！
-#EN:
+#EN:I'll kill you next time!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:よくここまで来たな。/6/7しかし、これまでだ！
-#EN:
+#EN:You're pretty good to have made/8it here./6/7/8However, this will be your end!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:私は神に見捨てられた/8ようだな‥‥。
-#EN:
+#EN:Time me to meet my maker.../8I'll give your regards to God.
 #EX:
  
  
 #MT:キルヒナー
 #JP:ええい！/6/7援軍はまだ来ぬのか！
-#EN:
+#EN:Hyaaa!/6/7/8Where the hell are those/8reinforcements!
 #EX:
  
  
 #MT:キルヒナー
 #JP:このヴァルク城を/8貴様らの自由にさせん！
-#EN:
+#EN:I can't turn over this castle!
 #EX:
  
  
 #MT:キルヒナー
 #JP:ディゴス様、/8死んでおわびを‥‥/6/7グフッ！
-#EN:
+#EN:Emperor Digos, my time has/8come.../6/7/8Gufuu!
 #EX:
  
  
 #MT:アルバート
 #JP:愚かな‥‥。
-#EN:
+#EN:How foolish...
 #EX:
  
  
 #MT:ナーム
 #JP:残りの兵が逃げていくわ。
-#EN:
+#EN:The remaining soldiers are/8fleeing.
 #EX:
  
  
 #MT:レディン
 #JP:放っておいても/8かまわないだろう。
-#EN:
+#EN:Don't worry about them, they're/8no longer of any consequence.
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7お会いしたいという方が/8見えてます。
-#EN:
+#EN:Lord /2!/6/7/8Someone rides forth to meet us!
 #EX:
  
  
 #MT:ホーキング
 #JP:お久し振りです、王子。
-#EN:
+#EN:It's been a while, my prince.
 #EX:
  
  
 #MT:レディン
 #JP:ホーキング公！
-#EN:
+#EN:Lord Hawking!
 #EX:
  
  
 #MT:ホーキング
 #JP:私も共に戦いましょう。/6/7私では足手まといですかな？
-#EN:
+#EN:I've come to fight by your side./6/7/8Would I be of hinderance to you?
 #EX:
  
  
 #MT:レディン
 #JP:そんな、大いに助かります。
-#EN:
+#EN:Not a chance, your help would be/8greatly appreciated.
 #EX:
  
  
 #MT:ホーキング
 #JP:いよいよダルシス城も/8目の前となりましたな。
-#EN:
+#EN:The Dalshis Castle is finally/8coming into view.
 #EX:
  
  
 #MT:レディン
 #JP:ええ。/6/7準備が整いしだい/8すぐに出発します。
-#EN:
+#EN:Yeah./6/7/8It's time to prepare for the/8final stage of our advance!
 #EX:
  
  
 #MT:ホーキング
 #JP:そういえば、先程/8このような物を/8見つけたのですが。
-#EN:
+#EN:Oh and by the way, I found this/8object a while ago.
 #EX:
  
  
 #MT:ジェシカ
 #JP:それはワンドですわ。/6/7役に立ちますから/8持って行きましょう。
-#EN:
+#EN:It's a magical wand./6/7/8It may be useful to take it with/8you.
 #EX:
  
  
 #MT:
 #JP:ワンドを手に入れた！
-#EN:
+#EN:Obtained a Wand!
 #EX:
  
  
 #MT:ナーム
 #JP:王子！/6/7出発の準備が整いました！
-#EN:
+#EN:Prince!/6/7/8Our preparations are almost/8complete!
 #EX:
  
  
 #MT:レディン
 #JP:よし、このまま一気に/8ダルシス城まで進軍するぞ！
-#EN:
+#EN:Good, now we're only a stroke/8away from Dalshis Castle!
 #EX:
  
  
 #MT:ディスタン
 #JP:バルディアの奴らめ、/8調子に乗りやがって！
-#EN:
+#EN:Those bastards from Baldea.../8we must ride out and meet them!
 #EX:
  
  
 #MT:ディスタン
 #JP:ディスタン様のお通りだ！/6/7どけどけどけぇーっ！
-#EN:
+#EN:You heard Lord Distin's orders!/6/7/8Outta' the way!
 #EX:
  
  
 #MT:ディスタン
 #JP:よくも俺の地竜を！/6/7おぼえてろよ！
-#EN:
+#EN:How dare they, my Earth Dragon!/6/7/8I won't forget this!
 #EX:
  
  
 #MT:バレンツ
 #JP:命知らずな奴め！/6/7ふみつぶしてやる！
-#EN:
+#EN:Those reckless bastards!/6/7/8Trample and crush them!
 #EX:
  
  
 #MT:バレンツ
 #JP:私とした事が‥‥/6/7不覚！
-#EN:
+#EN:My plan was.... a failure!
 #EX:
  
  

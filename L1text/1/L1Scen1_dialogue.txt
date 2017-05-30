@@ -5,425 +5,425 @@
  
 #MT:レディン
 #JP:父上‥‥
-#EN:
+#EN:Father...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子！/8前方に人影が！
-#EN:
+#EN:My prince! I see the shadow of a/8woman ahead of us!
 #EX:
  
  
 #MT:レディン
 #JP:敵か？/8いや僧侶のようだ。
-#EN:
+#EN:What?!/8Oh, it looks like she's a priest.
 #EX:
  
  
 #MT:クリス
 #JP:！？
-#EN:
+#EN:Eyaa!?
 #EX:
  
  
 #MT:レディン
 #JP:恐がることはありません。/8我々は旅の者です。
-#EN:
+#EN:Don't be frightened. We're just/8travelers.
 #EX:
  
  
 #MT:クリス
 #JP:すみません、/8ビックリしたもので‥‥。
-#EN:
+#EN:I'm sorry, I was just startled,/8that's all...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:驚かれるのも当然です。/8この辺りは野盗が多く/8非常に危険ですからな。
-#EN:
+#EN:You have good reason to be cautious./8It's widely known that this area is/8home to a den of thieves!
 #EX:
  
  
 #MT:クリス
 #JP:私達は巡礼の旅を/8行っている者です。/6/7これからサルラスへ/8向かうところだったのですが‥‥
-#EN:
+#EN:My name is Chris, I'm traveling on/8a pilgrimage./8I was going to Salrath, but...
 #EX:
  
  
 #MT:レディン
 #JP:そうでしたか。/8よろしければ/8お送りしましょう。
-#EN:
+#EN:Is that so?/8My name is /2./6/7/8Please allow us to escort you/8there.
 #EX:
  
  
 #MT:クリス
 #JP:すみません。/6/7わざわざ送っていただく/8なんて‥‥
-#EN:
+#EN:I'm sorry./8I don't want you to go out of/8your way...
 #EX:
  
  
 #MT:レディン
 #JP:かまいませんよ、クリスさん。/6/7我々もサルラスへ向かう/8ところだったのですから。
-#EN:
+#EN:Worry not, Lady Chris./8We were on our way to Salrath/8as well.
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子。/6/7先程からただならぬ気配が。
-#EN:
+#EN:My prince, this field is not as/8empty as it was a moment ago...
 #EX:
  
  
 #MT:レディン
 #JP:野盗か！
-#EN:
+#EN:The thieves?!
 #EX:
  
  
 #MT:レディン
 #JP:クリスさん、/8町はもうすぐです。/6/7一気に抜けましょう！
-#EN:
+#EN:Chris, the town is only a little/8further!/6/7/8Run for it as fast as you can!
 #EX:
  
  
 #MT:クリス
 #JP:ハイ！
-#EN:
+#EN:OK!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ムッ！/6/7後ろからも野盗が/8追って来ますぞ！
-#EN:
+#EN:Damn!/6/7/8The thieves are attacking from/8the rear as well!
 #EX:
  
  
 #MT:レディン
 #JP:よし！行くぞ！
-#EN:
+#EN:All right then, let's go!
 #EX:
  
  
 #MT:シカ族
 #JP:皆殺しシカ！
-#EN:
+#EN:KILL THEM ALL, SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:やつらを逃すな！
-#EN:
+#EN:JUST GIRL, LET OTHERS ESCAPE!
 #EX:
  
  
 #MT:ド・モトフ
 #JP:シカ！/6/7皆殺しだぁぁぁぁー！/6/7ヒッヒッヒッヒッ！
-#EN:
+#EN:SHIKA!/6/7/8I WANT MURDER THEM ALLLLLLLL!/8HE HE HE HE HE!
 #EX:
  
  
 #MT:一般兵
 #JP:ホーキング様、/6/7町の近くで巡礼団が/8襲われています！
-#EN:
+#EN:Lord Hawking, a group of pilgrims/8is being attacked just outside/8the village!
 #EX:
  
  
 #MT:ホーキング
 #JP:何？！/6/7急いで助けに行くぞ！
-#EN:
+#EN:What!?/8Hurry, we have to help them!
 #EX:
  
  
 #MT:ソーン
 #JP:ハッ！/6/7みんな俺についてこい！/8行くぞ！
-#EN:
+#EN:Yes sir!/6/7/8Everyone, follow me!/8Let's go!
 #EX:
  
  
 #MT:一般兵
 #JP:オーッ！
-#EN:
+#EN:Yeah!
 #EX:
  
  
 #MT:レディン
 #JP:町は目の前だ！/6/7止まるな、走れ！
-#EN:
+#EN:The town is finally in sight!/6/7/8Don't stop running, Chris!
 #EX:
  
  
 #MT:クリス
 #JP:ハ、ハイ！
-#EN:
+#EN:O... OK.
 #EX:
  
  
 #MT:レディン
 #JP:これでもくらえ！
-#EN:
+#EN:Take this!
 #EX:
  
  
 #MT:レディン
 #JP:自分一人の身すら/8守れないとは‥‥
-#EN:
+#EN:I didn't have the strength to/8protect her alone...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:あまりクリスさんから/8離れないように/8行動しましょう。
-#EN:
+#EN:You need to stay with her if you're/8going to protect Chris!
 #EX:
  
  
 #MT:レディン
 #JP:わかった。
-#EN:
+#EN:I understand.
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:私に剣を向けるなど、/8１０年はやい！
-#EN:
+#EN:Here's ten years worth of swordplay/8coming at you!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:このような者に負けるとは/8私ももう年か‥‥。
-#EN:
+#EN:Ugh... maybe I still needed/8another year...
 #EX:
  
  
 #MT:クリス
 #JP:キャー！/6/7/2様！
-#EN:
+#EN:Eeeeek!/6/7/8Lord /2!
 #EX:
  
  
 #MT:レディン
 #JP:クリスさん！
-#EN:
+#EN:Chris!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！/8/2さまっ！
-#EN:
+#EN:*shriek*/8/2!!
 #EX:
  
  
 #MT:レディン
 #JP:私の力がおよばぬばかりに/8この様な事に‥‥。
-#EN:
+#EN:Let's go, Thorn!/8We have to help them!
 #EX:
  
  
 #MT:ホーキング
 #JP:行くぞ、ソーン！/8彼らを助けるのだ！
-#EN:
+#EN:Let's go, Thorn!/8We have to help them!
 #EX:
  
  
 #MT:ソーン
 #JP:ハッ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:ホーキング
 #JP:野盗を一掃するぞ！/6/7こいつらを町に入れるな！
-#EN:
+#EN:Vermin! Leave my land at once!/6/7/8I must protect our town to keep/8the peace!
 #EX:
  
  
 #MT:ホーキング
 #JP:だめか‥‥。/8一時退却だ。
-#EN:
+#EN:Shit.../8Let's retreat, for now.
 #EX:
  
  
 #MT:ソーン
 #JP:返り討ちにしてやる！
-#EN:
+#EN:I'll kill any who resist us.
 #EX:
  
  
 #MT:ソーン
 #JP:しまった。/8あとは頼む！
-#EN:
+#EN:Damn it!/8I leave the rest up to you!
 #EX:
  
  
 #MT:シカ族
 #JP:殺せ！殺せ！/8奴らを神にささげるのだ！/6/7シカーッ！
-#EN:
+#EN:KILL! KILL!/8WE SACRIFICE THEM TO GOD!/6/7/8SHIKA SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:神よ我が身をささげます！/8シカーッ！
-#EN:
+#EN:GOD, I ASK FOR YOUR POWER!/8SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:シカ！シカ！/8殺せ！！
-#EN:
+#EN:SHIKA! SHIKA!/8MURDER!
 #EX:
  
  
 #MT:シカ族
 #JP:神よ我が身をささげます！/8シカーッ！
-#EN:
+#EN:GOD, I ASK FOR YOUR POWER!/8SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:殺せ！殺せ！/8奴らを神にささげるのだ！/6/7シカーッ！
-#EN:
+#EN:KILL! MURDER!/8WE SACRIFICE THEM TO GOD!/6/7/8SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:シッシッシッ‥‥/8グッ！
-#EN:
+#EN:SH... SHH... SHHH.../8SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:シカ！シカ！/8殺せ！！
-#EN:
+#EN:SHIKA! SHIKA!/8KILL!
 #EX:
  
  
 #MT:シカ族
 #JP:シッシッシッ‥‥/8グッ！
-#EN:
+#EN:SH... SHH... SHHH.../8GUH!
 #EX:
  
  
 #MT:シカ族
 #JP:殺せ！殺せ！/8奴らを神にささげるのだ！/6/7シカーッ！
-#EN:
+#EN:KILL! KILL!/8WE SACRIFICE THEM TO GOD!/6/7/8SHIKA!
 #EX:
  
  
 #MT:シカ族
 #JP:神よ我が身をささげます！/8シカーッ！
-#EN:
+#EN:GOD, I ASK FOR YOUR STRENGTH!/8SHIKA!
 #EX:
  
  
 #MT:ド・モトフ
 #JP:ド・モトフ強い！/6/7お前、殺す！
-#EN:
+#EN:DOH MOTOV STRONG!/8HE KILL YOU!
 #EX:
  
  
 #MT:ド・モトフ
 #JP:こいつらちょっとだけ強い/8でも今度会ったら/8お前たち必ず殺す！
-#EN:
+#EN:THESE ONES TOUGH!/8WE KILL WHEN NEXT MEET!
 #EX:
  
  
 #MT:レディン
 #JP:クリスさん、大丈夫ですか？
-#EN:
+#EN:Chris, are you all right?
 #EX:
  
  
 #MT:クリス
 #JP:ええ、大丈夫です。
-#EN:
+#EN:Yes, thank you, I'm OK.
 #EX:
  
  
 #JP:あの‥‥。/8つまらない物ですが、/8助けていただいたお礼です。/6/7受け取ってください。
 #EN:
-#EX:
+#EX:Ummm.../8I know it's not much, but thank/8you for helping me./6/7/8Please take this.
  
  
 #JP:ラージシールドを手に入れた！
 #EN:
+#EX:Obtained a Large Shield!
+ 
+ 
+#MT:ホーキング
+#JP:王子？/6/7/2王子では/8ありませんか！
+#EN:Prince?!/6/7/8If it isn't prince /2!
 #EX:
  
  
 #MT:ホーキング
 #JP:王子？/6/7/2王子では/8ありませんか！
-#EN:
-#EX:
- 
- 
-#MT:ホーキング
-#JP:王子？/6/7/2王子では/8ありませんか！
-#EN:
+#EN:Prince?!/6/7/8If it isn't prince /2!
 #EX:
  
  
 #MT:クリス
 #JP:王子？
-#EN:
+#EN:Prince?
 #EX:
  
  
 #MT:レディン
 #JP:ホーキング公！
-#EN:
+#EN:Lord Hawking!
 #EX:
  
  
 #MT:ホーキング
 #JP:お久し振りです。/6/7一体、どうしたのですか？
-#EN:
+#EN:You haven't traveled here in a/8long time./6/7/8What brings you out this way?
 #EX:
  
  
 #MT:ホーキング
 #JP:お久し振りです。/6/7一体、どうしたのですか？
-#EN:
+#EN:You haven't traveled here in a/8long time./6/7/8What brings you out this way?
 #EX:
  
  
 #MT:レディン
 #JP:実は、バルディア城が/8ダルシスに襲われたのです！
-#EN:
+#EN:Well to tell the truth, Baldea/8was attacked by the Dalshis/8empire.
 #EX:
  
  
 #MT:ホーキング
 #JP:何ですと！/6/7では、イルザック王は？
-#EN:
+#EN:WHAT!?/8Then what's happened to your/8father, King Isaac?
 #EX:
  
  
 #MT:ホーキング
 #JP:何ですと！/6/7では、イルザック王は？
-#EN:
+#EN:WHAT!?/8Then what's happened to your/8father, King Isaac?
 #EX:
  
  
 #MT:レディン
 #JP:わかりません‥‥。/6/7ですから早く援軍を集め、/8助けに戻らねばなりません。
-#EN:
+#EN:I don't know.../6/7/8When last I saw him he was engaged/8in battle./6/7/8I was sent to rally reinforcements/8and return as soon as possible.
 #EX:
  
  
 #MT:ホーキング
 #JP:わかりました。/8私が兵を集めましょう。/6/7ですから、王子はゆっくりと/8お休み下さい。
-#EN:
+#EN:I understand./8I'll rally some able soldiers who/8are willing to fight./6/7/8But for tonight, prince, please/8rest here.
 #EX:
  
  
 #MT:ホーキング
 #JP:わかりました。/8私が兵を集めましょう。/6/7ですから、王子はゆっくりと/8お休み下さい。
-#EN:
+#EN:I understand./8I'll rally some able soldiers who/8are willing to fight./6/7/8But for tonight, prince, please/8rest here.
 #EX:
  
  
 #MT:レディン
 #JP:ホーキング公、感謝します。
-#EN:
+#EN:Thank you, Lord Hawking./8I appreciate your help.
 #EX:
  
  

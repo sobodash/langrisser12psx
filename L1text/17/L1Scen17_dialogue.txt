@@ -5,397 +5,397 @@
  
 #MT:レディン
 #JP:この廃虚が/8ヴェルゼリアなのか‥‥。
-#EN:
+#EN:Could these ruins be Velzeria...?
 #EX:
  
  
 #MT:ナーギャ
 #JP:やっと来ましたか、/8待ちくたびれましたよ。
-#EN:
+#EN:Oh, you're here at last./8I was getting tired of waiting/8for you.
 #EX:
  
  
 #MT:アルバート
 #JP:死にたくなければ/8そこをどくがいい！
-#EN:
+#EN:We can't afford to be killed now!
 #EX:
  
  
 #MT:ナーギャ
 #JP:そうは参りません。/6/7今回の私はいつもと/8少し違いますのでね。/6/7では私がニコリス様より/8さずかった、新たなる力を/8お目にかけましょう。
-#EN:
+#EN:Sorry to break it to you, but you/8ARE going to get killed now./6/7/8It took you guys a little while to/8catch up, didn't it?/6/7/8Well, now I'll show you the new/8power given to me by master/8Nicolis!
 #EX:
  
  
 #MT:ランス
 #JP:死にたくなければ/8そこをどくがいい！
-#EN:
+#EN:We won't die in a place like this!
 #EX:
  
  
 #MT:ナーギャ
 #JP:そうは参りません。/6/7今回の私はいつもと/8少し違いますのでね。/6/7では私がニコリス様より/8さずかった、新たなる力を/8お目にかけましょう。
-#EN:
+#EN:Sorry to break it to you, but you/8ARE to die./6/7/8It took you guys a little while to/8catch up, didn't it?/6/7/8Well, now I'll show you the new/8power given to me by master/8Nicolis!
 #EX:
  
  
 #MT:テイラー
 #JP:何だと！
-#EN:
+#EN:What?!
 #EX:
  
  
 #MT:ソーン
 #JP:何だと！
-#EN:
+#EN:What?!
 #EX:
  
  
 #MT:ナーギャ
 #JP:永遠なる大地よ。/6/7今さずける命をもちて/8このナーギャの手足となれ！/6/7ゴーディス・ザーラス・/8モモチ！
-#EN:
+#EN:I call thee, eternal soul of/8the Earth./6/7/8I call upon your life force!/8Enter my limbs and strengthen/8me!/6/7/8Gordith, Zarath, Momoch!
 #EX:
  
  
 #MT:ホーキング
 #JP:なんと柱が？！/8柱が巨人に！
-#EN:
+#EN:What is that...?/8It looks like a human rock!!
 #EX:
  
  
 #MT:レディン
 #JP:なんと柱が？！/8柱が巨人に！
-#EN:
+#EN:What is that...?/8It looks like a human rock!!
 #EX:
  
  
 #MT:ジェシカ
 #JP:気をつけて！/6/7あれはゴーレムよ！
-#EN:
+#EN:Everyone, listen up!/6/7/8Those things are golem!
 #EX:
  
  
 #MT:ナーム
 #JP:気をつけて！/6/7あれはゴーレムよ！
-#EN:
+#EN:Everyone, listen up!/6/7/8Those things are golem!
 #EX:
  
  
 #MT:レディン
 #JP:負けるものか！
-#EN:
+#EN:Can they be beaten?!
 #EX:
  
  
 #MT:ナーギャ
 #JP:ウヒャヒャヒャヒャ‥‥/6/7楽しませてもらいましたよ。
-#EN:
+#EN:HYA HYA HYA HYA.../6/7/8I'm going to enjoy this.
 #EX:
  
  
 #MT:レディン
 #JP:みんな、すまない‥‥
-#EN:
+#EN:Everyone, I'm sorry...
 #EX:
  
  
 #MT:レディン
 #JP:クッ！何て奴だ！/6/7ゴーレムは相手にするな、/8ナーギャを倒すんだ！
-#EN:
+#EN:Ho! What a guy!/6/7/8We'll just have to beat both Nagya/8and his Golem buddies!
 #EX:
  
  
 #MT:ナーム
 #JP:邪魔はさせないわ！
-#EN:
+#EN:I won't let you stop me!
 #EX:
  
  
 #MT:ナーム
 #JP:いけない‥‥
-#EN:
+#EN:I can't go on...
 #EX:
  
  
 #MT:ソーン
 #JP:こいつめ！
-#EN:
+#EN:These bastards...
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！
-#EN:
+#EN:Shit!
 #EX:
  
  
 #MT:クリス
 #JP:イヤー！
-#EN:
+#EN:Iyaaa!
 #EX:
  
  
 #MT:クリス
 #JP:/2様、/8ごめんなさい。
-#EN:
+#EN:Lord /2, I'm sorry...
 #EX:
  
  
 #MT:テイラー
 #JP:そこをどいてもらうぜ！
-#EN:
+#EN:Gangway!
 #EX:
  
  
 #MT:テイラー
 #JP:チッ！/6/7不覚をとっちまった。
-#EN:
+#EN:Damn!/6/7/8I was careless...
 #EX:
  
  
 #MT:ジェシカ
 #JP:この私と勝負する気なの？
-#EN:
+#EN:Can you feel my the blaze of my/8fighting spirit?
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ‥‥
-#EN:
+#EN:Ahhh...
 #EX:
  
  
 #MT:アルバート
 #JP:死んでもらおう！
-#EN:
+#EN:Die!
 #EX:
  
  
 #MT:アルバート
 #JP:くっ！
-#EN:
+#EN:Shit!
 #EX:
  
  
 #MT:ホーキング
 #JP:この世界をお前たちの/8自由になどさせん！
-#EN:
+#EN:I won't let you do as you/8please with our world!
 #EX:
  
  
 #MT:ホーキング
 #JP:油断しすぎたか‥‥
-#EN:
+#EN:I was careless...
 #EX:
  
  
 #MT:ランス
 #JP:私の攻撃を/8かわす事ができるかな。
-#EN:
+#EN:Let's exchange blows!
 #EX:
  
  
 #MT:ランス
 #JP:ナーギャ！/6/7貴様の操る魔物のために、/8私はかけがえの無い/8大切な人を失った。/6/7貴様には、その罪を/8あがなってもらうぞ！
-#EN:
+#EN:Nagya!/6/7/8Because of you and the damn/8demons, I've lost many people/8I cared about./6/7/8Your life is nothing but evil!
 #EX:
  
  
 #MT:ナーギャ
 #JP:ま、待ってくれ。/6/7助けてくれるなら/8他の美しい女をいくらでも/8お前のものにしてやろう。
-#EN:
+#EN:Woah, wait./6/7/8Sure, maybe I cost that one guy/8his pretty lady, but what did/8I do to the rest of you?
 #EX:
  
  
 #MT:ランス
 #JP:死ぬがよい、外道め！
-#EN:
+#EN:Die, you heretic!
 #EX:
  
  
 #MT:ランス
 #JP:チィッ！
-#EN:
+#EN:Damn!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＯＧＹＯＯＯ！
-#EN:
+#EN:GYOGYOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＯＧＹＯＯＯ！
-#EN:
+#EN:GYOGYOOO!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＳＨＥＥＥＥ！
-#EN:
+#EN:GYSHEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＥＥＥＥ！
-#EN:
+#EN:GUEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＥＥＥＥ！
-#EN:
+#EN:GUEEEE!
 #EX:
  
  
 #MT:ナーギャ
 #JP:そろそろ、彼らに/8とどめをさしてあげなさい。
-#EN:
+#EN:Well then, I think it's time you/8delivered those guys the/8finishing blow.
 #EX:
  
  
 #MT:ドラフィム
 #JP:ハッ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:ヒーディアス
 #JP:行くぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ドラフィム
 #JP:フッフッフ‥‥、/6/7死ねい！
-#EN:
+#EN:Heh heh heh.../6/7/8DIE!
 #EX:
  
  
 #MT:ドラフィム
 #JP:な、なにー？！
-#EN:
+#EN:Wh-What?!
 #EX:
  
  
 #MT:モンスター
 #JP:これまでか‥‥。
-#EN:
+#EN:Is this it...?
 #EX:
  
  
 #MT:ヒーディアス
 #JP:貴様の命、/8私がもらってやろう！
-#EN:
+#EN:I'll take your filthy lives!
 #EX:
  
  
 #MT:ヒーディアス
 #JP:うぎゃあぁぁ！
-#EN:
+#EN:Ugahhhh!
 #EX:
  
  
 #MT:ナーギャ
 #JP:さあ、私のかわいい/8ゴーレム達よ。/6/7彼らをふみつぶしてあげなさい。
-#EN:
+#EN:Come forth, my terrifying golem./6/7/8Trample those kids!
 #EX:
  
  
 #MT:ナーギャ
 #JP:ひぃー！/6/7ゴーレムは何をしている、/8早く奴らをかたづけろ！
-#EN:
+#EN:Gaaah!/6/7/8Golem, what the hell are you/8guys doing?!/8Quickly, go stomp them flat!
 #EX:
  
  
 #MT:ランス
 #JP:地獄へ落ちろ！
-#EN:
+#EN:Rot in hell!
 #EX:
  
  
 #MT:ナーギャ
 #JP:ひぃぃ！/6/7助けてくれ、死ぬのは/8イ‥‥ヤ‥‥ダ‥‥
-#EN:
+#EN:Eeeeek!/6/7/8Help me!/8I... don't... want.../8...... to die...
 #EX:
  
  
 #MT:ランス
 #JP:‥‥。
-#EN:
+#EN:......
 #EX:
  
  
 #MT:ナーギャ
 #JP:ひぃぃ！/6/7助けてくれ、死ぬのは/8イ‥‥ヤ‥‥ダ‥‥
-#EN:
+#EN:Eeeeek!/6/7/8Help me!/8I... don't... want.../8...... to die...
 #EX:
  
  
 #MT:アルバート
 #JP:愚かな‥‥。
-#EN:
+#EN:How foolish...
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7敵の大軍がこちらへ/8近づいています！
-#EN:
+#EN:Lord /2!/6/7/8A massive war party of enemies is/8approaching!
 #EX:
  
  
 #MT:一般兵
 #JP:/2様！/6/7敵の大軍がこちらへ/8近づいています！
-#EN:
+#EN:Lord /2!/6/7/8A massive war party of enemies is/8approaching!
 #EX:
  
  
 #MT:レディン
 #JP:何！/6/7敵も必死だな。/8よし、急ぎ突入する！
-#EN:
+#EN:What!/6/7/8They must be getting desperate./8OK everyone, let's hurry!
 #EX:
  
  
 #MT:ランス
 #JP:/2、/8ここは私がおさえる。
-#EN:
+#EN:/2, this is where we part./6/7/8I'll curb their assault!
 #EX:
  
  
 #MT:ナーム
 #JP:ランス！/6/7いくらあなたでも/8危険すぎるわ！
-#EN:
+#EN:Lance!/6/7/8You can't fight them alone,/8it's too dangerous!
 #EX:
  
  
 #MT:ランス
 #JP:大丈夫だ、ナーム。
-#EN:
+#EN:I'll be alright, Narm./8Don't worry.
 #EX:
  
  
 #MT:ナーム
 #JP:お願いよ。/6/7生きて帰ってきて！
-#EN:
+#EN:... Please./6/7/8You have to come back alive.
 #EX:
  
  
 #MT:ランス
 #JP:さあ早く行け！/6/7いいか、みんな死ぬなよ！
-#EN:
+#EN:Anyway, enough of this. You guys/8need to get going!/6/7/8Everyone, be careful not to get/8killed!
 #EX:
  
  
 #MT:レディン
 #JP:ランスこそ死ぬなよ。
-#EN:
+#EN:Lance, don't you die either.
 #EX:
  
  
 #MT:ランス
 #JP:さらばだ！
-#EN:
+#EN:Farewell!
 #EX:
  
  

@@ -5,421 +5,421 @@
  
 #MT:レーサス
 #JP:王子、大変です！/6/7巨大なドラゴンが/8こちらに向かってきます！
-#EN:
+#EN:Prince, we have a serious problem!/6/7/8An enormous dragon is heading/8right at us!
 #EX:
  
  
 #MT:レディン
 #JP:町の外で迎え討つぞ！/8市民を避難させろ！/8急ぐんだ！
-#EN:
+#EN:We need to keep it outside the town!/8Evacuate the citizens, quickly!
 #EX:
  
  
 #MT:ランス
 #JP:しかし、我々だけで/8あのドラゴンと渡りあうのは/8非常に危険だな。
-#EN:
+#EN:If we're all that's in its way.../8the dragon will easily be able to/8enter the town.
 #EX:
  
  
 #MT:コッセル
 #JP:/2様。
-#EN:
+#EN:Lord /2.
 #EX:
  
  
 #MT:レディン
 #JP:司祭殿、何か？
-#EN:
+#EN:What is it, priest?
 #EX:
  
  
 #MT:コッセル
 #JP:この町の北の山には/8強大な力を持つ/8炎の精霊が眠ると申します。/6/7その力ならば、/8ドラゴンと対等に/8戦えるのではと‥‥。
-#EN:
+#EN:The spirit of the great flame/8is said to rest in the mountain/8north-west of this village./6/7/8With its help, we may be able to/8battle the dragon on more equal/8footing...
 #EX:
  
  
 #MT:レディン
 #JP:そうか、/8やってみるか‥‥
-#EN:
+#EN:I see, then let's try to solicit/8its assistance...
 #EX:
  
  
 #MT:一般兵
 #JP:ドラゴンが/8海岸線を突破しました！
-#EN:
+#EN:The dragon has crossed the/8shoreline!
 #EX:
  
  
 #MT:レディン
 #JP:くそっ！/8我々では、やつを止める事が/8できないのか？！
-#EN:
+#EN:Shit!/8Can't we stop these guys?!
 #EX:
  
  
 #MT:レディン
 #JP:何としてもドラゴンを/8町まで行かせるな！/6/7食い止めるんだ！
-#EN:
+#EN:The dragon is heading right for/8the town!/6/7/8We have to find a way to stop it!
 #EX:
  
  
 #MT:レディン
 #JP:負けるものか！
-#EN:
+#EN:Are you trying to escape?!
 #EX:
  
  
 #MT:レディン
 #JP:ここまでか‥‥。
-#EN:
+#EN:Is this the end...?
 #EX:
  
  
 #MT:ナーム
 #JP:くらえ！/6/7化け物め！
-#EN:
+#EN:Take this, you damn monster!
 #EX:
  
  
 #MT:ナーム
 #JP:さすがに手強い/6/7相手のようね‥‥。
-#EN:
+#EN:Impressive.../8You'd make a great sparring/8partner.
 #EX:
  
  
 #MT:ソーン
 #JP:うりゃっ！
-#EN:
+#EN:Uryaaa!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7後はまかせる！
-#EN:
+#EN:Shit!/6/7/8It's all up to you now!
 #EX:
  
  
 #MT:クリス
 #JP:私も、がんばらなきゃ！
-#EN:
+#EN:I'll try my hardest too!
 #EX:
  
  
 #MT:クリス
 #JP:キャッ！
-#EN:
+#EN:Kyaa!
 #EX:
  
  
 #MT:テイラー
 #JP:いま、楽にしてやるぜ！
-#EN:
+#EN:Ho, me hearties! This be more fun/8than a barrel of grog!
 #EX:
  
  
 #MT:テイラー
 #JP:これ以上は無理か‥‥。/6/7すまんがいったんさがる！
-#EN:
+#EN:That was a bit too much.../6/7/8I think I'm done for this battle...
 #EX:
  
  
 #MT:ジェシカ
 #JP:これ以上、思い通りには/6/7いかせませんわ。
-#EN:
+#EN:Your assault ends here!
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ‥‥
-#EN:
+#EN:Ah...
 #EX:
  
  
 #MT:アルバート
 #JP:死んでもらおう！
-#EN:
+#EN:Die!
 #EX:
  
  
 #MT:アルバート
 #JP:くっ！
-#EN:
+#EN:Kuuu....
 #EX:
  
  
 #MT:ホーキング
 #JP:いくぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ホーキング
 #JP:いかん！
-#EN:
+#EN:Oh no!
 #EX:
  
  
 #MT:ランス
 #JP:生きて帰れると/8思わないことだな！
-#EN:
+#EN:Don't think you can return alive!
 #EX:
  
  
 #MT:ランス
 #JP:この私が/6/7無様に負けるとは‥‥
-#EN:
+#EN:It seems.../8... I am beaten...
 #EX:
  
  
 #MT:レーサス
 #JP:町をやらせるものか！
-#EN:
+#EN:You think you can do as you/8please in this village?!
 #EX:
  
  
 #MT:レーサス
 #JP:くそっ！/8囲まれたか！
-#EN:
+#EN:Shit! I'm trapped!
 #EX:
  
  
 #MT:レーサス
 #JP:む、無念‥‥。
-#EN:
+#EN:Muu... how regrettable...
 #EX:
  
  
 #MT:コッセル
 #JP:このバチ当たり者めが！
-#EN:
+#EN:Cursed bastard!
 #EX:
  
  
 #MT:コッセル
 #JP:どうやら、わしにも/6/7お迎えが来たようじゃな‥‥
-#EN:
+#EN:How could I have been..../6/7/8It looks like my final/8farewell is at hand...
 #EX:
  
  
 #MT:村人
 #JP:キャー！/6/7魔物が！！
-#EN:
+#EN:Kyaaa!/6/7/8You demons!
 #EX:
  
  
 #MT:村人
 #JP:キャー！/6/7お母さーん！
-#EN:
+#EN:Kyaaa!/6/7/8Mommy!
 #EX:
  
  
 #MT:ナーム
 #JP:ああ！/8炎の巨人が動くわ！
-#EN:
+#EN:Ah!/8The flame giant is moving!
 #EX:
  
  
 #MT:村人
 #JP:ああ！/8炎の巨人が動くわ！
-#EN:
+#EN:Ah!/8The flame giant is moving!
 #EX:
  
  
 #MT:村人
 #JP:ああ！/8炎の巨人が動くわ！
-#EN:
+#EN:Ah!/8The flame giant is moving!
 #EX:
  
  
 #MT:モンスター
 #JP:ＫＩＳＹＡＡＡＡ！
-#EN:
+#EN:KISHAAAA!
 #EX:
  
  
 #MT:イフリート
 #JP:さあ来なさい。/6/7お前達の相手は/8私が引き受けよう。
-#EN:
+#EN:Come hither./6/7/8Your powers are nothing to my/8inferno!
 #EX:
  
  
 #MT:イフリート
 #JP:灰と化すがよい！
-#EN:
+#EN:I'll burn you to ash!
 #EX:
  
  
 #MT:イフリート
 #JP:私の力もこれまで。/6/7精霊界へ還らねば‥‥。
-#EN:
+#EN:That was all I had.../6/7/8It looks like my time to enter/8the spirit world has come...
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＷＡＡＡＡ！
-#EN:
+#EN:GUWAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥ！
-#EN:
+#EN:GIEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥ！
-#EN:
+#EN:GIEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＷＡＡＡＡ！
-#EN:
+#EN:GUWAAAA!
 #EX:
  
  
 #MT:ナーギャ
 #JP:フヒャヒャヒャヒャ‥‥/6/7町ごと燃やして/8皆殺しにしてあげなさい。
-#EN:
+#EN:HYA HYA HYA HYA!!/6/7/8Good, good!/8Burn up the whole town!/8Murder everyone!
 #EX:
  
  
 #MT:モンスター
 #JP:ＫＩＳＹＡＡＡＡ！
-#EN:
+#EN:KISHAAAA!
 #EX:
  
  
 #MT:ナーギャ
 #JP:二度もこの私に恥を/8かかせるとは。/6/7覚えていなさい！
-#EN:
+#EN:That makes twice/8you've shamed me./6/7/8I won't forget about this!
 #EX:
  
  
 #MT:レディン
 #JP:精霊よ、/8炎の精霊よ！/6/7お願いだ、力をかしてくれ！
-#EN:
+#EN:He who burns red as the sun!/8Oh great spirit of flame!/6/7/8I ask that you lend us your/8strength!
 #EX:
  
  
 #MT:イフリート
 #JP:誰だ、/8私を呼ぶ者は？
-#EN:
+#EN:Who is it that disturbs my slumber?
 #EX:
  
  
 #MT:レディン
 #JP:私はバルディアの王子、/8/2。/6/7今、町がドラゴンに/8襲われている。/6/7どうか力を！
-#EN:
+#EN:I am the prince of Baldea, /2./6/7/8This town is being attacked by/8a great dragon./6/7/8It had such unyielding power!
 #EX:
  
  
 #MT:イフリート
 #JP:バルディア‥‥？/6/7そうか、エルスリードの/8末えいか‥‥。/6/7よし、やってみよう。
-#EN:
+#EN:Baldea.../6/7/8I see, then you are a/8descendant of Elthlead.../6/7/8In that case, I will help you.
 #EX:
  
  
 #MT:クリス
 #JP:ドラゴンが/8逃げていきます！
-#EN:
+#EN:The dragon is escaping!
 #EX:
  
  
 #MT:一般兵
 #JP:ドラゴンが/8逃げていきます！
-#EN:
+#EN:The dragon is escaping!
 #EX:
  
  
 #MT:レディン
 #JP:弱っている今のうちに/8追撃をかけるぞ！/6/7一気にとどめをさすんだ！
-#EN:
+#EN:This is our chance!/6/7/8Now that it's weakened, we can/8follow and finish it for good!
 #EX:
  
  
 #MT:ソーン
 #JP:はっ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:一般兵
 #JP:はっ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:コッセル
 #JP:王子。/8これを持っていって下され。
-#EN:
+#EN:Prince, take this.
 #EX:
  
  
 #MT:
 #JP:ルーンストーンを手に入れた！
-#EN:
+#EN:Obtained a Rune Stone!
 #EX:
  
  
 #MT:レディン
 #JP:しかし、ナーギャが/8現れるとは‥‥。/6/7まさか今までのモンスター達も/8奴が操っていたのだろうか？
-#EN:
+#EN:But the dragon appeared with/8Nagya.../6/7/8Is it possible that he was the/8one controlling it?
 #EX:
  
  
 #MT:アルバート
 #JP:おそらく、そうでしょう。/6/7本来ならば魔物が集団で/8人々を襲うなど/8ありえない事です。
-#EN:
+#EN:That may be so./6/7/8Normally, the demons would never/8attack people in such small/8groups.
 #EX:
  
  
 #MT:一般兵
 #JP:おそらく、そうでしょう。/6/7本来ならば魔物が集団で/8人々を襲うなど/8ありえない事です。
-#EN:
+#EN:That may be so./6/7/8Normally, the demons would never/8attack people in such small/8groups.
 #EX:
  
  
 #MT:レディン
 #JP:これも/8邪悪なる力のせいなのか。/6/7ところでジェシカは/8エルスリードの事を/8知っているか？
-#EN:
+#EN:I wonder, where are these evil/8creatures coming from...?/6/7/8Oh, by the way, Jessica, what is/8this thing called Elthlead?
 #EX:
  
  
 #MT:ジェシカ
 #JP:その昔、バルディア王国は/8その名で呼ばれておりました。
-#EN:
+#EN:That's what the kingdom of Baldea/8was called in ancient times.
 #EX:
  
  
 #MT:レディン
 #JP:そうか‥‥。
-#EN:
+#EN:I see...
 #EX:
  
  
 #MT:レディン
 #JP:我々では、やつを/8止める事ができないのか！
-#EN:
+#EN:So, who will join us in stopping/8the dragon?
 #EX:
  
  
 #MT:クリス
 #JP:町が、/6/7町が燃えていく‥‥
-#EN:
+#EN:The town.../6/7/8The town is burning...
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＡＲＵＵＵ！
-#EN:
+#EN:GARUUU!
 #EX:
  
  
 #MT:モンスター
 #JP:ＷＯＯＯＯＮ！
-#EN:
+#EN:WOOOON!
 #EX:
  
  

@@ -5,379 +5,379 @@
  
 #MT:ソーン
 #JP:これが皇帝ディゴスの居城、/8ツインキャッスル！
-#EN:
+#EN:We're here, it's the Twin Castle/8of Emperor Digos!
 #EX:
  
  
 #MT:ホーキング
 #JP:おそらくディゴスは/8この城の上にいるはずです。
-#EN:
+#EN:Digos should be somewhere inside/8these walls.
 #EX:
  
  
 #MT:レディン
 #JP:よし、目指すは/8皇帝ディゴスただ１人！/6/7雑兵にはかまうな、続け！
-#EN:
+#EN:OK, our aim may be Emperor Digos/8alone!/6/7/8But don't ignore the other/8soldiers!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:あれが/2とかいう/8小僧か？/6/7我々がバルディア城を落とす時、/8仲間を見捨て１人で逃げ出した/8臆病者だったな？/6/7クックック‥‥。
-#EN:
+#EN:Ohhh? Is that little Prince /2/8I see over there?/6/7/8As I recall, when we stormed your/8precious castle, you scurried off/8alone and left all your friends/8to die./6/7/8He he he...
 #EX:
  
  
 #MT:ジェシカ
 #JP:王子、あの男を/8許すわけには参りません。/6/7私が礼儀というものを/8教えましょう！
-#EN:
+#EN:Prince, don't listen to that man./6/7/8He needs to learn some manners.
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:せっかくひろった命を/8捨てたいのか？/6/7ならば、今度こそ息の根を/8止めてくれるわ！
-#EN:
+#EN:Will you so carelessly throw away/8your life?/6/7/8If that's the case, then come/8here!
 #EX:
  
  
 #MT:ソーン
 #JP:チッ！遅かったか！/6/7/2め、/8これ以上はやらせん。/8今度こそ決着をつけてやる！
-#EN:
+#EN:Tsk, think you can reach the/8Emperor, do you?/6/7/8/2, our last match was a nice/8warm-up but now it's time for/8the finale!
 #EX:
  
  
 #MT:モンスター
 #JP:ＫＩＳＹＡＡＡＡ！
-#EN:
+#EN:KISHAAAA!
 #EX:
  
  
 #MT:レディン
 #JP:？！/8また化け物が現れたのか！
-#EN:
+#EN:?!/8More monsters have appeared?!
 #EX:
  
  
 #MT:ソーン
 #JP:バカな？！/6/7こいつらが、この城を/8攻めてくるなど！
-#EN:
+#EN:Impossible?!/6/7/8Are they're trying to attack the/8castle too?!
 #EX:
  
  
 #MT:レディン
 #JP:ランス！/8この異常に気付かないのか！
-#EN:
+#EN:Lance!/8Courage is one thing but to/8continue like this is suicide!
 #EX:
  
  
 #MT:ソーン
 #JP:ざれごとを！/8貴様はこいつらを倒した後で/8ゆっくりと料理してやる。/6/7待っていろよ！
-#EN:
+#EN:Do you jest?!/8I eat weaklings like these for/8breakfast./6/7/8Wait your turn!
 #EX:
  
  
 #MT:
 #JP:上空に空を飛ぶ不思議な/8物体がある。/8しばらく見ていると/8何か物が落ちてきた。/6/7ルーンストーンを手に入れた！
-#EN:
+#EN:A strange object quickly darted/8across the sky./6/7/8After passing, something/8fell to the ground./6/7/8Obtained a Rune Stone!
 #EX:
  
  
 #MT:レディン
 #JP:ここは通してもらう！
-#EN:
+#EN:I won't be stopped now!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:愚か者めが！/6/7クックック‥‥。
-#EN:
+#EN:You damn fools!/6/7/8He he he he...
 #EX:
  
  
 #MT:レディン
 #JP:ディゴスと戦う前に/8破れてしまうのか‥‥
-#EN:
+#EN:To have fallen before Digos...
 #EX:
  
  
 #MT:ナーム
 #JP:どうあっても/8ディゴスの所まで/8行かせてもらうわ！
-#EN:
+#EN:I'll never let you stop me from/8reaching Emperor Digos!
 #EX:
  
  
 #MT:ナーム
 #JP:くっ！
-#EN:
+#EN:Augh!
 #EX:
  
  
 #MT:ソーン
 #JP:ここまで来て/8退くわけにはいかん！
-#EN:
+#EN:After coming this far,/8there's no way I'll turn back!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7後は頼むぞ！
-#EN:
+#EN:Shit!/6/7/8You're going to have to go on/8without me!
 #EX:
  
  
 #MT:クリス
 #JP:えい！
-#EN:
+#EN:Hyaaaa!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Kyaa!
 #EX:
  
  
 #MT:テイラー
 #JP:この野郎！
-#EN:
+#EN:What a pain in the ass!
 #EX:
  
  
 #MT:テイラー
 #JP:ちっくしょう！/6/7こんな奴らに負けるのか？！
-#EN:
+#EN:God damn it!/6/7/8How the fuck can I lose to/8this guy?!
 #EX:
  
  
 #MT:ジェシカ
 #JP:思う存分、/8戦わせてもらいましょう。
-#EN:
+#EN:I'll never give up the fight!
 #EX:
  
  
 #MT:ジェシカ
 #JP:もうこれ以上戦えません。/6/7さがります！
-#EN:
+#EN:How can you continue to fight?!/6/7/8Back off!
 #EX:
  
  
 #MT:アルバート
 #JP:くらえ！
-#EN:
+#EN:Take this!
 #EX:
  
  
 #MT:アルバート
 #JP:ダメだ！
-#EN:
+#EN:It's no use!
 #EX:
  
  
 #MT:ホーキング
 #JP:行くぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ホーキング
 #JP:こんな所でやられるとは/8情けない‥‥。
-#EN:
+#EN:To die in such a wretched place...
 #EX:
  
  
 #MT:ディスタン
 #JP:おっと、/8ここは誰も通さんぜ！
-#EN:
+#EN:Oh ho, and who do you think you/8are?!
 #EX:
  
  
 #MT:ディスタン
 #JP:ディゴス様！/8お助けをー！/6/7グフッ！
-#EN:
+#EN:Emperor Digos, please help---/6/7/8Guhaa...!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:魔法の力を/8思い知らせてあげる！
-#EN:
+#EN:Witness the power of my magic!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:あぁ‥‥/6/7空が高い‥‥。
-#EN:
+#EN:Aaah.../6/7/8The sky... it looks so.../8high...
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:貴様ごときが/8この私に勝てるものか！
-#EN:
+#EN:Come at me as you please, you'll/8never defeat me!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:くっ、仕方ない。/6/7上で待ってるぞ、/8バルディアの小僧ども！
-#EN:
+#EN:Kuh, I'm helpless./6/7/8Wait for me, youngster from/8Baldea!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:燃えろ、燃えろ！
-#EN:
+#EN:BURN! BLAZE! SMOLDER!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:ギャーッ
-#EN:
+#EN:Gyaaa
 #EX:
  
  
 #MT:バレンツ
 #JP:ここの通行料は高くつくぞ！
-#EN:
+#EN:Passing here will cost you/8dearly!
 #EX:
  
  
 #MT:バレンツ
 #JP:さすがだ、バルディアの/8諸君。私の完敗だ‥‥
-#EN:
+#EN:Most impressive, ladies and/8gentlemen of Baldea./8You've managed to best me...
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＳＨＥＥＥＥ！
-#EN:
+#EN:GYSHEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＳＨＥＥＥＥ！
-#EN:
+#EN:GYSHEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＳＨＥＥＥＥ！
-#EN:
+#EN:GYSHEEEE!
 #EX:
  
  
 #MT:ソーン
 #JP:貴様など私の敵ではない！/6/7死ね！
-#EN:
+#EN:Someone like you isn't fit to be/8my enemy!/6/7/8Die! God damn you, DIE!
 #EX:
  
  
 #MT:ソーン
 #JP:チィッ！
-#EN:
+#EN:Aaargh!
 #EX:
  
  
 #MT:レディン
 #JP:ランス、ここから引け！/6/7その傷では戦えないはずだ！
-#EN:
+#EN:Lance, that's enough!/6/7/8With that injury, there's no way/8you can continue to fight!
 #EX:
  
  
 #MT:ソーン
 #JP:私に情けをかけるというのか！
-#EN:
+#EN:You think to show me mercy?!/8Never have I been so insulted.
 #EX:
  
  
 #MT:レディン
 #JP:無用な戦いをする気はない。/6/7我々は、ディゴスを倒して/8ラングリッサーを/8取り戻したいだけだ！
-#EN:
+#EN:There's no need to continue this/8useless battle!/6/7/8We will defeat Digos and/8retrieve Langrisser at any cost.
 #EX:
  
  
 #MT:ソーン
 #JP:貴様、/8陛下に勝てる気でいるのか！
-#EN:
+#EN:You bastard, how can someone/8like you ever hope to defeat/8his majesty?
 #EX:
  
  
 #MT:レディン
 #JP:ラングリッサーを/8取り戻さなければ、平和を/8得る事ができないのだ。/6/7ラングリッサーの封印が/8解かれたから、あのモンスター/8が暴れているんだぞ！
-#EN:
+#EN:If we don't recover Langrisser,/8there can never be peace./6/7/8Because the seal of Langrisser/8has been broken, monsters are/8awakening in our land!
 #EX:
  
  
 #MT:ソーン
 #JP:‥‥。/8信じられんな。
-#EN:
+#EN:....../6/7/8I don't believe you.
 #EX:
  
  
 #MT:ライアス
 #JP:隊長！/8ご無事ですか？！/6/7こちらです！早く！
-#EN:
+#EN:Captain!/8Are you OK?!/6/7/8Please come here, hurry!
 #EX:
  
  
 #MT:ソーン
 #JP:‥‥。
-#EN:
+#EN:...
 #EX:
  
  
 #MT:ライアス
 #JP:隊長！
-#EN:
+#EN:Captain!
 #EX:
  
  
 #MT:ソーン
 #JP:いいか、おぼえておけ。/8力なくして平和などありえぬ。/6/7そしてラングリッサーこそ/8その力だ！/6/7陛下は戦乱をおさめるために/8力を欲した。/6/7陛下は大義のために/8立ったのだ。/6/7決して貴様らなどには/8負けたりせぬ！/8さらばだ！
-#EN:
+#EN:It's OK, without great power,/8there will never be peace./6/7/8Langrisser has that power!/6/7/8His majesty desired power to/8bring an end to the wars./6/7/8For that purpose alone he sought/8Langrisser./6/7/8His majesty has always been the/8epitome of righteousness./6/7/8I will never believe he can be/8defeated by people like you./8Farewell.
 #EX:
  
  
 #MT:レディン
 #JP:ランス‥‥
-#EN:
+#EN:Lance...
 #EX:
  
  
 #MT:レディン
 #JP:最上階にディゴスがいる！/6/7ラングリッサーを取り戻すぞ！
-#EN:
+#EN:Digos is on the top floor!/6/7/8We have to recover Langrisser!
 #EX:
  
  
 #MT:ナーム
 #JP:いよいよディゴスと/8決戦する時がきたのね。
-#EN:
+#EN:The time for our final battle/8with Digos is at hand!
 #EX:
  
  
 #MT:テイラー
 #JP:奴のために死んだ/8多くの仲間のために、/8負けるわけにはいかねえな。
-#EN:
+#EN:So many swabs have died for his/8cause./6/7/8Ho... be we really able to stop/8him?
 #EX:
  
  
 #MT:ジェシカ
 #JP:さあ、急いで行きましょう！
-#EN:
+#EN:Come on, let's hurry!
 #EX:
  
  
 #MT:クリス
 #JP:/2様、/8入口が２つあります！！
-#EN:
+#EN:Lord /2, there appears to be/8two entrances.
 #EX:
  
  
 #MT:レディン
 #JP:よし。二手に別れて/8ディゴスのいる最上階まで、/8突撃するぞ！
-#EN:
+#EN:OK. Let's divide up into two/8groups./6/7/8Digos has to be on the top floor.
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:ま、まて！/8逃げるのか、卑怯者め！
-#EN:
+#EN:W-Wait!!/8You damn cowards!
 #EX:
  
  

@@ -5,361 +5,361 @@
  
 #MT:ボーゼル
 #JP:よく来たな、/8エルスリードの末えいよ。
-#EN:
+#EN:Welcome, descendants of Elthlead.
 #EX:
  
  
 #MT:レディン
 #JP:誰だ！お前は！
-#EN:
+#EN:Who's there?! Who are you?!
 #EX:
  
  
 #MT:ボーゼル
 #JP:我が名はボーゼル。/6/7このヴェルゼリアの、/8否、全世界の支配者だ。
-#EN:
+#EN:My name is Boser./6/7/8I'm the lord of Velzeria, no,/8now of this entire world.
 #EX:
  
  
 #MT:レディン
 #JP:何だと！/6/7この世界をお前の自由になど/8させてたまるか！
-#EN:
+#EN:What the hell?!/6/7/8Mankind is free, how can you/8claim control over this world?
 #EX:
  
  
 #MT:ボーゼル
 #JP:フッ、威勢のいい事だな。/6/7ニコリス、ナーギャ、/8奴らの相手をしてやれ！
-#EN:
+#EN:Hmmmmm? Well that would be because/8of a thing called "power."/6/7/8Nicolis, Nagya, do be kind and/8entertain our guests for a/8while!
 #EX:
  
  
 #MT:ニコリス
 #JP:おおせのままに。/6/7では私の術を奴らに/8くれてやりましょう。/6/7虚空の闇に潜み、/8偽りを司どる亡者よ。/8我が盟約に従い、/8なんじの力を示せ。/6/7スエシ、ヌエル、カオス。/8ムービ、リコーニ！
-#EN:
+#EN:As you command./6/7/8I guess I'll let them see a/8little of my magic./6/7/8Oh ye who dwells within/8the darkness of the void.../8Lord of lies and death./6/7/8I swear my soul to walk/8the path of darkness,/8An awaiting vessel/8for your vast powers!/6/7/8Suecia Nuel Kaos./8Mulvi Ricohn!
 #EX:
  
  
 #MT:ナーム
 #JP:アアッ！/8頭が‥‥。
-#EN:
+#EN:Aaah!/8My head...
 #EX:
  
  
 #MT:クリス
 #JP:アアッ！/8頭が‥‥。
-#EN:
+#EN:Aaah!/8My head...
 #EX:
  
  
 #MT:クリス
 #JP:アアッ！/8頭が‥‥。
-#EN:
+#EN:Aaah!/8My head...
 #EX:
  
  
 #MT:ナーム
 #JP:アアッ！/8頭が‥‥。
-#EN:
+#EN:Aaah!/8My head...
 #EX:
  
  
 #MT:レディン
 #JP:？！/8どうしたんだ！
-#EN:
+#EN:?!/8What's wrong?!
 #EX:
  
  
 #MT:ニコリス
 #JP:クックック‥‥。/8幻覚の術を使ったのだ。/6/7これから仲間同士で/8殺し合いを楽しむがいい。
-#EN:
+#EN:He he heee.../8That would be the curse of/8visions./6/7/8Your companion should have no/8qualm about murdering you now./8He he hee...
 #EX:
  
  
 #MT:レディン
 #JP:お前達の思い通りに/8やらせないぞ！
-#EN:
+#EN:You can't get away with this!
 #EX:
  
  
 #MT:レディン
 #JP:こんな所で負ける/8わけには‥‥
-#EN:
+#EN:I can't believe I'd fall here...
 #EX:
  
  
 #MT:ナーム
 #JP:覚悟！
-#EN:
+#EN:Prepare yourself!
 #EX:
  
  
 #MT:ナーム
 #JP:こんなはずじゃ‥‥
-#EN:
+#EN:This is most unexpected...
 #EX:
  
  
 #MT:ソーン
 #JP:とどめだ！
-#EN:
+#EN:This will finish you!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ、/6/7やられた！/8後はまかせる！
-#EN:
+#EN:Shit!/6/7/8I'm done for, you'll have to/8carry on without me!
 #EX:
  
  
 #MT:クリス
 #JP:ヤアッ！
-#EN:
+#EN:Yaaa!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Kyaaa!
 #EX:
  
  
 #MT:テイラー
 #JP:ナメやがって！
-#EN:
+#EN:Damn you!
 #EX:
  
  
 #MT:テイラー
 #JP:ちくしょう！
-#EN:
+#EN:God damn it!
 #EX:
  
  
 #MT:ジェシカ
 #JP:王子。/6/7ニコリスを倒す事ができれば/8あの術を破れるはずです。
-#EN:
+#EN:My prince, I have an idea./6/7/8If you can defeat Nicolis,/8there's a chance it may break his/8spell.
 #EX:
  
  
 #MT:レディン
 #JP:わかった。/6/7急いでニコリスを倒すぞ！
-#EN:
+#EN:I understand./6/7/8In that case let's hurry after/8Nicolis!
 #EX:
  
  
 #MT:ジェシカ
 #JP:！？
-#EN:
+#EN:!?
 #EX:
  
  
 #MT:ジェシカ
 #JP:私の魔力では/8勝てないのかしら‥‥
-#EN:
+#EN:You cannot break my enchantment...
 #EX:
  
  
 #MT:アルバート
 #JP:ここまで来て/8一歩も退くわけにはいかん！
-#EN:
+#EN:I've come this far, I won't/8run away!
 #EX:
  
  
 #MT:アルバート
 #JP:後を頼む！
-#EN:
+#EN:Please see to the rest!
 #EX:
  
  
 #MT:ホーキング
 #JP:いくぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ホーキング
 #JP:王子、申し訳ありません。/6/7いったんさがります。
-#EN:
+#EN:My prince, I've failed you./6/7/8I must retreat at once.
 #EX:
  
  
 #MT:ランス
 #JP:ニコリスの相手は/8私にまかせろ！/6/7奴の術を急いで封じるぞ！
-#EN:
+#EN:Leave Nicolis's buddies to me./6/7/8Hurry and seal their powers!
 #EX:
  
  
 #MT:ランス
 #JP:生きて帰れると/8思わない事だな！
-#EN:
+#EN:I won't let you return alive!
 #EX:
  
  
 #MT:ランス
 #JP:チィッ！/6/7ここまでか！
-#EN:
+#EN:Damn!/6/7/8Is this the end?
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＡＡＡＡ！
-#EN:
+#EN:GUGAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥＥ！
-#EN:
+#EN:GIEEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＡＡＡＡ！
-#EN:
+#EN:GUGAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥＥ！
-#EN:
+#EN:GIEEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＡＡＡＡ！
-#EN:
+#EN:GUGAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥＥ！
-#EN:
+#EN:GIEEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＡＡＡＡ！
-#EN:
+#EN:GUGAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥＥ！
-#EN:
+#EN:GIEEEEE!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＵＧＡＡＡＡ！
-#EN:
+#EN:GUGAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＥＥＥＥＥ！
-#EN:
+#EN:GIEEEEE!
 #EX:
  
  
 #MT:ニコリス
 #JP:そろそろ/8本気を出させてもらおうか。
-#EN:
+#EN:Don't bother coming out if you're/8not planning to fight seriously.
 #EX:
  
  
 #MT:ニコリス
 #JP:私の術を邪魔しようとしても/8無駄な事だ！/6/7貴様ごときが私に/8勝てるわけがない！
-#EN:
+#EN:Don't waste your time trying to/8break my enchantment./6/7/8There no way you can defeat me.
 #EX:
  
  
 #MT:ニコリス
 #JP:しまった、私の術が‥‥/6/7くそっ！覚えていろ！
-#EN:
+#EN:You... you broke my spell.../6/7/8Shit! I won't forget this!
 #EX:
  
  
 #MT:ナーム
 #JP:？/8私、一体どうしたのかしら？
-#EN:
+#EN:?!/8I... what am I doing here?
 #EX:
  
  
 #MT:レディン
 #JP:大丈夫だ！/6/7ニコリスの術によって/8操られていただけだ。
-#EN:
+#EN:You're OK now!/6/7/8You were under one of Nicolis's/8spells.
 #EX:
  
  
 #MT:クリス
 #JP:アレ？！/6/7私、今まで何をやって/8いたのかしら？
-#EN:
+#EN:Eh?!/6/7/8What am I doing over here?
 #EX:
  
  
 #MT:レディン
 #JP:大丈夫だ！/6/7ニコリスの術によって/8操られていただけだ。
-#EN:
+#EN:You're okay now!/6/7/8You were under one of Nicolis's/8spells.
 #EX:
  
  
 #MT:ナーギャ
 #JP:ウヒャヒャヒャ‥‥/6/7皆殺しにしてあげましょう。
-#EN:
+#EN:UHYA HYA HYA!/6/7/8Go and murder everyone!/8Hee hee hee...
 #EX:
  
  
 #MT:ナーギャ
 #JP:あなた達はまだ神の力が/8分からないのですか‥‥/6/7では、おしおきをして/8あげましょう。
-#EN:
+#EN:Do you understand the power/8of our god yet?!/6/7/8Resistance is like trying to hold/8back the tide!
 #EX:
  
  
 #MT:ナーギャ
 #JP:うぎゃー！/6/7つ、次こそは/8あなた達を倒してあげます。/6/7しばらく待っていなさい！
-#EN:
+#EN:Ugyaa!/6/7/8Damn it, I'm going to/8beat you next time for sure!/6/7/8Just you wait!
 #EX:
  
  
 #MT:ボーゼル
 #JP:この私に剣を向けるとは/8愚かな事を‥‥。
-#EN:
+#EN:Directing your sword at me is/8foolish indeed.
 #EX:
  
  
 #MT:ボーゼル
 #JP:人間にしては/8なかなかやるな。/6/7そろそろ時間だ、/8後でまた会おう。
-#EN:
+#EN:For a human you've done quite/8well./6/7/8But we will meet again.
 #EX:
  
  
 #MT:ボーゼル
 #JP:ここで貴様らの命を/8絶つつもりだったが、/8そろそろ時間だ。/6/7次の機会まで/8貴様らの命は預けておく。/6/7では一足先に、/8地下神殿で待っているぞ！
-#EN:
+#EN:The time has come for you to/8make a choice./6/7/8Up till now I've given you the/8opportunity to flee and spare/8your lives./6/7/8But should you persist, I will/8eagerly await you in the/8underground sanctuary.
 #EX:
  
  
 #MT:レディン
 #JP:このまま一気に/8ヴェルゼリア城へ突入する！/6/7いくぞ！
-#EN:
+#EN:Quickly! We're only a little/8way from Velzeria Castle!/6/7/8Let's move out!
 #EX:
  
  
 #MT:ソーン
 #JP:オオー！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:一般兵
 #JP:オオー！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:レディン
 #JP:ボーゼル！/6/7二度とよみがえらぬよう、/8このラングリッサーで/8封印してやる！
-#EN:
+#EN:Boser!/6/7/8The time is at hand!/8We'll defeat you and seal you and/8your henchmen once again with/8Langrisser!
 #EX:
  
  

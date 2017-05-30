@@ -5,361 +5,361 @@
  
 #MT:ライアス
 #JP:敵が接近して来ます！
-#EN:
+#EN:The enemy is approaching!
 #EX:
  
  
 #MT:ソーン
 #JP:よし。/8全軍、布陣を急げ！
-#EN:
+#EN:Excellent./8All troops, assume formation!
 #EX:
  
  
 #MT:レティシア
 #JP:ハッ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:ソーン
 #JP:フッフッフ、/6/7バルディアの残党か。/8蹴散らしてくれるわ！
-#EN:
+#EN:Ha ha ha./6/7/8We'll scatter the last of Baldea's/8forces!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ここを抜ければ、/8バルディア城は目の前です。
-#EN:
+#EN:If we make it past here, Baldea/8castle should be within sight.
 #EX:
  
  
 #MT:ナーム
 #JP:だけど、/8敵も待ちかまえているわ。
-#EN:
+#EN:But it seems like the enemy is/8expecting us.
 #EX:
  
  
 #MT:レディン
 #JP:だが、/8ここで退くわけにもいかぬ。/6/7みんな、死ぬなよ！
-#EN:
+#EN:That may be, but we can't turn/8back now!/6/7/8Everyone, be careful not to get/8killed!
 #EX:
  
  
 #MT:クリス
 #JP:ハイ！
-#EN:
+#EN:Yeah!
 #EX:
  
  
 #MT:ソーン
 #JP:ライアスは右翼。
-#EN:
+#EN:Laias, take the right wing.
 #EX:
  
  
 #MT:ソーン
 #JP:レティシアは左翼へまわって/8やつらを包囲しろ！
-#EN:
+#EN:Laetitia, take the left and circle/8around behind them.
 #EX:
  
  
 #MT:レティシア
 #JP:ハイ！
-#EN:
+#EN:Yes sir!
 #EX:
  
  
 #MT:ライアス
 #JP:ハイ、隊長！
-#EN:
+#EN:Yes sir, Captain!
 #EX:
  
  
 #MT:ソーン
 #JP:散開後の指揮は/8お前たちに任せる。/8私は敵の出方に合わせる！
-#EN:
+#EN:I'll leave the rest of the/8deployment to your command./6/7/8I'll join you when you meet the/8enemy!
 #EX:
  
  
 #MT:レディン
 #JP:敵の指揮官を倒すんだ！/8そうすれば、/8敵はバラバラになるぞ！
-#EN:
+#EN:Aim for the enemy's commander!/8If we defeat him, their troops/8will scatter!
 #EX:
  
  
 #MT:ナーム
 #JP:ハイ！
-#EN:
+#EN:Okay!
 #EX:
  
  
 #MT:レティシア
 #JP:まさか、/8これ程手強い敵とは‥‥。
-#EN:
+#EN:Impossible... these guys are/8really tough...
 #EX:
  
  
 #MT:ソーン
 #JP:バルディアの残党共も/8ずいぶん楽しませてくれる。/6/7戦いとはこうでなくてはな！
-#EN:
+#EN:A chance to pick off the rest of/8Baldea's troops sounds rather/8fun...
 #EX:
  
  
 #MT:レディン
 #JP:みんな、油断するなよ！
-#EN:
+#EN:Everyone, be careful!
 #EX:
  
  
 #MT:レディン
 #JP:ここは通してもらう！
-#EN:
+#EN:We have to make it past here!
 #EX:
  
  
 #MT:レディン
 #JP:バルディア城を取り返す前に/8やられてしまうとは‥‥。
-#EN:
+#EN:We have to take back Baldea/8castle...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:命に代えても/8/2様をバルディアまで/8お連れするのだ！
-#EN:
+#EN:By my blood, prince /2 will/8return to Baldea castle!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:熟練の剣技を見せてやろう。
-#EN:
+#EN:Let's see what you can do with/8a sword!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ダルシス帝国にも、/8これ程の力を持った部隊が/8いたのか。
-#EN:
+#EN:So that's the power of the Dalshis/8Empire...
 #EX:
  
  
 #MT:クリス
 #JP:少しでも/2様の/8お役に立たなければ。
-#EN:
+#EN:Lord /2, I hope I can be of/8some use.
 #EX:
  
  
 #MT:クリス
 #JP:/2様、/6/7迷惑をかけてごめんなさい。
-#EN:
+#EN:Lord /2,/8I'm sorry for being such trouble.
 #EX:
  
  
 #MT:ナーム
 #JP:あっ！いけない！
-#EN:
+#EN:Ah! This isn't good!
 #EX:
  
  
 #MT:ナーム
 #JP:こんなはずじゃなかったのに‥
-#EN:
+#EN:It shouldn't be like this...
 #EX:
  
  
 #MT:ソーン
 #JP:行くぞ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ソーン
 #JP:くっ！/6/7これ以上戦うのは無理か。
-#EN:
+#EN:Shit!/8I can't go on any more.
 #EX:
  
  
 #MT:ソーン
 #JP:フッ‥‥。/6/7やつらの命運に/8終止符を打ってやろう。
-#EN:
+#EN:Sigh.../8So be it, their destiny ends/8with me.
 #EX:
  
  
 #MT:ソーン
 #JP:意外と統制の取れた部隊だ。/8油断するな！
-#EN:
+#EN:Your strength my have caught my/8troops off guard./8But I am unimpressed.
 #EX:
  
  
 #MT:ソーン
 #JP:私は黒騎士、/8ランス・カルザス！/6/7きさまらなど/8私の敵ではないわ！
-#EN:
+#EN:I am the Black Knight,/8Lance Kalxath!/6/7/8You worms aren't fit to be my/8enemies!
 #EX:
  
  
 #MT:ソーン
 #JP:貴様、何者だ！
-#EN:
+#EN:You, who are you?!
 #EX:
  
  
 #MT:レディン
 #JP:私は/2。/6/7バルディアの王子だ！
-#EN:
+#EN:I'm /2./8The prince of Baldea!
 #EX:
  
  
 #MT:ソーン
 #JP:このかりは、/8いずれ返してもらうぞ。/6/7さらば！
-#EN:
+#EN:I see... Well, for now I must/8retreat./6/7/8Farewell. I can feel we'll cross/8swords again.
 #EX:
  
  
 #MT:レディン
 #JP:待て！
-#EN:
+#EN:Wait!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子！/6/7危ない！
-#EN:
+#EN:My prince!/6/7/8Look out!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ウッ！
-#EN:
+#EN:Ungh!
 #EX:
  
  
 #MT:レディン
 #JP:ヴォルコフ！
-#EN:
+#EN:Volkoff!
 #EX:
  
  
 #MT:ソーン
 #JP:毒矢だ！/6/7伏兵がいるぞ！/8まだ近くにいるはずだ！/8急いでさがせ！
-#EN:
+#EN:A poison arrow?!/6/7/8It's an ambush!/8The enemy must still be here!/8Hurry, root them out!
 #EX:
  
  
 #MT:レディン
 #JP:ヴォルコフ、大丈夫か？/6/7しっかりしろ！
-#EN:
+#EN:Volkoff, are you all right?/6/7/8Hang in there!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子、どうやら私は/8ここまでのようです。
-#EN:
+#EN:My prince... I don't think I'll/8be able to follow you any more...
 #EX:
  
  
 #MT:レディン
 #JP:な、何を言う！
-#EN:
+#EN:V-Volkoff...what are you saying?!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:王子‥‥/6/7りっぱな国王になって下さい。
-#EN:
+#EN:Prince... I dreamed of seeing you/8take your father's place.../6/7/8One day... please take your/8throne... and become king...
 #EX:
  
  
 #MT:レディン
 #JP:ヴォルコフ！/6/7目を覚ませ！ヴォルコフ！
-#EN:
+#EN:Volkoff!!/6/7/8Open your eyes! Volkoff!!
 #EX:
  
  
 #MT:ソーン
 #JP:ライアス！/8あまり無理はするなよ！
-#EN:
+#EN:Laias!/8That's too much, don't be a fool!
 #EX:
  
  
 #MT:ライアス
 #JP:わかってます、隊長！
-#EN:
+#EN:I understand, commander!
 #EX:
  
  
 #MT:ライアス
 #JP:う、うわぁー！
-#EN:
+#EN:Uwaaaaaaa!
 #EX:
  
  
 #MT:ソーン
 #JP:それ以上は無理だ！/6/7さがれ、ライアス！/8かたきは私がとってやる！
-#EN:
+#EN:Continuing would be foolish!/6/7/8Back off, Laias!/8I'll take over from here!
 #EX:
  
  
 #MT:ライアス
 #JP:は、はい！
-#EN:
+#EN:Ye, yes sir!
 #EX:
  
  
 #MT:レティシア
 #JP:我々に勝てるとでも/8思っているの！
-#EN:
+#EN:You think you can defeat us?!
 #EX:
  
  
 #MT:レティシア
 #JP:アッ！
-#EN:
+#EN:Aaaaah!
 #EX:
  
  
 #MT:ソーン
 #JP:レティシア！/6/7無理はするな、さがれ！
-#EN:
+#EN:Laetitia!/6/7/8Don't be a fool, retreat!
 #EX:
  
  
 #MT:レティシア
 #JP:まだ大丈夫です！
-#EN:
+#EN:But I can go on!
 #EX:
  
  
 #MT:ソーン
 #JP:これは命令だ。/6/7いったん、さがっていろ！
-#EN:
+#EN:You only get one life. There/8will be other battles./6/7/8I order you to retreat!
 #EX:
  
  
 #MT:レティシア
 #JP:ランス様‥‥。
-#EN:
+#EN:Captain Lance...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:貴様にうらみは無いが/8これも運命だ。/6/7死んでもらおうか！
-#EN:
+#EN:Don't drag this out like a/8grudge, this is just fate./6/7/8Do you want to die!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:いい太刀筋だな‥‥/6/7グフッ！
-#EN:
+#EN:What excellent swordsmanship.../6/7/8Gwahhh....
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:我々は負けるわけには/8いかぬのだ！
-#EN:
+#EN:We won't be defeated!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:ダルシス帝国よ、永遠なれ！
-#EN:
+#EN:Glory to the Dalshis Empire/8forever!
 #EX:
  
  

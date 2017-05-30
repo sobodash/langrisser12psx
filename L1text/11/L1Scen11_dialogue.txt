@@ -5,295 +5,295 @@
  
 #MT:クリス
 #JP:ここは‥‥？
-#EN:
+#EN:Where are we...?
 #EX:
  
  
 #MT:リスラム
 #JP:貴様らがバルディアの/8小僧どもか‥‥。
-#EN:
+#EN:So you bastards are the kids/8from Baldea...
 #EX:
  
  
 #MT:レディン
 #JP:お前がディゴスか？！
-#EN:
+#EN:Where is Emperor Digos?!
 #EX:
  
  
 #MT:リスラム
 #JP:残念だったな。/6/7貴様らがディゴス様に/8会う事はない。/6/7なぜなら貴様らの命が/8ここで終わるからだ！
-#EN:
+#EN:How regrettable./6/7/8I almost feel bad for you/8having come all the way here./6/7/8Because this is where your/8life will end.
 #EX:
  
  
 #MT:テイラー
 #JP:笑止！/8受けて立つぜ！
-#EN:
+#EN:Sink me! Be ye joking?!/6/7/8Gangway, 'cause I'm coming for/8ya!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:今度は、容赦はせんぞ！
-#EN:
+#EN:I'll forgive your foolishness/8this time.
 #EX:
  
  
 #MT:レディン
 #JP:くっ！/8しつこい奴め！
-#EN:
+#EN:Tsk! He better quit while he can!
 #EX:
  
  
 #MT:ディゴス
 #JP:バルディアのガキどもが/8来たか。/6/7戦いぶりをたっぷり/8楽しませてもらおうか。
-#EN:
+#EN:You brats came all the way here/8from Baldea?/6/7/8I'll humor you and enjoy this/8fight to its fullest!
 #EX:
  
  
 #MT:レディン
 #JP:ディゴス、待っていろよ！/6/7必ずお前を倒す！
-#EN:
+#EN:Digos! Wait for me!/6/7/8I will see your death at my own/8hands.
 #EX:
  
  
 #MT:ディゴス
 #JP:しょせん、貴様らの力では/8私を倒す事などできんのだ。/8フハハハハ‥‥。
-#EN:
+#EN:Why not? After all, you kids'/8power will never defeat me./6/7/8HA HA HA HA!
 #EX:
  
  
 #MT:レディン
 #JP:私の力では、/8これが限界だというのか‥‥
-#EN:
+#EN:This seems to be the limit of my/8strength...
 #EX:
  
  
 #MT:ナーム
 #JP:イルザック王と/8ヴォルコフの仇、/8討たせてもらうわ！
-#EN:
+#EN:Enemies of Isaac and Volkoff,/8I will kill you all!
 #EX:
  
  
 #MT:ナーム
 #JP:アッ！
-#EN:
+#EN:Ah!
 #EX:
  
  
 #MT:一般兵
 #JP:ナーム様、さがって下さい！
-#EN:
+#EN:Narm, please fall back!
 #EX:
  
  
 #MT:ソーン
 #JP:俺に剣を向けるとは/8生意気な！
-#EN:
+#EN:What a fool you are to turn your/8sword at me!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/8腕をやられた！/8後はまかせる！
-#EN:
+#EN:Damn!/8My arm has had it!/8You'll have to handle the rest!
 #EX:
  
  
 #MT:クリス
 #JP:！
-#EN:
+#EN:Huh?!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！
-#EN:
+#EN:Kyaaa!
 #EX:
  
  
 #MT:テイラー
 #JP:逃がさねぇぜ！
-#EN:
+#EN:Ho! Don't think I'll let ya go!
 #EX:
  
  
 #MT:テイラー
 #JP:ちっ！/6/7この程度の敵に負けるとは/8なさけねぇ。
-#EN:
+#EN:Shit./6/7/8I don't think there's any/8avoiding this.
 #EX:
  
  
 #MT:ジェシカ
 #JP:ディゴスには、/8邪悪をよみがえらせた罪を/8つぐなってもらいましょう！
-#EN:
+#EN:Digos's wicked heart will bring/8about the revival of evil!
 #EX:
  
  
 #MT:ジェシカ
 #JP:ディゴスの所まで/8通してもらいましょう。
-#EN:
+#EN:Let's head straight for Digos's/8room!
 #EX:
  
  
 #MT:ジェシカ
 #JP:あぁ！
-#EN:
+#EN:Aaa!
 #EX:
  
  
 #MT:アルバート
 #JP:ここまで来て/8負けるわけにはいかん！
-#EN:
+#EN:You've come here only to meet/8your end!
 #EX:
  
  
 #MT:アルバート
 #JP:クッ！/6/7ここまでか！
-#EN:
+#EN:Kuu!/6/7/8Is this it...
 #EX:
  
  
 #MT:ホーキング
 #JP:くらえ！
-#EN:
+#EN:Take this!
 #EX:
  
  
 #MT:ホーキング
 #JP:グッ！
-#EN:
+#EN:Gwah!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:やられるわけにはいかぬ！
-#EN:
+#EN:I won't let you pass!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:ダルシス帝国に栄光あれ！
-#EN:
+#EN:For the glory of the/8Dalshis Empire!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:貴様はここで死ね！
-#EN:
+#EN:You bastard!/8This is where you die!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:これ以上やらせて/8なるものか！/8これ以上‥‥ぐ、ぐふっ！
-#EN:
+#EN:I can't let you pass!/8I can't... guh... GWAAAH!
 #EX:
  
  
 #MT:リスラム
 #JP:倒せるものなら/8倒してみろ！
-#EN:
+#EN:I'll kill anyone who threatens/8the emperor!
 #EX:
  
  
 #MT:リスラム
 #JP:バカな‥‥、/8この私が‥‥うぐっ！
-#EN:
+#EN:Impossible.../8How can I... aaaugh!
 #EX:
  
  
 #MT:レディン
 #JP:ディゴスはこの奥か？！/6/7ディゴス！/6/7ラングリッサーは/8返してもらうぞ！
-#EN:
+#EN:Is Digos in here...?/6/7/8DIGOS!/6/7/8Return Langrisser to me!
 #EX:
  
  
 #MT:ディゴス
 #JP:ほう、バルディアのガキか。
-#EN:
+#EN:Hoo... it's the little/8Baldean brat.
 #EX:
  
  
 #MT:レディン
 #JP:お前は自分が何を/8したのか分かっているのか！
-#EN:
+#EN:You unjust son of a bitch,/8have you any idea how I feel/8right now!
 #EX:
  
  
 #MT:ディゴス
 #JP:フッ！/5ざれごとを！/6/7力こそ正義だ。力ある者が/8世界を支配するのだ！
-#EN:
+#EN:Feh! What nonsense!/6/7/8POWER is justice!/6/7/8He who has power controls/8the world!
 #EX:
  
  
 #MT:レディン
 #JP:そのような考えが邪悪を/8よみがえらせ、/8世界を破滅へ導くのだ！
-#EN:
+#EN:Your wicked thoughts awaken evil/8and will drive the world into/8ruin!
 #EX:
  
  
 #MT:ディゴス
 #JP:うるさい奴だ！/8貴様達さえ倒せば/8世界は我が物となるのだ！
-#EN:
+#EN:Shut the fuck up!/8All I have to do is KILL/8you and the world is MINE!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:今度こそ貴様らを/8皆殺しにしてくれる！
-#EN:
+#EN:I'll kill you all!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:あの時に小僧を追って/8殺しておくべきだった‥‥。/6/7ディゴス様、必ずかたきを/8討って下さい‥‥
-#EN:
+#EN:I should have killed you when you/8were chasing us.../6/7/8Emperor Digos, please kill/8him for me...
 #EX:
  
  
 #MT:アーザム
 #JP:弟子達のかたき、/8討たせてもらおう！
-#EN:
+#EN:Vengeance will be mine!
 #EX:
  
  
 #MT:アーザム
 #JP:今、みなの所へ/8行くよ‥‥。/6/7待っていて‥‥。
-#EN:
+#EN:Now, I think it's time for me to/8join everyone else.../6/7/8Wait for me...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:死ね！
-#EN:
+#EN:DIE!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:こ‥‥こんなはずでは‥‥/6/7グワー！
-#EN:
+#EN:I... I never expected.../6/7/8Gwaaa!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:こ‥‥こんなはずでは‥‥/6/7グワー！
-#EN:
+#EN:I... I never expected.../6/7/8Gwaaa!
 #EX:
  
  
 #MT:ディゴス
 #JP:ここまでこれた事を/8ほめてやるぞ。/6/7だが貴様らに/8この私は倒せぬ！
-#EN:
+#EN:Making it this far is worthy of/8praise./6/7/8But you little shits will never/8defeat me!
 #EX:
  
  
 #MT:
 #JP:ラングリッサーを手に入れた！
-#EN:
+#EN:Obtained Langrisser!
 #EX:
  
  
 #MT:
 #JP:メサイヤンソードを手に入れた！
-#EN:
+#EN:Obtained the Masayan Sword!
 #EX:
  
  

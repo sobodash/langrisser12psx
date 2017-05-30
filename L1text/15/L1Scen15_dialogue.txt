@@ -5,345 +5,345 @@
  
 #MT:ランス
 #JP:ドラゴンめ、/8こんな所に逃げ込むとは‥‥。
-#EN:
+#EN:That damn dragon, it must have/8escaped here in quite a panic...
 #EX:
  
  
 #MT:レディン
 #JP:ドラゴンの奴め、/8こんな所に逃げ込むとは‥‥。
-#EN:
+#EN:That damn dragon, it must have/8escaped here in quite a panic...
 #EX:
  
  
 #MT:クリス
 #JP:うす気味悪い洞窟ね‥‥。
-#EN:
+#EN:This cave seems a little odd,/8have you noticed anything...?
 #EX:
  
  
 #MT:ソーン
 #JP:おそらく、/8奴の巣か何かでしょう。
-#EN:
+#EN:Maybe it's the beast's nesting/8grounds.
 #EX:
  
  
 #MT:一般兵
 #JP:おそらく、/8奴の巣か何かでしょう。
-#EN:
+#EN:Maybe it's the beast's nesting/8grounds.
 #EX:
  
  
 #MT:レディン
 #JP:うむ、/8行くぞ！
-#EN:
+#EN:Well anyway, let's move out!
 #EX:
  
  
 #MT:レディン
 #JP:ひるむな！/6/7なんとしても/8ドラゴンを倒すんだ！
-#EN:
+#EN:I'm a little worried. This/8dragon is a strong foe indeed./8He won't go down easily!
 #EX:
  
  
 #JP:無残な‥‥。/8ドラゴンにやられたのか‥‥。/6/7ムッ！/6/7これはドラゴンスレイヤー！/6/7勇者よ‥‥。/6/7あなたの意志は/8この私が引き継ごう。/6/7そして必ずドラゴンを/8倒してみせるぞ。
 #EN:
-#EX:
+#EX:How cruel.../8For the dragon to have/8killed someone like that.../6/7/8Hmm?!/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I'll take over/8your mission and see the beast/8is slain once and for all.
  
  
 #MT:
 #JP:ひどい‥‥、ドラゴンに/8やられたのね‥‥。/6/7！？/6/7これはドラゴンスレイヤー！/8勇者よ‥‥。/6/7あなたの意志は、/8私が引き継ぎます。/6/7そして必ずあのドラゴンを/8倒してみせます。
-#EN:
+#EN:How cruel... this looks like/8the handiwork of a dragon./6/7/8!?/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I'll take over/8your mission and see the beast/8is slain once and for all.
 #EX:
  
  
 #MT:
 #JP:ドラゴンスレイヤーを/8手に入れた！
-#EN:
+#EN:Obtained the Dragon Slayer
 #EX:
  
  
 #MT:
 #JP:ルーンストーンを手に入れた！
-#EN:
+#EN:Obtained a Rune Stone!
 #EX:
  
  
 #MT:
 #JP:ルーンストーンを手に入れた！
-#EN:
+#EN:Obtained a Rune Stone!
 #EX:
  
  
 #MT:
 #JP:クラウンを手に入れた！
-#EN:
+#EN:Obtained the Crown!
 #EX:
  
  
 #MT:レディン
 #JP:突破するぞ！
-#EN:
+#EN:I'll break you!
 #EX:
  
  
 #MT:レディン
 #JP:やはり我々だけで/8ドラゴンを倒す事は/8無理なのか？！
-#EN:
+#EN:I knew it, going after a dragon/8like this was a BAD idea!
 #EX:
  
  
 #MT:ナーム
 #JP:いくわよ！
-#EN:
+#EN:Let's go!
 #EX:
  
  
 #MT:ナーム
 #JP:こんな時に/8やられるなんて‥‥
-#EN:
+#EN:To be done in this way...
 #EX:
  
  
 #MT:ソーン
 #JP:かかってこい！
-#EN:
+#EN:Come at me!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/8武器がいかれた！/8後はまかせる！
-#EN:
+#EN:Shit!/8My weapon has had it!/8You'll have to handle the rest.
 #EX:
  
  
 #MT:クリス
 #JP:えい！
-#EN:
+#EN:Yaaaa!
 #EX:
  
  
 #MT:クリス
 #JP:/2さまー！
-#EN:
+#EN:Lord Leeeedin!
 #EX:
  
  
 #MT:レディン
 #JP:クリス！/6/7もう無理だ、さがれ！
-#EN:
+#EN:CHRIS!/6/7/8That's enough! Fall back!
 #EX:
  
  
 #MT:テイラー
 #JP:くたばりやがれ！
-#EN:
+#EN:Gangway, swabs!
 #EX:
  
  
 #MT:テイラー
 #JP:くっ、しくじっちまった。
-#EN:
+#EN:Ku, I've failed...
 #EX:
  
  
 #MT:ジェシカ
 #JP:覚悟しなさい！
-#EN:
+#EN:Prepare yourself!
 #EX:
  
  
 #MT:ジェシカ
 #JP:もうダメだわ‥‥
-#EN:
+#EN:It's useless...
 #EX:
  
  
 #MT:アルバート
 #JP:逃がしはせぬ！
-#EN:
+#EN:I won't let you get away!
 #EX:
  
  
 #MT:アルバート
 #JP:油断してしまったようだ‥‥
-#EN:
+#EN:It seems I was careless...
 #EX:
  
  
 #MT:ホーキング
 #JP:私の剣を/8受けてみるがいい。
-#EN:
+#EN:Receive my blade!
 #EX:
  
  
 #MT:ホーキング
 #JP:すみません王子、/6/7これ以上は無理のようです。
-#EN:
+#EN:I'm sorry prince,/8the rest is in your hands.
 #EX:
  
  
 #MT:ランス
 #JP:むやみに突っ込むと/8回りを囲まれて/8危険だぞ。
-#EN:
+#EN:Don't thrust randomly if you/8get surrounded./6/7/8A single hit is better than/8twenty missed.
 #EX:
  
  
 #MT:ランス
 #JP:フッ‥‥/8愚かな。
-#EN:
+#EN:Fuu... how foolish.
 #EX:
  
  
 #MT:ランス
 #JP:この私が/8負けたというのか？！
-#EN:
+#EN:How could you believe me/8defeated?!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＩＳＹＡＡＡＡ！
-#EN:
+#EN:GISHAAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＫＩＳＹＡＡＡＡ！
-#EN:
+#EN:KISHAAAA!
 #EX:
  
  
 #MT:レディン
 #JP:やっと倒したか‥‥
-#EN:
+#EN:It's defeated at last...
 #EX:
  
  
 #JP:剣が‥‥。/6/7ドラゴンスレイヤーが/8消えていく‥‥。
 #EN:
-#EX:
+#EX:The sword..../6/7/8The Dragon Slayer.../8vanished...?
  
  
 #JP:王子、これは一体‥‥。
 #EN:
-#EX:
+#EX:Prince, what are you saying...?
  
  
 #JP:王子、これは一体‥‥。
 #EN:
-#EX:
+#EX:Prince, what are you saying...?
  
  
 #MT:レディン
 #JP:あの剣は/8勇者の意志が実体化した/8物なのかもしれない。
-#EN:
+#EN:That sword was a manifestation/8of the hero's will...
 #EX:
  
  
 #MT:ホーキング
 #JP:ドラゴンを倒した今、/8その存在意義を失い、/8消えてしまったと‥‥。
-#EN:
+#EN:Perhaps with the dragon defeated/8and its purpose served,/8its existence came to an end...
 #EX:
  
  
 #MT:一般兵
 #JP:ドラゴンを倒した今、/8その存在意義を失い、/8消えてしまったと‥‥。
-#EN:
+#EN:Perhaps with the dragon defeated/8and its purpose served,/8its existence came to an end...
 #EX:
  
  
 #MT:アルバート
 #JP:かなしい事ですね。
-#EN:
+#EN:How sad...
 #EX:
  
  
 #MT:ランス
 #JP:ところで少し前、/8古代文字で書かれた石板を/8見つけたのだが‥‥。
-#EN:
+#EN:At any rate, that slate we found/8before seems to be written/8in an ancient script...
 #EX:
  
  
 #MT:一般兵
 #JP:ところで少し前、/8古代文字で書かれた石板を/8見つけたのですが‥‥。
-#EN:
+#EN:At any rate, that slate we found/8before seems to be written/8in an ancient script...
 #EX:
  
  
 #MT:ジェシカ
 #JP:これは？！/6/7これはバルディアに伝わる/8古代文字です！/6/7魔導師ボーゼル、/8闇の力を解き放ち、/8世界が闇におおわれる。/6/7この時、エルスリードの王/8ジークハルト、光の軍勢を率い/8これを迎え討つ。/6/7そしてラングリッサーにより/8ヴェルゼリアに闇を封じる。
-#EN:
+#EN:What is this?!/6/7/8It looks like an ancient record/8of the Baldea Kingdom!/6/7/8"When the evil lord Boser/8released the powers of darkness,/8a shadow was cast over the/8entire world.."/6/7/8"When this happened, King Sieghart/8of Elthlead led an army of light/8to clash with the army of/8darkness..."/6/7/8"With Langrisser, the darkness/8was returned to Velzeria/8from whence it came, to dwell/8forever in nothingness..."
 #EX:
  
  
 #MT:テイラー
 #JP:ヴェルゼリア‥‥。/6/7あの禁断の地と呼ばれる/8場所に邪悪がいるのか？
-#EN:
+#EN:Velzeria.../6/7/8Could it be the source of the/8evil we now face?
 #EX:
  
  
 #MT:一般兵
 #JP:ヴェルゼリア‥‥。/6/7あの禁断の地と呼ばれる/8場所に邪悪がいるのか？
-#EN:
+#EN:Velzeria.../6/7/8Could it be the source of the/8evil we now face?
 #EX:
  
  
 #MT:ソーン
 #JP:では王子！
-#EN:
+#EN:Then, my prince!
 #EX:
  
  
 #MT:一般兵
 #JP:では王子！
-#EN:
+#EN:Then, my prince!
 #EX:
  
  
 #MT:レディン
 #JP:よみがえったボーゼルを倒し/8再び闇を封じる！/6/7これは我がバルディアの/8使命である！/6/7これより全軍をもって/8ヴェルゼリアへ侵攻する！
-#EN:
+#EN:To strike down the darkness/8and restore the seal.../6/7/8This is our mission.../8the mission of Baldea!/6/7/8We must invade Velzeria with/8every last soldier we have!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＳＨＡＡＡ！
-#EN:
+#EN:GYSHAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＡＡＡ！
-#EN:
+#EN:GYAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:ＰＵＺＵＵ！
-#EN:
+#EN:PUZUU!
 #EX:
  
  
 #MT:モンスター
 #JP:ＢＷＯＯＯＮ！
-#EN:
+#EN:BWOOON!
 #EX:
  
  
 #MT:モンスター
 #JP:ＧＹＡＡＡ！
-#EN:
+#EN:GYAAA!
 #EX:
  
  
 #MT:モンスター
 #JP:おのれ、よくも‥‥
-#EN:
+#EN:God damn you, you bastard...
 #EX:
  
  
 #MT:モンスター
 #JP:ＢＷＯＯＯＮ！
-#EN:
+#EN:BWOOON!
 #EX:
  
  

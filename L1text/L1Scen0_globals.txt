@@ -4,77 +4,77 @@
  
  
 #JP:どのデータをロードしますか？
-#EN:
+#EN:Load which save data?
 #EX:
  
  
 #JP:セーブしますか？
-#EN:
+#EN:Save your game?
 #EX:
  
  
 #JP:はい
-#EN:
+#EN:Yes
 #EX:
  
  
 #JP:いいえ
-#EN:
+#EN:No
 #EX:
  
  
 #JP:それでも、買いますか？
-#EN:
+#EN:Will you still buy it?
 #EX:
  
  
 #JP:アイテムがいっぱいです。
-#EN:
+#EN:Your inventory is full.
 #EX:
  
  
 #JP:なにか捨てて下さい。
-#EN:
+#EN:Throw something out.
 #EX:
  
  
 #JP:捨てるアイテムを選んで下さい。
-#EN:
+#EN:Which item will you discard?
 #EX:
  
  
 #JP:/2を捨てます。
-#EN:
+#EN:/2 will be thrown out.
 #EX:
  
  
 #JP:/2を捨てました。
-#EN:
+#EN:/2 was thrown out.
 #EX:
  
  
 #JP:敵撃破数
-#EN:
+#EN:Kills
 #EX:
  
  
 #JP:撤退回数
-#EN:
+#EN:Retreats
 #EX:
  
  
 #JP:眠らされた
-#EN:
+#EN:is asleep.
 #EX:
  
  
 #JP:これ以上、召喚できません。
-#EN:
+#EN:Can't summon.
 #EX:
  
  
 #JP:/2
-#EN:
+#EN:/2
 #EX:
  
  
@@ -84,642 +84,642 @@
  
  
 #JP:マジックアロー
-#EN:
+#EN:Magic Arrow
 #EX:
  
  
 #JP:ブラスト
-#EN:
+#EN:Blast
 #EX:
  
  
 #JP:サンダー
-#EN:
+#EN:Thunder
 #EX:
  
  
 #JP:ファイアーボール
-#EN:
+#EN:Fireball
 #EX:
  
  
 #JP:メテオ
-#EN:
+#EN:Meteor
 #EX:
  
  
 #JP:ブリザード
-#EN:
+#EN:Blizzard
 #EX:
  
  
 #JP:トルネード
-#EN:
+#EN:Tornado
 #EX:
  
  
 #JP:ターンアンデッド
-#EN:
+#EN:Turn Undead
 #EX:
  
  
 #JP:アースクエイク
-#EN:
+#EN:Earthquake
 #EX:
  
  
 #JP:ヒール１
-#EN:
+#EN:Heal 1
 #EX:
  
  
 #JP:ヒール２
-#EN:
+#EN:Heal 2
 #EX:
  
  
 #JP:フォースヒール１
-#EN:
+#EN:Force Heal 1
 #EX:
  
  
 #JP:フォースヒール２
-#EN:
+#EN:Force Heal 2
 #EX:
  
  
 #JP:スリープ
-#EN:
+#EN:Sleep
 #EX:
  
  
 #JP:ミュート
-#EN:
+#EN:Mute
 #EX:
  
  
 #JP:プロテクション１
-#EN:
+#EN:Protection 1
 #EX:
  
  
 #JP:プロテクション２
-#EN:
+#EN:Protection 2
 #EX:
  
  
 #JP:アタック１
-#EN:
+#EN:Attack 1
 #EX:
  
  
 #JP:アタック２
-#EN:
+#EN:Attack 2
 #EX:
  
  
 #JP:ゾーン
-#EN:
+#EN:Zone
 #EX:
  
  
 #JP:テレポート
-#EN:
+#EN:Teleport
 #EX:
  
  
 #JP:レジスト
-#EN:
+#EN:Resist
 #EX:
  
  
 #JP:チャーム
-#EN:
+#EN:Charm
 #EX:
  
  
 #JP:クイック
-#EN:
+#EN:Quick
 #EX:
  
  
 #JP:アゲイン
-#EN:
+#EN:Again
 #EX:
  
  
 #JP:デクライン
-#EN:
+#EN:Decrease
 #EX:
  
  
 #JP:ストーン
-#EN:
+#EN:Stone
 #EX:
  
  
 #JP:ヴァルキリー
-#EN:
+#EN:Valkyrie
 #EX:
  
  
 #JP:ホワイトドラゴン
-#EN:
+#EN:White Dragon
 #EX:
  
  
 #JP:サラマンダー
-#EN:
+#EN:Salamander
 #EX:
  
  
 #JP:アイアンゴーレム
-#EN:
+#EN:Iron Golem
 #EX:
  
  
 #JP:デーモンロード
-#EN:
+#EN:Demon Lord
 #EX:
  
  
 #JP:ＭＰが足りません
-#EN:
+#EN:Not enough MP!
 #EX:
  
  
 #JP:/2を/8手に入れた！
-#EN:
+#EN:You obtained a /2!
 #EX:
  
  
 #JP:/2は/8/2を/8装備しました。
-#EN:
+#EN:/2 equipped the /2!
 #EX:
  
  
 #JP:ＧＡＭＥ/5ＯＶＥＲ
-#EN:
+#EN:GAME/5OVER
 #EX:
  
  
 #JP:/2は
-#EN:
+#EN:/2
 #EX:
  
  
 #JP:レベルが上がった。
-#EN:
+#EN:Level up!
 #EX:
  
  
 #JP:ＡＴが
-#EN:
+#EN:AT
 #EX:
  
  
 #JP:ＤＦが
-#EN:
+#EN:DF
 #EX:
  
  
 #JP:ＭＰが
-#EN:
+#EN:MP
 #EX:
  
  
 #JP:１上がった。
-#EN:
+#EN:+1
 #EX:
  
  
 #JP:２上がった。
-#EN:
+#EN:+2
 #EX:
  
  
 #JP:を覚えた。
-#EN:
+#EN:was learned.
 #EX:
  
  
 #JP:/2をやとえるようになった。
-#EN:
+#EN:/2 can be hired.
 #EX:
  
  
 #JP:クラスチェンジできます
-#EN:
+#EN:May change class.
 #EX:
  
  
 #JP:クラスチェンジ
-#EN:
+#EN:Class Change
 #EX:
  
  
 #JP:/2/2ユニットです
-#EN:
+#EN:/2 /2 unit.
 #EX:
  
  
 #JP:傭兵の数
-#EN:
+#EN:Troops
 #EX:
  
  
 #JP:使える魔法・召喚
-#EN:
+#EN:Magic & Summon
 #EX:
  
  
 #JP:/2の装備
-#EN:
+#EN:/2 equipment
 #EX:
  
  
 #JP:武器
-#EN:
+#EN:Weapon
 #EX:
  
  
 #JP:その他
-#EN:
+#EN:Misc.
 #EX:
  
  
 #JP:味方の
-#EN:
+#EN:Ally's
 #EX:
  
  
 #JP:行動終了した
-#EN:
+#EN:Movement ended for
 #EX:
  
  
 #JP:敵の
-#EN:
+#EN:Enemy's
 #EX:
  
  
 #JP:ＮＰＣの
-#EN:
+#EN:NPC's
 #EX:
  
  
 #JP:このシナリオは強制配置面です。
-#EN:
+#EN:This scenario has a forced arrangement
 #EX:
  
  
 #JP:に/8クラスチェンジします。/8よろしいですか？
-#EN:
+#EN:/8will be my new class./8Is this all right?
 #EX:
  
  
 #JP:購入リスト
-#EN:
+#EN:Item List
 #EX:
  
  
 #JP:売却リスト
-#EN:
+#EN:Sell List
 #EX:
  
  
 #JP:/2アイテムを持っていません。
-#EN:
+#EN:/2 can't be equipped.
 #EX:
  
  
 #JP:所持金
-#EN:
+#EN:Gold
 #EX:
  
  
 #JP:お金が足りません。
-#EN:
+#EN:You don't have enough money.
 #EX:
  
  
 #JP:これ以上アイテムを持てません。
-#EN:
+#EN:Your inventory is full.
 #EX:
  
  
 #JP:持っているアイテム
-#EN:
+#EN:Items Carried
 #EX:
  
  
 #JP:その名前は使用できません
-#EN:
+#EN:That item cannot be equipped.
 #EX:
  
  
 #JP:売れるアイテムを持っていません。
-#EN:
+#EN:You don't possess any more items to sell.
 #EX:
  
  
 #JP:/2を購入しました。
-#EN:
+#EN:/2 was purchased.
 #EX:
  
  
 #JP:/2を売却しました。
-#EN:
+#EN:/2 was sold.
 #EX:
  
  
 #JP:/2は装備できません。
-#EN:
+#EN:/2 cannot equip this.
 #EX:
  
  
 #JP:指揮官の配置が終わっていません。
-#EN:
+#EN:The scenario setup is not complete!
 #EX:
  
  
 #JP:セーブしました。
-#EN:
+#EN:Saved.
 #EX:
  
  
 #JP:マップの確認のみ行えます。
-#EN:
+#EN:forced arrangement.
 #EX:
  
  
 #JP:レディンが配置されていません。
-#EN:
+#EN:Ledin has not been positioned.
 #EX:
  
  
 #JP:配置されていない/2に/8兵士が配属されています。
-#EN:
+#EN:Unknown string 000/2/8Unknown string 001
 #EX:
  
  
 #JP:ホワイトドラゴン
-#EN:
+#EN:White Dragon
 #EX:
  
  
 #JP:サラマンダー
-#EN:
+#EN:Salamander
 #EX:
  
  
 #JP:アイアンゴーレム
-#EN:
+#EN:Iron Golem
 #EX:
  
  
 #JP:デーモンロード
-#EN:
+#EN:Demon Lord
 #EX:
  
  
 #JP:スレイプニル
-#EN:
+#EN:Sleipnir
 #EX:
  
  
 #JP:フェンリル
-#EN:
+#EN:Fenrir
 #EX:
  
  
 #JP:アニキ
-#EN:
+#EN:Aniki
 #EX:
  
  
 #JP:あにき敵
-#EN:
+#EN:Enemy Aniki
 #EX:
  
  
 #JP:使用できません
-#EN:
+#EN:cannot use.
 #EX:
  
  
 #JP:よろしいですか？
-#EN:
+#EN:Is this okay?
 #EX:
  
  
 #JP:ボタンを押してください
-#EN:
+#EN:Press any button.
 #EX:
  
  
 #JP:歩兵
-#EN:
+#EN:Soldier
 #EX:
  
  
 #JP:歩兵
-#EN:
+#EN:Monk
 #EX:
  
  
 #JP:長槍
-#EN:
+#EN:Spearman
 #EX:
  
  
 #JP:騎馬
-#EN:
+#EN:Cavalry
 #EX:
  
  
 #JP:騎馬
-#EN:
+#EN:Dragoon
 #EX:
  
  
 #JP:飛兵
-#EN:
+#EN:Flier
 #EX:
  
  
 #JP:歩兵
-#EN:
+#EN:Bandit
 #EX:
  
  
 #JP:水兵
-#EN:
+#EN:Sailor
 #EX:
  
  
 #JP:ゲル
-#EN:
+#EN:Gel
 #EX:
  
  
 #JP:魔族
-#EN:
+#EN:Demon
 #EX:
  
  
 #JP:水兵
-#EN:
+#EN:Monster
 #EX:
  
  
 #JP:歩兵
-#EN:
+#EN:Barbarian
 #EX:
  
  
 #JP:歩兵
-#EN:
+#EN:Magician
 #EX:
  
  
 #JP:不死
-#EN:
+#EN:Ghost
 #EX:
  
  
 #JP:不死
-#EN:
+#EN:Undease
 #EX:
  
  
 #JP:弓兵
-#EN:
+#EN:Bowman
 #EX:
  
  
 #JP:弓兵
-#EN:
+#EN:Ballista
 #EX:
  
  
 #JP:竜族
-#EN:
+#EN:Dragon
 #EX:
  
  
 #JP:シナリオ/3/8/5/5/5/5/3ターン
-#EN:
+#EN:Scenario/3/8/5/5/5/5/3Turn
 #EX:
  
  
 #JP:トータル/8/5/5/5/5/3ターン
-#EN:
+#EN:Total/8/5/5/5/5/3Turn
 #EX:
  
  
 #JP:メモリーカードがありません
-#EN:
+#EN:No save slots were found.
 #EX:
  
  
 #JP:メモリーカードが抜かれました
-#EN:
+#EN:Error in reading save slots.
 #EX:
  
  
 #JP:セーブデータがありません
-#EN:
+#EN:No save data found
 #EX:
  
  
 #JP:必要な空き容量がありません
-#EN:
+#EN:Failed to save data
 #EX:
  
  
 #JP:メモリーカードが異常です
-#EN:
+#EN:Failed to load data
 #EX:
  
  
 #JP:データのセーブに失敗しました
-#EN:
+#EN:Failed to save data
 #EX:
  
  
 #JP:データのロードに失敗しました
-#EN:
+#EN:Failed to load data
 #EX:
  
  
 #JP:初期化しています
-#EN:
+#EN:Initializing
 #EX:
  
  
 #JP:初期化が終了しました
-#EN:
+#EN:Initialization complete
 #EX:
  
  
 #JP:初期化に失敗しました
-#EN:
+#EN:Initialization failed
 #EX:
  
  
 #JP:初期化は行われませんでした
-#EN:
+#EN:Initialization canceled
 #EX:
  
  
 #JP:メモリーカードが/8初期化されていません。/8初期化を行いますか？
-#EN:
+#EN:Memory card not initialized./8Do you want to initialize now?
 #EX:
  
  
 #JP:データのセーブに
-#EN:
+#EN:Save in which slot?
 #EX:
  
  
 #JP:失敗しました
-#EN:
+#EN:Failed
 #EX:
  
  
 #JP:セーブ中です‥‥
-#EN:
+#EN:Saving...
 #EX:
  
  
 #JP:ロード中です‥‥
-#EN:
+#EN:Loading...
 #EX:
  
  
 #JP:メモリーカードのチェック中
-#EN:
+#EN:Checking memory card
 #EX:
  
  
 #JP:石化している
-#EN:
+#EN:Locked
 #EX:
  
  
 #JP:のうち/3人出撃
-#EN:
+#EN:Unknown string /3
 #EX:
  
  
 #JP:メモリーカードの内容/5/5/5
-#EN:
+#EN:Contents of memory card/5/5/5
 #EX:
  
  
 #JP:メモリーカードが未接続です
-#EN:
+#EN:Memory card not inserted
 #EX:
  
  

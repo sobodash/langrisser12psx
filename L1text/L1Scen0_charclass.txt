@@ -9,467 +9,467 @@
  
  
 #JP:レディン
-#EN:
+#EN:Ledin
 #EX:
  
  
 #JP:ナーム
-#EN:
+#EN:Narm
 #EX:
  
  
 #JP:クリス
-#EN:
+#EN:Chris
 #EX:
  
  
 #JP:テイラー
-#EN:
+#EN:Taylor
 #EX:
  
  
 #JP:ジェシカ
-#EN:
+#EN:Jessica
 #EX:
  
  
 #JP:アルバート
-#EN:
+#EN:Albert
 #EX:
  
  
 #JP:ホーキング
-#EN:
+#EN:Hawking
 #EX:
  
  
 #JP:ランス
-#EN:
+#EN:Lance
 #EX:
  
  
 #JP:ソーン
-#EN:
+#EN:Thorn
 #EX:
  
  
 #JP:ヴォルコフ
-#EN:
+#EN:Volkoff
 #EX:
  
  
 #JP:イルザック
-#EN:
+#EN:Isaac
 #EX:
  
  
 #JP:コッセル
-#EN:
+#EN:Kossel
 #EX:
  
  
 #JP:サー・ガリウス
-#EN:
+#EN:Sir Garius
 #EX:
  
  
 #JP:ディゴス
-#EN:
+#EN:Digos
 #EX:
  
  
 #JP:ゼルド
-#EN:
+#EN:Zeld
 #EX:
  
  
 #JP:ド・モトフ
-#EN:
+#EN:Doh Motov
 #EX:
  
  
 #JP:カ・イロウ
-#EN:
+#EN:Kah Iroh
 #EX:
  
  
 #JP:ライアス
-#EN:
+#EN:Laias
 #EX:
  
  
 #JP:レティシア
-#EN:
+#EN:Laetita
 #EX:
  
  
 #JP:アントノフ
-#EN:
+#EN:Antonov
 #EX:
  
  
 #JP:セリア
-#EN:
+#EN:Celia
 #EX:
  
  
 #JP:ベルヌーイ
-#EN:
+#EN:Bernoulli
 #EX:
  
  
 #JP:ネルウィー
-#EN:
+#EN:Nervye
 #EX:
  
  
 #JP:ザルダフ
-#EN:
+#EN:Zaldaff
 #EX:
  
  
 #JP:スカルディス
-#EN:
+#EN:Scaladis
 #EX:
  
  
 #JP:ガルヴェス
-#EN:
+#EN:Galvez
 #EX:
  
  
 #JP:モーガン
-#EN:
+#EN:Morgan
 #EX:
  
  
 #JP:キルヒナー
-#EN:
+#EN:Kirchner
 #EX:
  
  
 #JP:ディスタン
-#EN:
+#EN:Distin
 #EX:
  
  
 #JP:アーザム
-#EN:
+#EN:Asam
 #EX:
  
  
 #JP:リスラム
-#EN:
+#EN:Lythrum
 #EX:
  
  
 #JP:一般兵
-#EN:
+#EN:Soldier
 #EX:
  
  
 #JP:指揮官
-#EN:
+#EN:Commander
 #EX:
  
  
 #JP:司祭
-#EN:
+#EN:Priest
 #EX:
  
  
 #JP:村人
-#EN:
+#EN:Villager
 #EX:
  
  
 #JP:海賊
-#EN:
+#EN:Pirate
 #EX:
  
  
 #JP:自警団
-#EN:
+#EN:Vigilante
 #EX:
  
  
 #JP:ナーギャ
-#EN:
+#EN:Nagya
 #EX:
  
  
 #JP:アドン
-#EN:
+#EN:Adon
 #EX:
  
  
 #JP:サムソン
-#EN:
+#EN:Sampson
 #EX:
  
  
 #JP:バラン
-#EN:
+#EN:Varan
 #EX:
  
  
 #JP:帝国軍指揮官
-#EN:
+#EN:Imperial Commander
 #EX:
  
  
 #JP:ウェアウルフ
-#EN:
+#EN:Werewolf
 #EX:
  
  
 #JP:ゲルギャザー
-#EN:
+#EN:Gelgazer
 #EX:
  
  
 #JP:スキュラ
-#EN:
+#EN:Scylla
 #EX:
  
  
 #JP:ストーンゴーレム
-#EN:
+#EN:Stone Golem
 #EX:
  
  
 #JP:リッチ
-#EN:
+#EN:Lich
 #EX:
  
  
 #JP:リビングアーマー
-#EN:
+#EN:Living Armor
 #EX:
  
  
 #JP:バンパイアロード
-#EN:
+#EN:Vampire Lord
 #EX:
  
  
 #JP:ゴースト
-#EN:
+#EN:Ghost
 #EX:
  
  
 #JP:ケルベロス
-#EN:
+#EN:Kerberos
 #EX:
  
  
 #JP:マスターディーノ
-#EN:
+#EN:Master Dino
 #EX:
  
  
 #JP:ワイバーン
-#EN:
+#EN:Wyvern
 #EX:
  
  
 #JP:グレートドラゴン
-#EN:
+#EN:Great Dragon
 #EX:
  
  
 #JP:ミノタウロス
-#EN:
+#EN:Minotaur
 #EX:
  
  
 #JP:クラーケン
-#EN:
+#EN:Kraken
 #EX:
  
  
 #JP:サキュバス
-#EN:
+#EN:Succubus
 #EX:
  
  
 #JP:デーモンロード
-#EN:
+#EN:Demon Lord
 #EX:
  
  
 #JP:兄貴
-#EN:
+#EN:Aniki
 #EX:
  
  
 #JP:魔女
-#EN:
+#EN:Witch
 #EX:
  
  
 #JP:神官
-#EN:
+#EN:Priest
 #EX:
  
  
 #JP:帝国兵
-#EN:
+#EN:Imperial Soldier
 #EX:
  
  
 #JP:ファイアス
-#EN:
+#EN:Faias
 #EX:
  
  
 #JP:ロック
-#EN:
+#EN:Roc
 #EX:
  
  
 #JP:ネクロマンサー
-#EN:
+#EN:Necromancer
 #EX:
  
  
 #JP:ニコリス
-#EN:
+#EN:Nicolis
 #EX:
  
  
 #JP:ヒーディアス
-#EN:
+#EN:Hideous
 #EX:
  
  
 #JP:フェニックス
-#EN:
+#EN:Phoenix
 #EX:
  
  
 #JP:カオス
-#EN:
+#EN:Chaos
 #EX:
  
  
 #JP:ルシリス
-#EN:
+#EN:Lushiris
 #EX:
  
  
 #JP:ドラフィム
-#EN:
+#EN:Drafim
 #EX:
  
  
 #JP:オーザ
-#EN:
+#EN:Ogre
 #EX:
  
  
 #JP:イェルムンガルド
-#EN:
+#EN:Jormungand
 #EX:
  
  
 #JP:ラーカス
-#EN:
+#EN:Larcas
 #EX:
  
  
 #JP:モルガン
-#EN:
+#EN:Morgan
 #EX:
  
  
 #JP:リーアップ
-#EN:
+#EN:Lirapp
 #EX:
  
  
 #JP:アルファーン
-#EN:
+#EN:Alfan
 #EX:
  
  
 #JP:マツニス
-#EN:
+#EN:Matsunith
 #EX:
  
  
 #JP:ラミスローゼ
-#EN:
+#EN:Ramisrose
 #EX:
  
  
 #JP:ボーゼル
-#EN:
+#EN:Boser
 #EX:
  
  
 #JP:オーギタンス
-#EN:
+#EN:Orgitans
 #EX:
  
  
 #JP:アクトラクト
-#EN:
+#EN:Actract
 #EX:
  
  
 #JP:ツダーク
-#EN:
+#EN:Tsudark
 #EX:
  
  
 #JP:ハイスギット
-#EN:
+#EN:Haisgit
 #EX:
  
  
 #JP:テールホーン
-#EN:
+#EN:Terlhorn
 #EX:
  
  
 #JP:ゼルヴィス
-#EN:
+#EN:Zervith
 #EX:
  
  
 #JP:モンスター
-#EN:
+#EN:Monster
 #EX:
  
  
 #JP:バレンツ
-#EN:
+#EN:Barents
 #EX:
  
  
 #JP:ルキワード
-#EN:
+#EN:Lukword
 #EX:
  
  
 #JP:アキセル
-#EN:
+#EN:Aksel
 #EX:
  
  
 #JP:イフリート
-#EN:
+#EN:Efreet
 #EX:
  
  
 #JP:レーサス
-#EN:
+#EN:Lersath
 #EX:
  
  
 #JP:シカ族
-#EN:
+#EN:Shika Tribesman
 #EX:
  
  

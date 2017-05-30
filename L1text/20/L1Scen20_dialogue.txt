@@ -5,396 +5,396 @@
  
 #MT:
 #JP:エルサリアへようこそ。/8私の名はルシリス。地上では/8光の女神と呼ばれています。
-#EN:
+#EN:Welcome to El Sallia. My name is/8Lushiris. As the Goddess of Light,/8I summoned you from the land below.
 #EX:
  
  
 #MT:
 #JP:今、この世界は、闇の脅威に/8さらされようとしています。
-#EN:
+#EN:Our world has once again become/8exposed to the threat of/8an ancient darkness.
 #EX:
  
  
 #MT:
 #JP:そこで私はずっと、/8あなたのような勇気ある者が/8現れるのを待っていました。
-#EN:
+#EN:Long have I awaited the appearance/8of one so courageous as you.
 #EX:
  
  
 #MT:
 #JP:あなたが本当にこの世界を/8救えるかどうか試すため、/8これからいくつか質問をします。
-#EN:
+#EN:In order to see if you can truly/8save our world, I have some/8questions I must ask you.
 #EX:
  
  
 #MT:
 #JP:それでは/2。/8私の質問に答えて下さい。
-#EN:
+#EN:So then, /2, please answer/8my questions with an honest heart.
 #EX:
  
  
 #MT:
 #JP:メサイヤ世界へようこそっス。/8私の名はＯ庭。メサイヤでは、/8ロリ庭と呼ばれているっスよ。
-#EN:
+#EN:Welcome to Masaya World!/8My name is O. You've been invited/8into Masaya's holy garden.
 #EX:
  
  
 #MT:
 #JP:今、この世界は、マスター前で/8フォーエバーって感じですか。
-#EN:
+#EN:It felt like mastering this game/8took forever, didn't it?
 #EX:
  
  
 #MT:
 #JP:そこで私はずっと、/8あなたのような勇気ある者が現れ/8るのを待ってたって感じっス。
-#EN:
+#EN:I've been waiting around for a/8hellla long time for someone/8with your guts to show up.
 #EX:
  
  
 #MT:
 #JP:あなたが本当にこの世界を/8救えるかどうか試すため、/8これからいくつか質問をします。
-#EN:
+#EN:In order to see whether you can/8save this world or note, I have/8some questions for you.
 #EX:
  
  
 #MT:
 #JP:それでは/2。/8私の質問に答えて下さい。
-#EN:
+#EN:So anyway, /2, please try to/8answer them.
 #EX:
  
  
 #MT:
 #JP:世界が破滅の危機に/8陥った時、我々を救うものは？
-#EN:
+#EN:If the world collapses into crisis/8and ruin, what will save us?
 #EX:
  
  
 #JP:偉大なる神々
-#EN:
+#EN:Great gods
 #EX:
  
  
 #JP:豊かな知識
-#EN:
+#EN:Rich knowledge
 #EX:
  
  
 #JP:己の力
-#EN:
+#EN:My power
 #EX:
  
  
 #MT:
 #JP:あなたの指揮する部隊に/8求めるものは？
-#EN:
+#EN:What do you look for in a unit/8under your command?
 #EX:
  
  
 #JP:十分な兵力
-#EN:
+#EN:Powerful combat skills
 #EX:
  
  
 #JP:完全なる統制
-#EN:
+#EN:Complete obedience
 #EX:
  
  
 #JP:高い士気
-#EN:
+#EN:High morale
 #EX:
  
  
 #MT:
 #JP:どのような能力に優れた軍隊を/8理想としますか？
-#EN:
+#EN:What do you desire in/8an ideal unit?
 #EX:
  
  
 #JP:軍隊より己の力が重要
-#EN:
+#EN:My power is enough
 #EX:
  
  
 #JP:鉄壁の守り
-#EN:
+#EN:Impenetrable defense
 #EX:
  
  
 #JP:敵を粉砕する破壊力
-#EN:
+#EN:Power to destroy
 #EX:
  
  
 #MT:
 #JP:闇の者に対して/8あなたの持つイメージは？
-#EN:
+#EN:When confronted by being of evil,/8how do you perceive it?
 #EX:
  
  
 #JP:邪悪なる敵
-#EN:
+#EN:A wicked enemy
 #EX:
  
  
 #JP:崇拝の対象
-#EN:
+#EN:A being to worship
 #EX:
  
  
 #JP:取るに足りない存在
-#EN:
+#EN:Something not to be trifled with
 #EX:
  
  
 #MT:
 #JP:あなたはこの世界で、/8何のために生きていく/8つもりですか？
-#EN:
+#EN:For what purpose do you exist in/8this world?
 #EX:
  
  
 #JP:愛する人を守るため
-#EN:
+#EN:To protect the ones I love
 #EX:
  
  
 #JP:己を高めるため
-#EN:
+#EN:To strengthen myself
 #EX:
  
  
 #MT:ベルヌーイ
 #JP:夢をかなえるため
-#EN:
+#EN:To follow my dreams
 #EX:
  
  
 #MT:
 #JP:今、味方の偵察部隊が/8包囲されています。/6/7/5/8しかし、あなたの部隊もまた/8危険な状態にあります。/6/7/5/8あなたは部隊に対して/8どのように指示しますか？
-#EN:
+#EN:An ally unit has been encircled/8by the enemy. But you're in a/8dangerous position as well./6/7/8What will you do?
 #EX:
  
  
 #JP:退却を命じる
-#EN:
+#EN:Order a full retreat
 #EX:
  
  
 #JP:援軍を呼び、防戦する
-#EN:
+#EN:Call for reinforcements
 #EX:
  
  
 #JP:偵察部隊を助けに行く
-#EN:
+#EN:Rush to the unit's aid
 #EX:
  
  
 #MT:
 #JP:あなたが生涯をかけて/8求めるものは何ですか？
-#EN:
+#EN:What do you strive to obtain/8in life?
 #EX:
  
  
 #JP:知識
-#EN:
+#EN:Knowledge
 #EX:
  
  
 #JP:富
-#EN:
+#EN:Wealth
 #EX:
  
  
 #JP:権力
-#EN:
+#EN:Power
 #EX:
  
  
 #MT:
 #JP:強大な力を手にした時/8あなたは何のために/8その力を使いますか？
-#EN:
+#EN:If you obtained great power, what/8would you do with it?
 #EX:
  
  
 #JP:人々を守るため
-#EN:
+#EN:Protect the people
 #EX:
  
  
 #JP:全てを支配するため
-#EN:
+#EN:Rule over all
 #EX:
  
  
 #JP:正義を貫くため
-#EN:
+#EN:Carry out justice
 #EX:
  
  
 #MT:
 #JP:あなたにとって/8愛とはどのようなものですか？
-#EN:
+#EN:What is love to you?
 #EX:
  
  
 #JP:与え合うもの
-#EN:
+#EN:Something mutually given
 #EX:
  
  
 #JP:受けるもの
-#EN:
+#EN:Something received
 #EX:
  
  
 #JP:無限の力のみなもと
-#EN:
+#EN:A source of infinite power
 #EX:
  
  
 #MT:
 #JP:あなたがこの世界に/8望むものは何ですか？
-#EN:
+#EN:What do you desire in this world?
 #EX:
  
  
 #JP:愛と希望と勇気
-#EN:
+#EN:Love, hope and dreams
 #EX:
  
  
 #JP:意のままに生きる自由
-#EN:
+#EN:Free will
 #EX:
  
  
 #JP:秩序ある統一
-#EN:
+#EN:Order and unity
 #EX:
  
  
 #JP:国を治める者に/8必要と思われる能力は？
-#EN:
+#EN:What ability must the ruler of a/8country possess?
 #EX:
  
  
 #JP:カリスマ
-#EN:
+#EN:Charisma
 #EX:
  
  
 #JP:決断力
-#EN:
+#EN:Decisiveness
 #EX:
  
  
 #JP:実行力
-#EN:
+#EN:Power to take action
 #EX:
  
  
 #MT:
 #JP:英雄になるために/8必要と思うものは何ですか？
-#EN:
+#EN:What do you think makes/8one a hero?
 #EX:
  
  
 #JP:不屈の精神
-#EN:
+#EN:An unyielding spirit
 #EX:
  
  
 #JP:統率力
-#EN:
+#EN:The power to lead others
 #EX:
  
  
 #JP:勇気
-#EN:
+#EN:Courage
 #EX:
  
  
 #JP:男とは！
-#EN:
+#EN:You're a boy, aren't you?
 #EX:
  
  
 #JP:全てをつつみ込む愛
-#EN:
+#EN:No, a romantic
 #EX:
  
  
 #JP:熱き魂
-#EN:
+#EN:No, a burning spirit
 #EX:
  
  
 #JP:はがねのごとき肉体
-#EN:
+#EN:No, a man of steel
 #EX:
  
  
 #MT:
 #JP:戦いが始まった時、/8あなたが自分に対して/8求める能力は何ですか？
-#EN:
+#EN:At the start of a battle, what/8skills do you require the most?
 #EX:
  
  
 #JP:豊富な戦術知識
-#EN:
+#EN:Tactical knowledge
 #EX:
  
  
 #JP:冷静な判断力
-#EN:
+#EN:Calm judgement
 #EX:
  
  
 #JP:強大な力
-#EN:
+#EN:Mighty power
 #EX:
  
  
 #MT:
 #JP:あなたが理想とする部隊は/8どのようなものですか？
-#EN:
+#EN:What kind of unit would you most/8like under your command?
 #EX:
  
  
 #JP:少数精鋭
-#EN:
+#EN:A small, elite force
 #EX:
  
  
 #JP:個人の力は弱いが大部隊
-#EN:
+#EN:Power in numbers
 #EX:
  
  
 #JP:自分一人で十分
-#EN:
+#EN:I alone am enough
 #EX:
  
  
 #MT:
 #JP:最後に、あなたは、/8何のために戦うのですか？
-#EN:
+#EN:Lastly, for what purpose do you/8fight?
 #EX:
  
  
 #JP:名誉を得るため
-#EN:
+#EN:For glory and honor
 #EX:
  
  
 #JP:祖国を守るため
-#EN:
+#EN:To protect my land
 #EX:
  
  
 #JP:愛する人を守るため
-#EN:
+#EN:To protect the ones I love
 #EX:
  
  
