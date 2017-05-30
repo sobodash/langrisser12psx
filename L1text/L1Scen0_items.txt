@@ -99,7 +99,7 @@
 
 
 #JP:オーディンのたて
-#EN:Odin's Buckler
+#EN:Odin’s Buckler
 #EX:
 
 
@@ -139,7 +139,7 @@
 
 
 #JP:ミラージュローブ
-#EN:Wizard's Robe
+#EN:Wizard’s Robe
 #EX:
 
 
@@ -189,7 +189,7 @@
 
 
 #JP:旅人たちが身につける、護身用のナ
-#EN:A traveller's knife used
+#EN:A traveller’s knife used
 #EX:
 
 
@@ -364,7 +364,7 @@
 
 
 #JP:ＭＰ×２・魔法射程＋３
-#EN:MP*2 M.Range+3
+#EN:MPx2 M.Range+3
 #EX:
 
 
@@ -374,7 +374,7 @@
 
 
 #JP:カギとなる光のロッド。
-#EN:Langrisser's holy power.
+#EN:Langrisser’s holy power.
 #EX:
 
 
@@ -704,12 +704,12 @@
 
 
 #JP:これを装備して、レベル１０になる
-#EN:inscription, "At Level 10 ... do
+#EN:inscription, “At Level 10 ... do
 #EX:
 
 
 #JP:と‥‥？
-#EN:you wish to begin anew ...?"
+#EN:you wish to begin anew ...?”
 #EX:
 
 

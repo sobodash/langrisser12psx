@@ -69,7 +69,7 @@
  
  
 #JP:これ以上、召喚できません。
-#EN:Can't summon.
+#EN:Can’t summon.
 #EX:
  
  
@@ -259,7 +259,7 @@
  
  
 #JP:ＧＡＭＥ/5ＯＶＥＲ
-#EN:GAME/5OVER
+#EN:GAME OVER
 #EX:
  
  
@@ -329,7 +329,7 @@
  
  
 #JP:使える魔法・召喚
-#EN:Magic & Summon
+#EN:Magic and Summon
 #EX:
  
  
@@ -349,7 +349,7 @@
  
  
 #JP:味方の
-#EN:Ally's
+#EN:Ally’s
 #EX:
  
  
@@ -359,12 +359,12 @@
  
  
 #JP:敵の
-#EN:Enemy's
+#EN:Enemy’s
 #EX:
  
  
 #JP:ＮＰＣの
-#EN:NPC's
+#EN:NPC’s
 #EX:
  
  
@@ -389,7 +389,7 @@
  
  
 #JP:/2アイテムを持っていません。
-#EN:/2 can't be equipped.
+#EN:/2 can’t be equipped.
 #EX:
  
  
@@ -399,7 +399,7 @@
  
  
 #JP:お金が足りません。
-#EN:You don't have enough money.
+#EN:You don’t have enough money.
 #EX:
  
  
@@ -419,7 +419,7 @@
  
  
 #JP:売れるアイテムを持っていません。
-#EN:You don't possess any more items to sell.
+#EN:You don’t possess any more items to sell.
 #EX:
  
  

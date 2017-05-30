@@ -17,19 +17,19 @@
  
 #MT:レディン
 #JP:父上！/6/7何を言われるのです！
-#EN:Father!/8What are you saying?!/8You can't fight alone!
+#EN:Father!/8What are you saying?!/8You can’t fight alone!
 #EX:
  
  
 #MT:イルザック
 #JP:案ずるな。/8これしきでは落ちはせぬ。/6/7もしものためだ。
-#EN:You have to gather more troops./8The castle can't hold like this/8for long./6/7/8We'll be all right.
+#EN:You have to gather more troops./8The castle can’t hold like this/8for long./6/7/8We’ll be all right.
 #EX:
  
  
 #MT:テイラー
 #JP:敵が動き出しました！
-#EN:Arrr, they be makin' their move!
+#EN:Arrr, they be makin’ their move!
 #EX:
  
  
@@ -53,13 +53,13 @@
  
 #MT:イルザック
 #JP:何をしている。/8早くナームのもとへ行け！/6/7行かぬか！
-#EN:You can't waste any time!/8Hurry and follow Narm out of the/8castle!/6/7/8Get going!
+#EN:You can’t waste any time!/8Hurry and follow Narm out of the/8castle!/6/7/8Get going!
 #EX:
  
  
 #MT:イルザック
 #JP:損害を受けた部隊は/8指揮官のもとで治療しろ！
-#EN:Make sure to treat any injured/8troops immediately. We can't afford/8any casualties!
+#EN:Make sure to treat any injured/8troops immediately. We can’t afford/8any casualties!
 #EX:
  
  
@@ -71,7 +71,7 @@
  
 #MT:イルザック
 #JP:指揮官も、傷を負ったら/8無理せず治療するのだ！
-#EN:Commanders aren't invincible/8either. Make sure to heal when/8you need to.
+#EN:Commanders aren’t invincible/8either. Make sure to heal when/8you need to.
 #EX:
  
  
@@ -119,7 +119,7 @@
  
 #MT:ナーム
 #JP:王子、御願いです！/8これ以上戦うのは危険です！/6/7早くこちらへ！
-#EN:My prince, it's dangerous to/8continue this battle!/6/7/8Please, come here quickly!
+#EN:My prince, it’s dangerous to/8continue this battle!/6/7/8Please, come here quickly!
 #EX:
  
  
@@ -131,37 +131,37 @@
  
 #MT:ナーム
 #JP:/2様、/8私が安全な所まで案内します。
-#EN:/2, I'll guide you to safety.
+#EN:/2, I’ll guide you to safety.
 #EX:
  
  
 #MT:レディン
 #JP:しかし、父上の事が心配だ。
-#EN:But I'm worried about my father...
+#EN:But I’m worried about my father...
 #EX:
  
  
 #MT:ナーム
 #JP:王子を送った後で/8私が城へ戻って/8王をお助けします。
-#EN:After getting you to safety, I'll/8return to the castle and help the/8king.
+#EN:After getting you to safety, I’ll/8return to the castle and help the/8king.
 #EX:
  
  
 #MT:レディン
 #JP:頼むぞ、ナーム。/6/7私もサルラスで援軍を集め/8必ず戻ってくる！
-#EN:Thank you, Narm./6/7/8After getting reinforcements in/8Salrath, I'll surely return.
+#EN:Thank you, Narm./6/7/8After getting reinforcements in/8Salrath, I’ll surely return.
 #EX:
  
  
 #MT:レディン
 #JP:これで終わりか‥‥。/6/7父上、みんな、すまない‥‥
-#EN:This is the end.../6/7/8Father... everyone... I'm sorry...
+#EN:This is the end.../6/7/8Father... everyone... I’m sorry...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:傷を負いすぎた。/6/7王子、/8私はいったん退却します。
-#EN:I've been gravely wounded./8My prince, I must retreat.
+#EN:I’ve been gravely wounded./8My prince, I must retreat.
 #EX:
  
  
@@ -173,7 +173,7 @@
  
 #MT:テイラー
 #JP:俺の名はテイラー！/6/7ここは一歩も通さん！
-#EN:Avast! I be Captain Taylor!/6/7/8Remember it, for it be the last/8name your landlubbin' ears ever/8hear!
+#EN:Avast! I be Captain Taylor!/6/7/8Remember it, for it be the last/8name your landlubbin’ ears ever/8hear!
 #EX:
  
  
@@ -185,19 +185,19 @@
  
 #MT:テイラー
 #JP:ええーい、離せ！/6/7俺はまだ戦えるぞ！/8離せ！離さんか！
-#EN:Lay off, savvy?/8There's still fight in these/8bones!/6/7/8Die! Damn you!
+#EN:Lay off, savvy?/8There’s still fight in these/8bones!/6/7/8Die! Damn you!
 #EX:
  
  
 #MT:一般兵
 #JP:騎士道とは、/8死ぬ事とみつけたり！
-#EN:For Lady Jessica!/8Let's show them our bravery,/8we can't die here!
+#EN:For Lady Jessica!/8Let’s show them our bravery,/8we can’t die here!
 #EX:
  
  
 #MT:ジェシカ
 #JP:これ以上、/8進ませるわけにはいきません。
-#EN:This is too much, I won't let/8you continue this assault!
+#EN:This is too much, I won’t let/8you continue this assault!
 #EX:
  
  
@@ -227,7 +227,7 @@
  
 #MT:ナーム
 #JP:王子、早く！/6/7敵に囲まれてしまいます！
-#EN:My prince!/8Make haste! We're surrounded/8by the enemy!
+#EN:My prince!/8Make haste! We’re surrounded/8by the enemy!
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:ナーム
 #JP:ウッ！/6/7王子が来るまで/8やられるわけには‥‥
-#EN:Urk!/6/7/8Un... till the prince comes.../8I... can't fall...
+#EN:Urk!/6/7/8Un... till the prince comes.../8I... can’t fall...
 #EX:
  
  
@@ -251,19 +251,19 @@
  
 #MT:イルザック
 #JP:コッセル、お前も年だ。/8無理はいたすな！
-#EN:Kossel, you're not young/8anymore!/8Don't push yourself!
+#EN:Kossel, you’re not young/8anymore!/8Don’t push yourself!
 #EX:
  
  
 #MT:コッセル
 #JP:大丈夫です。/6/7まだまだ若い者には/8負けませんて。
-#EN:I'll be OK./6/7/8These kids have a ways to go/8before they can match my/8experience.
+#EN:I’ll be OK./6/7/8These kids have a ways to go/8before they can match my/8experience.
 #EX:
  
  
 #MT:コッセル
 #JP:あまり年寄りを/8いじめるものではないぞ。
-#EN:This will be tough on you!/8I may be old, but I'm/8not new to the battlefield
+#EN:This will be tough on you!/8I may be old, but I’m/8not new to the battlefield
 #EX:
  
  
@@ -281,13 +281,13 @@
  
 #MT:一般兵
 #JP:ここは危険です。/6/7退がって下さい！
-#EN:It's dangerous here./6/7/8Hurry and retreat!
+#EN:It’s dangerous here./6/7/8Hurry and retreat!
 #EX:
  
  
 #MT:コッセル
 #JP:おお、すまぬのう‥‥。
-#EN:Oh, I'm sorry...
+#EN:Oh, I’m sorry...
 #EX:
  
  
@@ -305,7 +305,7 @@
  
 #MT:サー・ガリウス
 #JP:ここは退いてやる。/6/7おぼえておれよ！
-#EN:I'll have to retreat... but/8I won't forget about this battle!
+#EN:I’ll have to retreat... but/8I won’t forget about this battle!
 #EX:
  
  
@@ -323,7 +323,7 @@
  
 #MT:ゼルド
 #JP:おのれ！/8今にみておれ！
-#EN:You.../6/7/8Shit! I gotta pull out.../8This battle isn't decided yet!
+#EN:You.../6/7/8Shit! I gotta pull out.../8This battle isn’t decided yet!
 #EX:
  
  
@@ -335,13 +335,13 @@
  
 #MT:帝国軍指揮官
 #JP:ディゴス様、/8申し訳ありません‥‥。
-#EN:Lord Digos, I've failed you...
+#EN:Lord Digos, I’ve failed you...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:フッ！バカめ！
-#EN:Arrr, ya'll be some ignorant/8fuckers, ain'cha?
+#EN:Arrr, ya’ll be some ignorant/8fuckers, ain’cha?
 #EX:
  
  
@@ -359,7 +359,7 @@
  
 #MT:ディゴス
 #JP:よく私を倒したな、貴様に/8めんじて今は退いてやろう。/6/7全軍後退し、/8第二次攻撃を準備しろ！/6/7では、また会おう‥‥/6/7ハッハッハッハッハッ！
-#EN:It's indeed impressive that/8you managed to best me./6/7/8However. backup troops are on/8standby and awaiting the second/8strike./6/7/8So then, I'll be back soon./8Count on it.../6/7/8Ha ha ha ha ha!
+#EN:It’s indeed impressive that/8you managed to best me./6/7/8However. backup troops are on/8standby and awaiting the second/8strike./6/7/8So then, I’ll be back soon./8Count on it.../6/7/8Ha ha ha ha ha!
 #EX:
  
  
@@ -371,7 +371,7 @@
  
 #MT:ディゴス
 #JP:何を手間取っておるか！/6/7一気に叩きつぶしてしまえ！
-#EN:We can't waste any more time!/6/7/8Let's crush them in one fell/8swoop!
+#EN:We can’t waste any more time!/6/7/8Let’s crush them in one fell/8swoop!
 #EX:
  
  
