@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「/5王城脱出/5」/6/7/5はるか古より、手にした者に/8無限の力を与えると言われている/8伝説の秘剣ラングリッサー。/6/7/5バルディア王家によって守られて/8きたその剣を狙って、ダルシス帝国/8皇帝ディゴスが大軍団を従えて、/8バルディア城を包囲してきた。/8/5ダルシスの王宮魔導師の魔法が/8バルディア城を赤く染める。/6/7×勝利条件/8/5・レディンがナームと合流/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/8/5・ナームの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"/5Flight from Baldea/5"/6/7/5Since ancient times, the holy/8sword, Langrisser, has been said/8to give its wielder unlimited/8power./6/7/5To obtain the sword, which lay/8under the protection of the/8Baldea royal family, Emperor/8Digos of the Dalshis Empire/8encircled Baldea castle with/8several large platoons./6/7/5The magic of Digos' court/8magician dyed the castle red/8with blood./6/7Winning Conditions/8/5- Ledin reaches Narm/8/5- Defeat of all enemies/8/5/8Losing Conditions/8/5- Death of Ledin/8/5- Death of Narm/6/7
 #EX:
  
  
