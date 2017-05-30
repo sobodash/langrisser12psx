@@ -4,27 +4,27 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:/5- Death of Ledin
 #EX:
  
  
 #JP:/5・黒騎士ランスの撃破
-#EN:
+#EN:/5- Defeat of the
 #EX:
  
  
 #JP:
-#EN:
+#EN:/5  Black Knight, Lance
 #EX:
  
  

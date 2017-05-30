@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「/5死霊の森/5」/6/7/5野盗を撃退したレディンたちの/8前に、騎士団のナームが現れた。/8そしてバルディア城が/8陥落した事を知らされたのである。/6/7/5レディンはバルディア城に/8戻るため、ゲルがさまよう/8死霊の森を通過することにした。/6/7×勝利条件/8/5・１６ターンの間レディンが生存/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5"/5Forest of Death/5"/6/7/5After driving out the bandits,/8Narm arrived bearing news of/8Baldea's fall./6/7/5To return to Baldea castle,/8Ledin decided to cross the Forest/8of Death, inhabited by Gels and/8Ghosts./6/7Winning Conditions/8/5- Ledin survives for 16 turns/8/5- Defeat of all enemies/8/5/8Losing Conditions/8/5- Death of Ledin/6/7
 #EX:
  
  

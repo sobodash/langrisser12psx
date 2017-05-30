@@ -4,22 +4,22 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:/5- Death of Ledin
 #EX:
  
  
 #JP:/5・敵の全滅
-#EN:
+#EN:/5- Defeat of all enemies
 #EX:
  
  
@@ -34,7 +34,7 @@
  
  
 #JP:/5・シビリアンの全滅
-#EN:
+#EN:/5- Death of villagers
 #EX:
  
  

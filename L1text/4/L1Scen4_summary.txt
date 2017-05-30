@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「帝国軍親衛隊」/6/7/5サルラスからの援軍、/8クリスやソーンの助けをかりて/8死霊の森を抜けたレディンたち。/6/7しかし、森の先で彼らを/8待ち受ける帝国軍の姿があった。/8黒騎士と呼ばれ恐れられている/8ダルシス帝国親衛隊隊長ランスが/8待ち構えていたのだ。/8/5宿命のライバルである二人の/8戦いが今、始まった。/6/7×勝利条件/8/5・黒騎士ランスの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5"The Imperial Guards"/6/7/5Chris and Thorn came from/8Salrath to help Ledin cross the/8Forest of Death./6/7But a detachment of the/8imperial knights were waiting/8for them just beyond the/8forest./6/7The captain of the Dalshis/8Imperial Guards, Lance Kalxath,/8the Black Knight, had been/8expecting them./6/7The battle of two fated rivals/8has begun./6/7Winning Conditions/8/5- Defeat of the /8/5  Black Knight, Lance/8Losing Conditions/8/5- Death of Ledin/6/7
 #EX:
  
  

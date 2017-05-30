@@ -4,32 +4,32 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:/5- Death of Ledin
 #EX:
  
  
 #JP:/5・１６ターンの間レディンが
-#EN:
+#EN:/5- Ledin survives for 16 turns
 #EX:
  
  
 #JP:/5/5生存する
-#EN:
+#EN:/5
 #EX:
  
  
 #JP:/5・敵の全滅
-#EN:
+#EN:/5- Defeat of all enemies
 #EX:
  
  
