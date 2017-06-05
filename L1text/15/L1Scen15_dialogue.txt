@@ -23,36 +23,36 @@
  
 #MT:ソーン
 #JP:おそらく、/8奴の巣か何かでしょう。
-#EN:Maybe it's the beast's nesting/8grounds.
+#EN:Maybe it’s the beast’s nesting/8grounds.
 #EX:
  
  
 #MT:一般兵
 #JP:おそらく、/8奴の巣か何かでしょう。
-#EN:Maybe it's the beast's nesting/8grounds.
+#EN:Maybe it’s the beast’s nesting/8grounds.
 #EX:
  
  
 #MT:レディン
 #JP:うむ、/8行くぞ！
-#EN:Well anyway, let's move out!
+#EN:Well anyway, let’s move out!
 #EX:
  
  
 #MT:レディン
 #JP:ひるむな！/6/7なんとしても/8ドラゴンを倒すんだ！
-#EN:I'm a little worried. This/8dragon is a strong foe indeed./8He won't go down easily!
+#EN:I’m a little worried. This/8dragon is a strong foe indeed./8He won’t go down easily!
 #EX:
  
  
 #JP:無残な‥‥。/8ドラゴンにやられたのか‥‥。/6/7ムッ！/6/7これはドラゴンスレイヤー！/6/7勇者よ‥‥。/6/7あなたの意志は/8この私が引き継ごう。/6/7そして必ずドラゴンを/8倒してみせるぞ。
 #EN:
-#EX:How cruel.../8For the dragon to have/8killed someone like that.../6/7/8Hmm?!/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I'll take over/8your mission and see the beast/8is slain once and for all.
+#EX:How cruel.../8For the dragon to have/8killed someone like that.../6/7/8Hmm?!/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I’ll take over/8your mission and see the beast/8is slain once and for all.
  
  
 #MT:
 #JP:ひどい‥‥、ドラゴンに/8やられたのね‥‥。/6/7！？/6/7これはドラゴンスレイヤー！/8勇者よ‥‥。/6/7あなたの意志は、/8私が引き継ぎます。/6/7そして必ずあのドラゴンを/8倒してみせます。
-#EN:How cruel... this looks like/8the handiwork of a dragon./6/7/8!?/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I'll take over/8your mission and see the beast/8is slain once and for all.
+#EN:How cruel... this looks like/8the handiwork of a dragon./6/7/8!?/6/7/8This must be the legendary/8Dragon Slayer!/6/7/8The sword used by the hero.../6/7/8Rest warrior, I’ll take over/8your mission and see the beast/8is slain once and for all.
 #EX:
  
  
@@ -82,7 +82,7 @@
  
 #MT:レディン
 #JP:突破するぞ！
-#EN:I'll break you!
+#EN:I’ll break you!
 #EX:
  
  
@@ -94,7 +94,7 @@
  
 #MT:ナーム
 #JP:いくわよ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -112,7 +112,7 @@
  
 #MT:ソーン
 #JP:くそっ！/8武器がいかれた！/8後はまかせる！
-#EN:Shit!/8My weapon has had it!/8You'll have to handle the rest.
+#EN:Shit!/8My weapon has had it!/8You’ll have to handle the rest.
 #EX:
  
  
@@ -130,7 +130,7 @@
  
 #MT:レディン
 #JP:クリス！/6/7もう無理だ、さがれ！
-#EN:CHRIS!/6/7/8That's enough! Fall back!
+#EN:CHRIS!/6/7/8That’s enough! Fall back!
 #EX:
  
  
@@ -142,7 +142,7 @@
  
 #MT:テイラー
 #JP:くっ、しくじっちまった。
-#EN:Ku, I've failed...
+#EN:Ku, I’ve failed...
 #EX:
  
  
@@ -154,13 +154,13 @@
  
 #MT:ジェシカ
 #JP:もうダメだわ‥‥
-#EN:It's useless...
+#EN:It’s useless...
 #EX:
  
  
 #MT:アルバート
 #JP:逃がしはせぬ！
-#EN:I won't let you get away!
+#EN:I won’t let you get away!
 #EX:
  
  
@@ -178,13 +178,13 @@
  
 #MT:ホーキング
 #JP:すみません王子、/6/7これ以上は無理のようです。
-#EN:I'm sorry prince,/8the rest is in your hands.
+#EN:I’m sorry prince,/8the rest is in your hands.
 #EX:
  
  
 #MT:ランス
 #JP:むやみに突っ込むと/8回りを囲まれて/8危険だぞ。
-#EN:Don't thrust randomly if you/8get surrounded./6/7/8A single hit is better than/8twenty missed.
+#EN:Don’t thrust randomly if you/8get surrounded./6/7/8A single hit is better than/8twenty missed.
 #EX:
  
  
@@ -214,7 +214,7 @@
  
 #MT:レディン
 #JP:やっと倒したか‥‥
-#EN:It's defeated at last...
+#EN:It’s defeated at last...
 #EX:
  
  
@@ -235,7 +235,7 @@
  
 #MT:レディン
 #JP:あの剣は/8勇者の意志が実体化した/8物なのかもしれない。
-#EN:That sword was a manifestation/8of the hero's will...
+#EN:That sword was a manifestation/8of the hero’s will...
 #EX:
  
  
@@ -271,7 +271,7 @@
  
 #MT:ジェシカ
 #JP:これは？！/6/7これはバルディアに伝わる/8古代文字です！/6/7魔導師ボーゼル、/8闇の力を解き放ち、/8世界が闇におおわれる。/6/7この時、エルスリードの王/8ジークハルト、光の軍勢を率い/8これを迎え討つ。/6/7そしてラングリッサーにより/8ヴェルゼリアに闇を封じる。
-#EN:What is this?!/6/7/8It looks like an ancient record/8of the Baldea Kingdom!/6/7/8"When the evil lord Boser/8released the powers of darkness,/8a shadow was cast over the/8entire world.."/6/7/8"When this happened, King Sieghart/8of Elthlead led an army of light/8to clash with the army of/8darkness..."/6/7/8"With Langrisser, the darkness/8was returned to Velzeria/8from whence it came, to dwell/8forever in nothingness..."
+#EN:What is this?!/6/7/8It looks like an ancient record/8of the Baldea Kingdom!/6/7/8“When the evil lord Böser/8released the powers of darkness,/8a shadow was cast over the/8entire world..”/6/7/8“When this happened, King Sieghart/8of Elthlead led an army of light/8to clash with the army of/8darkness...”/6/7/8“With Langrisser, the darkness/8was returned to Velzeria/8from whence it came, to dwell/8forever in nothingness...”
 #EX:
  
  

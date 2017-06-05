@@ -24,7 +24,7 @@
  
  
 #JP:/5/5敵の撃破
-#EN:  except Boser
+#EN:  except Böser
 #EX:
  
  

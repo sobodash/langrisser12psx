@@ -11,13 +11,13 @@
  
 #MT:レディン
 #JP:誰だ！お前は！
-#EN:Who's there?! Who are you?!
+#EN:Who’s there?! Who are you?!
 #EX:
  
  
 #MT:ボーゼル
 #JP:我が名はボーゼル。/6/7このヴェルゼリアの、/8否、全世界の支配者だ。
-#EN:My name is Boser./6/7/8I'm the lord of Velzeria, no,/8now of this entire world.
+#EN:My name is Böser./6/7/8I’m the lord of Velzeria, no,/8now of this entire world.
 #EX:
  
  
@@ -29,13 +29,13 @@
  
 #MT:ボーゼル
 #JP:フッ、威勢のいい事だな。/6/7ニコリス、ナーギャ、/8奴らの相手をしてやれ！
-#EN:Hmmmmm? Well that would be because/8of a thing called "power."/6/7/8Nicolis, Nagya, do be kind and/8entertain our guests for a/8while!
+#EN:Hmmmmm? Well that would be because/8of a thing called “power.”/6/7/8Nicolis, Nagya, do be kind and/8entertain our guests for a/8while!
 #EX:
  
  
 #MT:ニコリス
 #JP:おおせのままに。/6/7では私の術を奴らに/8くれてやりましょう。/6/7虚空の闇に潜み、/8偽りを司どる亡者よ。/8我が盟約に従い、/8なんじの力を示せ。/6/7スエシ、ヌエル、カオス。/8ムービ、リコーニ！
-#EN:As you command./6/7/8I guess I'll let them see a/8little of my magic./6/7/8Oh ye who dwells within/8the darkness of the void.../8Lord of lies and death./6/7/8I swear my soul to walk/8the path of darkness,/8An awaiting vessel/8for your vast powers!/6/7/8Suecia Nuel Kaos./8Mulvi Ricohn!
+#EN:As you command./6/7/8I guess I’ll let them see a/8little of my magic./6/7/8Oh ye who dwells within/8the darkness of the void.../8Lord of lies and death./6/7/8I swear my soul to walk/8the path of darkness,/8An awaiting vessel/8for your vast powers!/6/7/8Suecia Nuel Kaos./8Mulvi Ricohn!
 #EX:
  
  
@@ -65,7 +65,7 @@
  
 #MT:レディン
 #JP:？！/8どうしたんだ！
-#EN:?!/8What's wrong?!
+#EN:?!/8What’s wrong?!
 #EX:
  
  
@@ -77,13 +77,13 @@
  
 #MT:レディン
 #JP:お前達の思い通りに/8やらせないぞ！
-#EN:You can't get away with this!
+#EN:You can’t get away with this!
 #EX:
  
  
 #MT:レディン
 #JP:こんな所で負ける/8わけには‥‥
-#EN:I can't believe I'd fall here...
+#EN:I can’t believe I’d fall here...
 #EX:
  
  
@@ -107,7 +107,7 @@
  
 #MT:ソーン
 #JP:くそっ、/6/7やられた！/8後はまかせる！
-#EN:Shit!/6/7/8I'm done for, you'll have to/8carry on without me!
+#EN:Shit!/6/7/8I’m done for, you’ll have to/8carry on without me!
 #EX:
  
  
@@ -137,13 +137,13 @@
  
 #MT:ジェシカ
 #JP:王子。/6/7ニコリスを倒す事ができれば/8あの術を破れるはずです。
-#EN:My prince, I have an idea./6/7/8If you can defeat Nicolis,/8there's a chance it may break his/8spell.
+#EN:My prince, I have an idea./6/7/8If you can defeat Nicolis,/8there’s a chance it may break his/8spell.
 #EX:
  
  
 #MT:レディン
 #JP:わかった。/6/7急いでニコリスを倒すぞ！
-#EN:I understand./6/7/8In that case let's hurry after/8Nicolis!
+#EN:I understand./6/7/8In that case let’s hurry after/8Nicolis!
 #EX:
  
  
@@ -161,7 +161,7 @@
  
 #MT:アルバート
 #JP:ここまで来て/8一歩も退くわけにはいかん！
-#EN:I've come this far, I won't/8run away!
+#EN:I’ve come this far, I won’t/8run away!
 #EX:
  
  
@@ -173,25 +173,25 @@
  
 #MT:ホーキング
 #JP:いくぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
 #MT:ホーキング
 #JP:王子、申し訳ありません。/6/7いったんさがります。
-#EN:My prince, I've failed you./6/7/8I must retreat at once.
+#EN:My prince, I’ve failed you./6/7/8I must retreat at once.
 #EX:
  
  
 #MT:ランス
 #JP:ニコリスの相手は/8私にまかせろ！/6/7奴の術を急いで封じるぞ！
-#EN:Leave Nicolis's buddies to me./6/7/8Hurry and seal their powers!
+#EN:Leave Nicolis’s buddies to me./6/7/8Hurry and seal their powers!
 #EX:
  
  
 #MT:ランス
 #JP:生きて帰れると/8思わない事だな！
-#EN:I won't let you return alive!
+#EN:I won’t let you return alive!
 #EX:
  
  
@@ -263,19 +263,19 @@
  
 #MT:ニコリス
 #JP:そろそろ/8本気を出させてもらおうか。
-#EN:Don't bother coming out if you're/8not planning to fight seriously.
+#EN:Don’t bother coming out if you’re/8not planning to fight seriously.
 #EX:
  
  
 #MT:ニコリス
 #JP:私の術を邪魔しようとしても/8無駄な事だ！/6/7貴様ごときが私に/8勝てるわけがない！
-#EN:Don't waste your time trying to/8break my enchantment./6/7/8There no way you can defeat me.
+#EN:Don’t waste your time trying to/8break my enchantment./6/7/8There no way you can defeat me.
 #EX:
  
  
 #MT:ニコリス
 #JP:しまった、私の術が‥‥/6/7くそっ！覚えていろ！
-#EN:You... you broke my spell.../6/7/8Shit! I won't forget this!
+#EN:You... you broke my spell.../6/7/8Shit! I won’t forget this!
 #EX:
  
  
@@ -287,7 +287,7 @@
  
 #MT:レディン
 #JP:大丈夫だ！/6/7ニコリスの術によって/8操られていただけだ。
-#EN:You're OK now!/6/7/8You were under one of Nicolis's/8spells.
+#EN:You’re OK now!/6/7/8You were under one of Nicolis’s/8spells.
 #EX:
  
  
@@ -299,7 +299,7 @@
  
 #MT:レディン
 #JP:大丈夫だ！/6/7ニコリスの術によって/8操られていただけだ。
-#EN:You're okay now!/6/7/8You were under one of Nicolis's/8spells.
+#EN:You’re okay now!/6/7/8You were under one of Nicolis’s/8spells.
 #EX:
  
  
@@ -317,7 +317,7 @@
  
 #MT:ナーギャ
 #JP:うぎゃー！/6/7つ、次こそは/8あなた達を倒してあげます。/6/7しばらく待っていなさい！
-#EN:Ugyaa!/6/7/8Damn it, I'm going to/8beat you next time for sure!/6/7/8Just you wait!
+#EN:Ugyaa!/6/7/8Damn it, I’m going to/8beat you next time for sure!/6/7/8Just you wait!
 #EX:
  
  
@@ -329,19 +329,19 @@
  
 #MT:ボーゼル
 #JP:人間にしては/8なかなかやるな。/6/7そろそろ時間だ、/8後でまた会おう。
-#EN:For a human you've done quite/8well./6/7/8But we will meet again.
+#EN:For a human you’ve done quite/8well./6/7/8But we will meet again.
 #EX:
  
  
 #MT:ボーゼル
 #JP:ここで貴様らの命を/8絶つつもりだったが、/8そろそろ時間だ。/6/7次の機会まで/8貴様らの命は預けておく。/6/7では一足先に、/8地下神殿で待っているぞ！
-#EN:The time has come for you to/8make a choice./6/7/8Up till now I've given you the/8opportunity to flee and spare/8your lives./6/7/8But should you persist, I will/8eagerly await you in the/8underground sanctuary.
+#EN:The time has come for you to/8make a choice./6/7/8Up till now I’ve given you the/8opportunity to flee and spare/8your lives./6/7/8But should you persist, I will/8eagerly await you in the/8underground sanctuary.
 #EX:
  
  
 #MT:レディン
 #JP:このまま一気に/8ヴェルゼリア城へ突入する！/6/7いくぞ！
-#EN:Quickly! We're only a little/8way from Velzeria Castle!/6/7/8Let's move out!
+#EN:Quickly! We’re only a little/8way from Velzeria Castle!/6/7/8Let’s move out!
 #EX:
  
  
@@ -359,7 +359,7 @@
  
 #MT:レディン
 #JP:ボーゼル！/6/7二度とよみがえらぬよう、/8このラングリッサーで/8封印してやる！
-#EN:Boser!/6/7/8The time is at hand!/8We'll defeat you and seal you and/8your henchmen once again with/8Langrisser!
+#EN:Böser!/6/7/8The time is at hand!/8We’ll defeat you and seal you and/8your henchmen once again with/8Langrisser!
 #EX:
  
  

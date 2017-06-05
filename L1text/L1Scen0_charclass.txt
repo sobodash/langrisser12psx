@@ -404,7 +404,7 @@
  
  
 #JP:ボーゼル
-#EN:Boser
+#EN:Böser
 #EX:
  
  

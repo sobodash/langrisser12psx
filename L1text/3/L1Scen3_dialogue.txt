@@ -5,7 +5,7 @@
  
 #MT:レディン
 #JP:ここが死霊の森か‥‥。/6/7かなり深い森だな。
-#EN:So this is the Forest of Death.../8It seems like we're in pretty/8deep.
+#EN:So this is the Forest of Death.../8It seems like we’re in pretty/8deep.
 #EX:
  
  
@@ -17,13 +17,13 @@
  
 #MT:レディン
 #JP:そうだな。/6/7しかし何か様子が変だぞ。
-#EN:I guess so./6/7/8But have you noticed? Something/8seems odd.../6/7/8Like we're being watched.
+#EN:I guess so./6/7/8But have you noticed? Something/8seems odd.../6/7/8Like we’re being watched.
 #EX:
  
  
 #MT:ナーム
 #JP:大変！/6/7化け物に囲まれているわ！
-#EN:We're in trouble!/6/7/8We've been surrounded by monsters!
+#EN:We’re in trouble!/6/7/8We’ve been surrounded by monsters!
 #EX:
  
  
@@ -35,31 +35,31 @@
  
 #MT:レディン
 #JP:来るぞ！/6/7気を付けろ！
-#EN:They're coming!/6/7/8Look out!
+#EN:They’re coming!/6/7/8Look out!
 #EX:
  
  
 #MT:ナーム
 #JP:普通の攻撃じゃ/8あまりダメージを/8与えられないわ！
-#EN:Ordinary attacks won't hurt/8these creatures!
+#EN:Ordinary attacks won’t hurt/8these creatures!
 #EX:
  
  
 #MT:レディン
 #JP:兵力を分散せずに/8集中して戦うんだ！
-#EN:Don't let your troops spread/8out! Stay close together!
+#EN:Don’t let your troops spread/8out! Stay close together!
 #EX:
  
  
 #MT:ソーン
 #JP:こいつらは火に弱い！/6/7全軍突撃、/8一気に蹴散らしてしまえ！
-#EN:These things are weak against/8fire!/6/7/8All troops charge! Let's crush/8them!
+#EN:These things are weak against/8fire!/6/7/8All troops charge! Let’s crush/8them!
 #EX:
  
  
 #MT:クリス
 #JP:/2様！/6/7今、お助けします！
-#EN:Lord /2!/6/7/8We're here to help you!
+#EN:Lord /2!/6/7/8We’re here to help you!
 #EX:
  
  
@@ -77,19 +77,19 @@
  
 #MT:レディン
 #JP:助かったか。/8しかし、なぜ化け物が‥‥？
-#EN:We're saved./8But why did the monsters...
+#EN:We’re saved./8But why did the monsters...
 #EX:
  
  
 #MT:ソーン
 #JP:/2様、/6/7ご無事でしたか！
-#EN:Lord /2./6/7/8It's safe now!
+#EN:Lord /2./6/7/8It’s safe now!
 #EX:
  
  
 #MT:レディン
 #JP:ありがとう、助かったよ。
-#EN:Thank you, if it weren't for your/8help, I dare not think what could/8have become of us.
+#EN:Thank you, if it weren’t for your/8help, I dare not think what could/8have become of us.
 #EX:
  
  
@@ -119,19 +119,19 @@
  
 #MT:レディン
 #JP:ダメだ、危険すぎる！
-#EN:No, it's too dangerous! I couldn't/8see you injured for my sake.
+#EN:No, it’s too dangerous! I couldn’t/8see you injured for my sake.
 #EX:
  
  
 #MT:クリス
 #JP:御願いです！/6/7決して足手まといには/8なりませんから‥‥
-#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won't get in your/8way...
+#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won’t get in your/8way...
 #EX:
  
  
 #MT:レディン
 #JP:‥‥わかったよ、クリス。/6/7これから共に戦おう。
-#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I'll be glad to have/8you with us.
+#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I’ll be glad to have/8you with us.
 #EX:
  
  
@@ -155,7 +155,7 @@
  
 #MT:レディン
 #JP:なぜだ？/6/7こいつらに知能は/8無いはずだぞ！
-#EN:What's going on?!/6/7/8Ordinary monsters shouldn't have/8been able to plan an ambush like/8this...!
+#EN:What’s going on?!/6/7/8Ordinary monsters shouldn’t have/8been able to plan an ambush like/8this...!
 #EX:
  
  
@@ -173,25 +173,25 @@
  
 #MT:ヴォルコフ
 #JP:傷を負いすぎたか‥‥。/6/7王子、/8私はいったん退却します。
-#EN:I'm severely injured.../6/7/8Prince, I must retreat for now.
+#EN:I’m severely injured.../6/7/8Prince, I must retreat for now.
 #EX:
  
  
 #MT:ナーム
 #JP:こんな気味の悪い森で/8死ぬわけにはいかないわ！
-#EN:We won't fall prey to this/8Forest of Death!
+#EN:We won’t fall prey to this/8Forest of Death!
 #EX:
  
  
 #MT:ナーム
 #JP:もう無理だわ。/6/7あとを頼みます！
-#EN:I can't go on./8The rest is up to you!
+#EN:I can’t go on./8The rest is up to you!
 #EX:
  
  
 #MT:ソーン
 #JP:化け物どもを/8火あぶりにしてやれ！
-#EN:Let's roast these bastards!
+#EN:Let’s roast these bastards!
 #EX:
  
  
@@ -203,7 +203,7 @@
  
 #MT:ソーン
 #JP:えぇーい、/6/7うっとうしい奴らめ！
-#EN:Eh? These guys don't look/8so tough to me./6/7/8Let's make soup out of them!
+#EN:Eh? These guys don’t look/8so tough to me./6/7/8Let’s make soup out of them!
 #EX:
  
  
@@ -221,25 +221,25 @@
  
 #MT:レディン
 #JP:すまない、クリス。
-#EN:I'm sorry Chris.../6/7/8Everyone, reinforcements are here!/8Hold strong!
+#EN:I’m sorry Chris.../6/7/8Everyone, reinforcements are here!/8Hold strong!
 #EX:
  
  
 #MT:クリス
 #JP:キャー、気持ち悪い！/6/7こっちに来ないでー！
-#EN:Eww! This is so disgusting!/8They're all slimy!/6/7/8And they're coming this way!!!
+#EN:Eww! This is so disgusting!/8They’re all slimy!/6/7/8And they’re coming this way!!!
 #EX:
  
  
 #MT:クリス
 #JP:キャー！ベトベトする！/6/7気持ち悪い！！
-#EN:Eeeeeew! They're so sticky!/6/7/8This feels gross!
+#EN:Eeeeeew! They’re so sticky!/6/7/8This feels gross!
 #EX:
  
  
 #MT:レディン
 #JP:クリス、無理はするな！/6/7後は俺たちに任せろ！
-#EN:Chris, that's enough!/6/7/8Leave the rest to me!
+#EN:Chris, that’s enough!/6/7/8Leave the rest to me!
 #EX:
  
  
@@ -281,19 +281,19 @@
  
 #MT:ナーム
 #JP:化け物を全部倒しました！/6/7このままバルディア城まで/8一気に進軍しましょう！
-#EN:All the monsters are beaten!/6/7/8Let's head on to Baldea castle/8as fast as possible!
+#EN:All the monsters are beaten!/6/7/8Let’s head on to Baldea castle/8as fast as possible!
 #EX:
  
  
 #MT:一般兵
 #JP:化け物を全部倒しました！/6/7このままバルディア城まで/8一気に進軍しましょう！
-#EN:All the monsters are beaten!/6/7/8Let's head on to Baldea castle/8as fast as possible!
+#EN:All the monsters are beaten!/6/7/8Let’s head on to Baldea castle/8as fast as possible!
 #EX:
  
  
 #MT:レディン
 #JP:よし。/6/7このままディゴスを倒し、/8バルディア城を取り戻すぞ！/6/7しかし苦しい戦いだった。/6/7ソーンとクリスのおかげで、/8本当に助かった。
-#EN:All right!/6/7/8Let's defeat Digos's troops and/8retake the castle!/6/7/8But this was a hard fight./6/7/8It was Chris and Thorn's helps/8that saw us through it.
+#EN:All right!/6/7/8Let’s defeat Digos’s troops and/8retake the castle!/6/7/8But this was a hard fight./6/7/8It was Chris and Thorn’s helps/8that saw us through it.
 #EX:
  
  
@@ -311,7 +311,7 @@
  
 #MT:ソーン
 #JP:/2様、/6/7ご無事でしたか！。
-#EN:Lord /2!/6/7/8You're safe!
+#EN:Lord /2!/6/7/8You’re safe!
 #EX:
  
  
@@ -347,19 +347,19 @@
  
 #MT:レディン
 #JP:ダメだ、危険すぎる！
-#EN:No, it's too dangerous! I couldn't/8see you injured for my sake.
+#EN:No, it’s too dangerous! I couldn’t/8see you injured for my sake.
 #EX:
  
  
 #MT:クリス
 #JP:御願いです！/6/7決して足手まといには/8なりませんから‥‥
-#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won't get in your/8way...
+#EN:Please!/6/7/8I... ummm... please./6/7/8I promise I won’t get in your/8way...
 #EX:
  
  
 #MT:レディン
 #JP:‥‥わかったよ、クリス。/6/7これから共に戦おう。
-#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I'll be glad to have/8you with us.
+#EN:... I see.../6/7/8... all right then, Chris./6/7/8From now on, I’ll be glad to have/8you with us.
 #EX:
  
  

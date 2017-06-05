@@ -11,13 +11,13 @@
  
 #MT:ボーゼル
 #JP:人間ごときが、/8よくここまでこれたものだな。
-#EN:Ahh, the humans./8It's quite impressive that you've/8made it this far.
+#EN:Ahh, the humans./8It’s quite impressive that you’ve/8made it this far.
 #EX:
  
  
 #MT:レディン
 #JP:ボーゼル！/6/7お前を倒し、二度と/8よみがえらぬように/8封じてやる！
-#EN:Boser!/6/7/8Your defeat is at hand!/8I can't allow you to revive/8the dark god!
+#EN:Böser!/6/7/8Your defeat is at hand!/8I can’t allow you to revive/8the dark god!
 #EX:
  
  
@@ -41,7 +41,7 @@
  
 #MT:ボーゼル
 #JP:その程度の実力で/8よくここまでこれたものだな。
-#EN:Come on, I won't hold back!/8Witness my true strength!
+#EN:Come on, I won’t hold back!/8Witness my true strength!
 #EX:
  
  
@@ -53,13 +53,13 @@
  
 #MT:ナーム
 #JP:この戦い、/8必ず勝たせてもらうわ！
-#EN:I'll win this battle for sure!
+#EN:I’ll win this battle for sure!
 #EX:
  
  
 #MT:ナーム
 #JP:こんな時に傷を負うとは‥‥/6/7いったん下がります。
-#EN:How could I be injured at a time/8like this.../6/7/8I'm beaten.
+#EN:How could I be injured at a time/8like this.../6/7/8I’m beaten.
 #EX:
  
  
@@ -89,7 +89,7 @@
  
 #MT:レディン
 #JP:無理はするな！/6/7戦線から離脱しろ！
-#EN:Fall back! You're too injured to/8continue this fight!/6/7/8I can't see you die!
+#EN:Fall back! You’re too injured to/8continue this fight!/6/7/8I can’t see you die!
 #EX:
  
  
@@ -101,7 +101,7 @@
  
 #MT:テイラー
 #JP:逃がさねえぜ！
-#EN:Don't think you're going to get/8away from me!
+#EN:Don’t think you’re going to get/8away from me!
 #EX:
  
  
@@ -113,13 +113,13 @@
  
 #MT:ジェシカ
 #JP:ここで負けるわけには/8まいりません！
-#EN:I won't let myself be defeated/8here!
+#EN:I won’t let myself be defeated/8here!
 #EX:
  
  
 #MT:ジェシカ
 #JP:私はもうダメです。/6/7しばらくさがります！
-#EN:I did the best I could.../6/7/8Maybe it's time for me to rest for/8a while...!
+#EN:I did the best I could.../6/7/8Maybe it’s time for me to rest for/8a while...!
 #EX:
  
  
@@ -131,7 +131,7 @@
  
 #MT:アルバート
 #JP:ここで動けぬとは‥‥/8みんな、すまぬ！
-#EN:I can't go on.../8Everyone... I'm sorry!
+#EN:I can’t go on.../8Everyone... I’m sorry!
 #EX:
  
  
@@ -143,25 +143,25 @@
  
 #MT:ホーキング
 #JP:だめか‥‥。/8いったん下がります。
-#EN:It's useless.../8This time I am beaten.
+#EN:It’s useless.../8This time I am beaten.
 #EX:
  
  
 #MT:アクトラクト
 #JP:これ以上はやらせぬ！
-#EN:I won't let you go any further!
+#EN:I won’t let you go any further!
 #EX:
  
  
 #MT:アクトラクト
 #JP:私は死なぬ！/6/7私は‥‥ぐ、ぐふっ！
-#EN:I won't die!/6/7/8I... won't.../8guh... guwaa!
+#EN:I won’t die!/6/7/8I... won’t.../8guh... guwaa!
 #EX:
  
  
 #MT:ゼルヴィス
 #JP:闇の神に逆らって、/8無事に生きていられると/8思っているのか！
-#EN:What fools! Do you think we'll/8ever allow you to live if you/8oppose our dark god?
+#EN:What fools! Do you think we’ll/8ever allow you to live if you/8oppose our dark god?
 #EX:
  
  
@@ -233,25 +233,25 @@
  
 #MT:レディン
 #JP:闇へかえれ！/8ボーゼル！
-#EN:Return to the darkness from/8whence you came, Boser!
+#EN:Return to the darkness from/8whence you came, Böser!
 #EX:
  
  
 #MT:ボーゼル
 #JP:フッ！もう遅いな。/6/7今、全ての闇の力が/8解放されるのだ。/8フハハハハ‥‥
-#EN:Hah! You're too late./6/7/8Now, the seal that bound the powers/8of darkness has already/8been broken!/6/7/8FWA HA HA HA HA...
+#EN:Hah! You’re too late./6/7/8Now, the seal that bound the powers/8of darkness has already/8been broken!/6/7/8FWA HA HA HA HA...
 #EX:
  
  
 #MT:レディン
 #JP:な、何だ？！/6/7この振動は？
-#EN:W-What?!/6/7/8What's this vibration?
+#EN:W-What?!/6/7/8What’s this vibration?
 #EX:
  
  
 #MT:ボーゼル
 #JP:ばかな！/6/7私は、私は‥‥/8ウワー！
-#EN:Impossible!/6/7/8I'm... I'm.../8Uwaaaaah!
+#EN:Impossible!/6/7/8I’m... I’m.../8Uwaaaaah!
 #EX:
  
  
@@ -293,13 +293,13 @@
  
 #MT:ホーキング
 #JP:そんな事はさせん！
-#EN:I won't let you do it!
+#EN:I won’t let you do it!
 #EX:
  
  
 #MT:一般兵
 #JP:そんな事はさせん！
-#EN:I won't let you do it!
+#EN:I won’t let you do it!
 #EX:
  
  
@@ -311,7 +311,7 @@
  
 #MT:レディン
 #JP:そうはさせるか！/6/7お前をラングリッサーで/8封印する！
-#EN:You think you can?!/6/7/8Demon! I'll seal you once again/8with Langrisser!
+#EN:You think you can?!/6/7/8Demon! I’ll seal you once again/8with Langrisser!
 #EX:
  
  
@@ -323,7 +323,7 @@
  
 #MT:カオス
 #JP:破壊する！
-#EN:I'll destroy you!
+#EN:I’ll destroy you!
 #EX:
  
  
@@ -365,7 +365,7 @@
  
 #MT:カオス
 #JP:世界を構成する/8もう１つの力、/8法は、安定へと導く力。/6/7だが、その行き着く先は/8停滞にすぎぬ。/6/7動かぬものからは/8なにも生まれはしない。
-#EN:True, the power of man's laws and/8willingness to follow them has/8led the world to stability./6/7/8However, when stability is/8achieved, stagnation begins./6/7/8Nothing is born from something/8that does not move and progress.
+#EN:True, the power of man’s laws and/8willingness to follow them has/8led the world to stability./6/7/8However, when stability is/8achieved, stagnation begins./6/7/8Nothing is born from something/8that does not move and progress.
 #EX:
  
  
@@ -383,7 +383,7 @@
  
 #MT:アルバート
 #JP:我々はちがうっ！
-#EN:We're different than that!
+#EN:We’re different than that!
 #EX:
  
  

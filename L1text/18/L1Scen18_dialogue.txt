@@ -11,19 +11,19 @@
  
 #MT:アルバート
 #JP:むっ！/8敵に囲まれているぞ！
-#EN:Huh?!/8We're surrounded by enemies!
+#EN:Huh?!/8We’re surrounded by enemies!
 #EX:
  
  
 #MT:ニコリス
 #JP:バカな奴らだ‥‥。/6/7まんまとワナに/8はまりおったか。
-#EN:What idiots.../6/7/8I can't believe you fell so/8easily into my trap.
+#EN:What idiots.../6/7/8I can’t believe you fell so/8easily into my trap.
 #EX:
  
  
 #MT:テイラー
 #JP:もうあきらめたらどうだ！/6/7お前もナーギャのように/8なりたいのか！
-#EN:Arrr... this fight be just/8beginnin'!/6/7/8Ye best give up!/8Unless ya wanna end up like yer/8mate, Nagya?
+#EN:Arrr... this fight be just/8beginnin’!/6/7/8Ye best give up!/8Unless ya wanna end up like yer/8mate, Nagya?
 #EX:
  
  
@@ -41,7 +41,7 @@
  
 #MT:ニコリス
 #JP:人のもつ欲望は/8強力な力を生むからな。/6/7そういえば‥‥/8ダルシス帝国のディゴスという/8男に、ラングリッサーを/8強奪させた事もあったな。/6/7自分が操られている事に/8気付きもしないとは、/8ゆかいな話だな。
-#EN:My magic works best when the/8person already has exceptional/8power./6/7/8That's why... that Dalshis/8Emperor, Digos, served me so/8well. Why, he even managed to/8obtain Langrisser for me./6/7/8Or weren't you aware of his/8involvement, yet?
+#EN:My magic works best when the/8person already has exceptional/8power./6/7/8That’s why... that Dalshis/8Emperor, Digos, served me so/8well. Why, he even managed to/8obtain Langrisser for me./6/7/8Or weren’t you aware of his/8involvement, yet?
 #EX:
  
  
@@ -71,13 +71,13 @@
  
 #MT:レディン
 #JP:負けるものか！
-#EN:I'll never be defeated!
+#EN:I’ll never be defeated!
 #EX:
  
  
 #MT:ニコリス
 #JP:愚か者め！/6/7己れの非力さを/8思い知ったか
-#EN:Fools!/6/7/8Don't you realize how powerless/8you are?!
+#EN:Fools!/6/7/8Don’t you realize how powerless/8you are?!
 #EX:
  
  
@@ -107,13 +107,13 @@
  
 #MT:ソーン
 #JP:ダメだ！/6/7足をやられた！
-#EN:It's no use!/6/7/8I can't move my feet!
+#EN:It’s no use!/6/7/8I can’t move my feet!
 #EX:
  
  
 #MT:クリス
 #JP:私だって/8怒る時があるのよ！
-#EN:You're really starting to piss/8me off!
+#EN:You’re really starting to piss/8me off!
 #EX:
  
  
@@ -125,19 +125,19 @@
  
 #MT:テイラー
 #JP:そう簡単に/8倒せるものか！
-#EN:I'll bring you down easily!!
+#EN:I’ll bring you down easily!!
 #EX:
  
  
 #MT:テイラー
 #JP:クッ‥‥/6/7不覚！
-#EN:Guh.../6/7/8I've failed!
+#EN:Guh.../6/7/8I’ve failed!
 #EX:
  
  
 #MT:ジェシカ
 #JP:これ以上、思い通りには/8いかせませんわ。
-#EN:I won't let you have our world!
+#EN:I won’t let you have our world!
 #EX:
  
  
@@ -161,7 +161,7 @@
  
 #MT:ホーキング
 #JP:この世界をお前達の/8好きなようにはさせんぞ！
-#EN:I won't let you do as you please/8with our world!
+#EN:I won’t let you do as you please/8with our world!
 #EX:
  
  
@@ -203,19 +203,19 @@
  
 #MT:マツニス
 #JP:ウワー！/6/7やめてくれー！
-#EN:Uwaaaa!clsr>/8Stop it, please!
+#EN:Uwaaaa!/8Stop it, please!
 #EX:
  
  
 #MT:ラミスローゼ
 #JP:私の手で永遠の眠りを/8与えてあげましょう！
-#EN:By my hand, I'll deliver you into/8eternal slumber!
+#EN:By my hand, I’ll deliver you into/8eternal slumber!
 #EX:
  
  
 #MT:ラミスローゼ
 #JP:ボ、ボーゼル様‥‥
-#EN:M... Master Boser...!
+#EN:M... Master Böser...!
 #EX:
  
  
@@ -233,7 +233,7 @@
  
 #MT:モルガン
 #JP:しかたない‥‥。/6/7望み通り殺してあげますよ。
-#EN:You're bound to fail, but do as/8you wish.
+#EN:You’re bound to fail, but do as/8you wish.
 #EX:
  
  
@@ -245,25 +245,25 @@
  
 #MT:オーザ
 #JP:お前らは/8ここで皆殺しだ！
-#EN:I'll murder you all!
+#EN:I’ll murder you all!
 #EX:
  
  
 #MT:オーザ
 #JP:ウエッ！/6/7私の負けだ‥‥
-#EN:Uweeee!/6/7/8I've bee defeated...
+#EN:Uweeee!/6/7/8I’ve bee defeated...
 #EX:
  
  
 #MT:ニコリス
 #JP:きさまらを我が下僕と/8してやろう。/6/7闇の世界は楽しいぞぉ！
-#EN:I'll defeat all of you./6/7/8Then our world of darkness can/8begin!
+#EN:I’ll defeat all of you./6/7/8Then our world of darkness can/8begin!
 #EX:
  
  
 #MT:ニコリス
 #JP:私を倒したところで、/8もう遅いわ。すでに/8ボーゼル様は闇の力を‥‥/6/7うっ！グフッ！
-#EN:Even though I am beaten, Master/8Boser has already started our/8ancient god's revival.../6/7/8Ungh! Guwaaaa!
+#EN:Even though I am beaten, Master/8Böser has already started our/8ancient god’s revival.../6/7/8Ungh! Guwaaaa!
 #EX:
  
  
@@ -293,7 +293,7 @@
  
 #MT:レディン
 #JP:よし、二手に分かれる！/6/7ボーゼルの思うようには/8させないぞ！
-#EN:OK, let's break into two groups./6/7/8We'll find Boser... and destroy/8him!
+#EN:OK, let’s break into two groups./6/7/8We’ll find Böser... and destroy/8him!
 #EX:
  
  

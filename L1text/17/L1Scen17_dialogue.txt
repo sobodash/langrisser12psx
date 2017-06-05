@@ -11,31 +11,31 @@
  
 #MT:ナーギャ
 #JP:やっと来ましたか、/8待ちくたびれましたよ。
-#EN:Oh, you're here at last./8I was getting tired of waiting/8for you.
+#EN:Oh, you’re here at last./8I was getting tired of waiting/8for you.
 #EX:
  
  
 #MT:アルバート
 #JP:死にたくなければ/8そこをどくがいい！
-#EN:We can't afford to be killed now!
+#EN:We can’t afford to be killed now!
 #EX:
  
  
 #MT:ナーギャ
 #JP:そうは参りません。/6/7今回の私はいつもと/8少し違いますのでね。/6/7では私がニコリス様より/8さずかった、新たなる力を/8お目にかけましょう。
-#EN:Sorry to break it to you, but you/8ARE going to get killed now./6/7/8It took you guys a little while to/8catch up, didn't it?/6/7/8Well, now I'll show you the new/8power given to me by master/8Nicolis!
+#EN:Sorry to break it to you, but you/8ARE going to get killed now./6/7/8It took you guys a little while to/8catch up, didn’t it?/6/7/8Well, now I’ll show you the new/8power given to me by master/8Nicolis!
 #EX:
  
  
 #MT:ランス
 #JP:死にたくなければ/8そこをどくがいい！
-#EN:We won't die in a place like this!
+#EN:We won’t die in a place like this!
 #EX:
  
  
 #MT:ナーギャ
 #JP:そうは参りません。/6/7今回の私はいつもと/8少し違いますのでね。/6/7では私がニコリス様より/8さずかった、新たなる力を/8お目にかけましょう。
-#EN:Sorry to break it to you, but you/8ARE to die./6/7/8It took you guys a little while to/8catch up, didn't it?/6/7/8Well, now I'll show you the new/8power given to me by master/8Nicolis!
+#EN:Sorry to break it to you, but you/8ARE to die./6/7/8It took you guys a little while to/8catch up, didn’t it?/6/7/8Well, now I’ll show you the new/8power given to me by master/8Nicolis!
 #EX:
  
  
@@ -89,31 +89,31 @@
  
 #MT:ナーギャ
 #JP:ウヒャヒャヒャヒャ‥‥/6/7楽しませてもらいましたよ。
-#EN:HYA HYA HYA HYA.../6/7/8I'm going to enjoy this.
+#EN:HYA HYA HYA HYA.../6/7/8I’m going to enjoy this.
 #EX:
  
  
 #MT:レディン
 #JP:みんな、すまない‥‥
-#EN:Everyone, I'm sorry...
+#EN:Everyone, I’m sorry...
 #EX:
  
  
 #MT:レディン
 #JP:クッ！何て奴だ！/6/7ゴーレムは相手にするな、/8ナーギャを倒すんだ！
-#EN:Ho! What a guy!/6/7/8We'll just have to beat both Nagya/8and his Golem buddies!
+#EN:Ho! What a guy!/6/7/8We’ll just have to beat both Nagya/8and his Golem buddies!
 #EX:
  
  
 #MT:ナーム
 #JP:邪魔はさせないわ！
-#EN:I won't let you stop me!
+#EN:I won’t let you stop me!
 #EX:
  
  
 #MT:ナーム
 #JP:いけない‥‥
-#EN:I can't go on...
+#EN:I can’t go on...
 #EX:
  
  
@@ -137,7 +137,7 @@
  
 #MT:クリス
 #JP:/2様、/8ごめんなさい。
-#EN:Lord /2, I'm sorry...
+#EN:Lord /2, I’m sorry...
 #EX:
  
  
@@ -179,7 +179,7 @@
  
 #MT:ホーキング
 #JP:この世界をお前たちの/8自由になどさせん！
-#EN:I won't let you do as you/8please with our world!
+#EN:I won’t let you do as you/8please with our world!
 #EX:
  
  
@@ -191,13 +191,13 @@
  
 #MT:ランス
 #JP:私の攻撃を/8かわす事ができるかな。
-#EN:Let's exchange blows!
+#EN:Let’s exchange blows!
 #EX:
  
  
 #MT:ランス
 #JP:ナーギャ！/6/7貴様の操る魔物のために、/8私はかけがえの無い/8大切な人を失った。/6/7貴様には、その罪を/8あがなってもらうぞ！
-#EN:Nagya!/6/7/8Because of you and the damn/8demons, I've lost many people/8I cared about./6/7/8Your life is nothing but evil!
+#EN:Nagya!/6/7/8Because of you and the damn/8demons, I’ve lost many people/8I cared about./6/7/8Your life is nothing but evil!
 #EX:
  
  
@@ -251,7 +251,7 @@
  
 #MT:ナーギャ
 #JP:そろそろ、彼らに/8とどめをさしてあげなさい。
-#EN:Well then, I think it's time you/8delivered those guys the/8finishing blow.
+#EN:Well then, I think it’s time you/8delivered those guys the/8finishing blow.
 #EX:
  
  
@@ -263,7 +263,7 @@
  
 #MT:ヒーディアス
 #JP:行くぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -287,7 +287,7 @@
  
 #MT:ヒーディアス
 #JP:貴様の命、/8私がもらってやろう！
-#EN:I'll take your filthy lives!
+#EN:I’ll take your filthy lives!
 #EX:
  
  
@@ -317,7 +317,7 @@
  
 #MT:ナーギャ
 #JP:ひぃぃ！/6/7助けてくれ、死ぬのは/8イ‥‥ヤ‥‥ダ‥‥
-#EN:Eeeeek!/6/7/8Help me!/8I... don't... want.../8...... to die...
+#EN:Eeeeek!/6/7/8Help me!/8I... don’t... want.../8...... to die...
 #EX:
  
  
@@ -329,7 +329,7 @@
  
 #MT:ナーギャ
 #JP:ひぃぃ！/6/7助けてくれ、死ぬのは/8イ‥‥ヤ‥‥ダ‥‥
-#EN:Eeeeek!/6/7/8Help me!/8I... don't... want.../8...... to die...
+#EN:Eeeeek!/6/7/8Help me!/8I... don’t... want.../8...... to die...
 #EX:
  
  
@@ -353,25 +353,25 @@
  
 #MT:レディン
 #JP:何！/6/7敵も必死だな。/8よし、急ぎ突入する！
-#EN:What!/6/7/8They must be getting desperate./8OK everyone, let's hurry!
+#EN:What!/6/7/8They must be getting desperate./8OK everyone, let’s hurry!
 #EX:
  
  
 #MT:ランス
 #JP:/2、/8ここは私がおさえる。
-#EN:/2, this is where we part./6/7/8I'll curb their assault!
+#EN:/2, this is where we part./6/7/8I’ll curb their assault!
 #EX:
  
  
 #MT:ナーム
 #JP:ランス！/6/7いくらあなたでも/8危険すぎるわ！
-#EN:Lance!/6/7/8You can't fight them alone,/8it's too dangerous!
+#EN:Lance!/6/7/8You can’t fight them alone,/8it’s too dangerous!
 #EX:
  
  
 #MT:ランス
 #JP:大丈夫だ、ナーム。
-#EN:I'll be alright, Narm./8Don't worry.
+#EN:I’ll be alright, Narm./8Don’t worry.
 #EX:
  
  
@@ -389,7 +389,7 @@
  
 #MT:レディン
 #JP:ランスこそ死ぬなよ。
-#EN:Lance, don't you die either.
+#EN:Lance, don’t you die either.
 #EX:
  
  

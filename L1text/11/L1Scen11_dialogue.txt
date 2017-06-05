@@ -29,13 +29,13 @@
  
 #MT:テイラー
 #JP:笑止！/8受けて立つぜ！
-#EN:Sink me! Be ye joking?!/6/7/8Gangway, 'cause I'm coming for/8ya!
+#EN:Sink me! Be ye joking?!/6/7/8Gangway, ’cause I’m coming for/8ya!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:今度は、容赦はせんぞ！
-#EN:I'll forgive your foolishness/8this time.
+#EN:I’ll forgive your foolishness/8this time.
 #EX:
  
  
@@ -47,7 +47,7 @@
  
 #MT:ディゴス
 #JP:バルディアのガキどもが/8来たか。/6/7戦いぶりをたっぷり/8楽しませてもらおうか。
-#EN:You brats came all the way here/8from Baldea?/6/7/8I'll humor you and enjoy this/8fight to its fullest!
+#EN:You brats came all the way here/8from Baldea?/6/7/8I’ll humor you and enjoy this/8fight to its fullest!
 #EX:
  
  
@@ -59,7 +59,7 @@
  
 #MT:ディゴス
 #JP:しょせん、貴様らの力では/8私を倒す事などできんのだ。/8フハハハハ‥‥。
-#EN:Why not? After all, you kids'/8power will never defeat me./6/7/8HA HA HA HA!
+#EN:Why not? After all, you kids’/8power will never defeat me./6/7/8HA HA HA HA!
 #EX:
  
  
@@ -95,7 +95,7 @@
  
 #MT:ソーン
 #JP:くそっ！/8腕をやられた！/8後はまかせる！
-#EN:Damn!/8My arm has had it!/8You'll have to handle the rest!
+#EN:Damn!/8My arm has had it!/8You’ll have to handle the rest!
 #EX:
  
  
@@ -113,25 +113,25 @@
  
 #MT:テイラー
 #JP:逃がさねぇぜ！
-#EN:Ho! Don't think I'll let ya go!
+#EN:Ho! Don’t think I’ll let ya go!
 #EX:
  
  
 #MT:テイラー
 #JP:ちっ！/6/7この程度の敵に負けるとは/8なさけねぇ。
-#EN:Shit./6/7/8I don't think there's any/8avoiding this.
+#EN:Shit./6/7/8I don’t think there’s any/8avoiding this.
 #EX:
  
  
 #MT:ジェシカ
 #JP:ディゴスには、/8邪悪をよみがえらせた罪を/8つぐなってもらいましょう！
-#EN:Digos's wicked heart will bring/8about the revival of evil!
+#EN:Digos’s wicked heart will bring/8about the revival of evil!
 #EX:
  
  
 #MT:ジェシカ
 #JP:ディゴスの所まで/8通してもらいましょう。
-#EN:Let's head straight for Digos's/8room!
+#EN:Let’s head straight for Digos’s/8room!
 #EX:
  
  
@@ -143,7 +143,7 @@
  
 #MT:アルバート
 #JP:ここまで来て/8負けるわけにはいかん！
-#EN:You've come here only to meet/8your end!
+#EN:You’ve come here only to meet/8your end!
 #EX:
  
  
@@ -167,7 +167,7 @@
  
 #MT:帝国軍指揮官
 #JP:やられるわけにはいかぬ！
-#EN:I won't let you pass!
+#EN:I won’t let you pass!
 #EX:
  
  
@@ -185,13 +185,13 @@
  
 #MT:帝国軍指揮官
 #JP:これ以上やらせて/8なるものか！/8これ以上‥‥ぐ、ぐふっ！
-#EN:I can't let you pass!/8I can't... guh... GWAAAH!
+#EN:I can’t let you pass!/8I can’t... guh... GWAAAH!
 #EX:
  
  
 #MT:リスラム
 #JP:倒せるものなら/8倒してみろ！
-#EN:I'll kill anyone who threatens/8the emperor!
+#EN:I’ll kill anyone who threatens/8the emperor!
 #EX:
  
  
@@ -209,7 +209,7 @@
  
 #MT:ディゴス
 #JP:ほう、バルディアのガキか。
-#EN:Hoo... it's the little/8Baldean brat.
+#EN:Hoo... it’s the little/8Baldean brat.
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:サー・ガリウス
 #JP:今度こそ貴様らを/8皆殺しにしてくれる！
-#EN:I'll kill you all!
+#EN:I’ll kill you all!
 #EX:
  
  
@@ -257,7 +257,7 @@
  
 #MT:アーザム
 #JP:今、みなの所へ/8行くよ‥‥。/6/7待っていて‥‥。
-#EN:Now, I think it's time for me to/8join everyone else.../6/7/8Wait for me...
+#EN:Now, I think it’s time for me to/8join everyone else.../6/7/8Wait for me...
 #EX:
  
  

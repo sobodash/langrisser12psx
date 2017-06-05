@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「ウルフパック」/6/7/5石化した状態から救い出された/8ランスは、邪悪なる存在を封印する/8ことに協力する。/6/7/5そんな彼らがさしかかった町に/8ワーウルフの大群が/8襲いかかろうとしていた。/8/5しかも、その大群は/8邪悪な波動を放つ一人の男によって/8操られていた。/8異変はすでに始まっていたのだ‥‥/6/7×勝利条件/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/8/5・ＮＰＣの全滅/6/7
-#EN:/5/8/5/5Scenario-/3/8/5/5/5"Wolf Pack"/6/7/5/8After rescuing Lance from the/8curse of stone, he agreed to /8help Ledin to reseal the evil./6/7/5/8The town they now approach has/8become the victim of a predatory/8pack of werewolves./6/7/5/8The pack seems to be commanded/8by a man controlling an evil/8aura./6/7/5/8Their new battle has already/8begun.../6/7/8Winning Conditions/8- Defeat of all enemies/8Losing Conditions/8- Death of Ledin/8- Death of all NPCs/6/7
+#EN:/5/8/5/5Scenario-/3/8/5/5/5“Wolf Pack”/6/7/5/8After rescuing Lance from the/8curse of stone, he agreed to /8help Ledin to reseal the evil./6/7/5/8The town they now approach has/8become the victim of a predatory/8pack of werewolves./6/7/5/8The pack seems to be commanded/8by a man controlling an evil/8aura./6/7/5/8Their new battle has already/8begun.../6/7/8Winning Conditions/8- Defeat of all enemies/8Losing Conditions/8- Death of Ledin/8- Death of all NPCs/6/7
 #EX:
  
  

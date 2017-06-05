@@ -4,7 +4,7 @@
  
  
 #JP:もしよければ、/8この世界ならではの戦術を/8説明しようと思います。
-#EN:An explanation of this world's/8tactics may aid you on your/8quest.
+#EN:An explanation of this world’s/8tactics may aid you on your/8quest.
 #EX:
  
  
@@ -14,7 +14,7 @@
  
  
 #JP:戦闘での心得をあなたに/8教えておきましょう。/6/7ユニットは大きく分けて/8指揮官と傭兵の２つの種類が/8あります。/6/7指揮官とは、あなたや、/8いずれ仲間になっていく/8者たちの事です。/6/7傭兵とは、１つのステージのみ/8お金を払って雇える/8兵士の事です。/6/7出撃する前に、/8各指揮官は傭兵を雇って/8戦闘の準備をして下さい。
-#EN:Very well then, I'll teach you/8the basics of battle tactics./6/7/8Your units consist of commanders/8and soldiers./6/7/8The commanders include yourself/8and your companions./6/7/8Soldiers must be hired for at the/8start of every stage./6/7/8Purchasing troops is a necessary/8preparation for battle.
+#EN:Very well then, I’ll teach you/8the basics of battle tactics./6/7/8Your units consist of commanders/8and soldiers./6/7/8The commanders include yourself/8and your companions./6/7/8Soldiers must be hired for at the/8start of every stage./6/7/8Purchasing troops is a necessary/8preparation for battle.
 #EX:
  
  
@@ -34,7 +34,7 @@
  
  
 #JP:指揮官の隣にいる傭兵は/8ターンの始めにＨＰが/8３ポイント回復します。/6/7これ以外には、/8魔法によってのみ/8傭兵のＨＰを回復できます。/6/7なお、ＨＰが減少すると/8攻撃回数が少なくなるので/8注意して下さい。
-#EN:A unit adjacent to its commander/8will recover 3 HP at the start/8of every turn./6/7/8The only other way to recover/8unit HP is by using magic./6/7/8Also remember, as HP decreases,/8so does the strength of a/8unit's attack.
+#EN:A unit adjacent to its commander/8will recover 3 HP at the start/8of every turn./6/7/8The only other way to recover/8unit HP is by using magic./6/7/8Also remember, as HP decreases,/8so does the strength of a/8unit’s attack.
 #EX:
  
  
@@ -54,7 +54,7 @@
  
  
 #JP:ユニットには、/8それぞれ属性というものが/8設定されています。/6/7その属性によって、/8攻撃の有利、不利があります。/8基本的なものを説明すると‥‥/6/7歩兵は槍兵に強く、騎馬に弱い。/8槍兵は騎馬に強く、歩兵に弱い。/6/7騎馬は歩兵に強く、槍兵に弱い。/6/7水兵は水上での戦いが得意で、/8また水地の移動がすばやい。/6/7飛兵は空を飛べ、移動力もあるが/8弓兵には弱い‥‥/6/7弓兵ははなれた敵を攻撃でき、/8飛兵にも強いのですが、/8直接攻撃を受けると、/8簡単に全滅します。/6/7これらの事を良く考えて/8指揮官の配置場所と/8雇う傭兵を決めて下さい。
-#EN:Each unit type has its own/8attribute./6/7/8Depending on its attribute, it/8will have an advantage or/8a disadvantage in combat./6/7/8Here are some of the basics.../6/7/8Infantry are strong against/8pikemen, but weak against/8cavalry./6/7/8Pikemen are strong against/8cavalry, but weak against/8infantry./6/7/8Cavalry are strong against/8infantry, but weak against /8pikemen./6/7/8Sea units are slow on land/8but fast in the water./6/7/8Flying units have excellent/8mobility, but are incredibly/8weak to bowmen./6/7/8Bowmen can attack the enemy/8from a distance and are strong/8against flying soldiers./6/7/8However, they cannot withstand/8a direct assault and will/8likely be wiped out./6/7/8Consider the map, as well as the/8commanders' arrangement, before/8hiring your troops.
+#EN:Each unit type has its own/8attribute./6/7/8Depending on its attribute, it/8will have an advantage or/8a disadvantage in combat./6/7/8Here are some of the basics.../6/7/8Infantry are strong against/8pikemen, but weak against/8cavalry./6/7/8Pikemen are strong against/8cavalry, but weak against/8infantry./6/7/8Cavalry are strong against/8infantry, but weak against /8pikemen./6/7/8Sea units are slow on land/8but fast in the water./6/7/8Flying units have excellent/8mobility, but are incredibly/8weak to bowmen./6/7/8Bowmen can attack the enemy/8from a distance and are strong/8against flying soldiers./6/7/8However, they cannot withstand/8a direct assault and will/8likely be wiped out./6/7/8Consider the map, as well as the/8commanders’ arrangement, before/8hiring your troops.
 #EX:
  
  
@@ -64,7 +64,7 @@
  
  
 #JP:傭兵を使って敵を倒すと、/8その分の経験値は傭兵を雇った/8指揮官のものになります。/6/7また、指揮官を倒した場合、/8その部隊に傭兵が残っていても/8一緒に全滅してしまいます。/6/7ただし、一緒にやられた/8傭兵の経験値は、/8入手できなくなります。/6/7そのため余裕のある時は/8敵の傭兵を全て倒してから/8指揮官を倒しましょう。
-#EN:When a troop defeats an enemy/8unit, some EXP is awarded to/8its commander./6/7/8When an enemy commander is/8defeated, all troops under its/8command are destroyed as well./6/7/8However, no EXP will be gained/8from such kills./6/7/8That's why it's best to defeat/8all troops before defeating the/8commander.
+#EN:When a troop defeats an enemy/8unit, some EXP is awarded to/8its commander./6/7/8When an enemy commander is/8defeated, all troops under its/8command are destroyed as well./6/7/8However, no EXP will be gained/8from such kills./6/7/8That’s why it’s best to defeat/8all troops before defeating the/8commander.
 #EX:
  
  
@@ -74,12 +74,12 @@
  
  
 #JP:出撃を行なう前に、/8全ての指揮官をマップ上に/8配置しなければなりません。/6/7配置を行なった指揮官は/8名前が暗くなります。/6/7なお、ステージによっては/8最初から配置の決まっている/8場合があります。/6/7その場合、指揮官の配置場所を/8変更する事はできませんが、/8傭兵やアイテムの装備などは/8行なえます。
-#EN:Before conducting your sortie,/8all your Commander units must/8be positioned on the map./6/7/8Commanders to be positioned will/8have their names shown in bright/8white./6/7/8Also, depending on the stage/8there may be times when the/8arrangement is fixed./6/7/8In this case, you can't position/8commanders, but you can still/8purchase troops and items.
+#EN:Before conducting your sortie,/8all your Commander units must/8be positioned on the map./6/7/8Commanders to be positioned will/8have their names shown in bright/8white./6/7/8Also, depending on the stage/8there may be times when the/8arrangement is fixed./6/7/8In this case, you can’t position/8commanders, but you can still/8purchase troops and items.
 #EX:
  
  
 #JP:これで一通りの戦術は/8理解できたはずです。/6/7また１面では、/8傭兵を雇うことを/8忘れないように注意して下さい。
-#EN:You should have a good/8understanding of common tactics/8by now./6/7/8Don't forget to hire troops./6/7/8A single unit may mean the/8difference between victory or/8defeat...
+#EN:You should have a good/8understanding of common tactics/8by now./6/7/8Don’t forget to hire troops./6/7/8A single unit may mean the/8difference between victory or/8defeat...
 #EX:
  
  

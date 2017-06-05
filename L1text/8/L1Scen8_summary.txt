@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「ワールの激流」/6/7/5反撃に転じたレディンたちに対し、/8敵軍はワール川にそって防衛戦を/8張り巡らせた。/6/7/5さらに、ラングリッサーを/8奪われた影響か、謎の怪物たちが/8出現。/8/5レディンは強行突破を決意する。/6/7×勝利条件/8/5・レディンがマップ上の/8/5/5街道の入口にたどり着く/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:/5/8/5/5SCENARIO-0/3/8/5/5/5The Warl's Rapids"/6/7/5/8To thwart Ledin's strike, the/8enemy took a defensive position/8on the Warl which utilized its/8fast currents./6/7/5/8Since Langrisser was taken, a /8mysterious monster has/8appeared./6/7/5/8Ledin fights on undeterred,/8determined to break through./6/7/5/8Winning Conditions/8- Ledin reaches the top of the/8  map/8- Total defeat of enemies/8Losing Conditions/8- Death of Ledin/6/7
+#EN:/5/8/5/5SCENARIO-0/3/8/5/5/5“The Warl’s Rapids”/6/7/5/8To thwart Ledin’s strike, the/8enemy took a defensive position/8on the Warl which utilized its/8fast currents./6/7/5/8Since Langrisser was taken, a /8mysterious monster has/8appeared./6/7/5/8Ledin fights on undeterred,/8determined to break through./6/7/5/8Winning Conditions/8- Ledin reaches the top of the/8  map/8- Total defeat of enemies/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

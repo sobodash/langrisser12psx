@@ -17,7 +17,7 @@
  
 #MT:ランス
 #JP:しかし、我々だけで/8あのドラゴンと渡りあうのは/8非常に危険だな。
-#EN:If we're all that's in its way.../8the dragon will easily be able to/8enter the town.
+#EN:If we’re all that’s in its way.../8the dragon will easily be able to/8enter the town.
 #EX:
  
  
@@ -41,7 +41,7 @@
  
 #MT:レディン
 #JP:そうか、/8やってみるか‥‥
-#EN:I see, then let's try to solicit/8its assistance...
+#EN:I see, then let’s try to solicit/8its assistance...
 #EX:
  
  
@@ -53,7 +53,7 @@
  
 #MT:レディン
 #JP:くそっ！/8我々では、やつを止める事が/8できないのか？！
-#EN:Shit!/8Can't we stop these guys?!
+#EN:Shit!/8Can’t we stop these guys?!
 #EX:
  
  
@@ -83,7 +83,7 @@
  
 #MT:ナーム
 #JP:さすがに手強い/6/7相手のようね‥‥。
-#EN:Impressive.../8You'd make a great sparring/8partner.
+#EN:Impressive.../8You’d make a great sparring/8partner.
 #EX:
  
  
@@ -95,13 +95,13 @@
  
 #MT:ソーン
 #JP:くそっ！/6/7後はまかせる！
-#EN:Shit!/6/7/8It's all up to you now!
+#EN:Shit!/6/7/8It’s all up to you now!
 #EX:
  
  
 #MT:クリス
 #JP:私も、がんばらなきゃ！
-#EN:I'll try my hardest too!
+#EN:I’ll try my hardest too!
 #EX:
  
  
@@ -119,7 +119,7 @@
  
 #MT:テイラー
 #JP:これ以上は無理か‥‥。/6/7すまんがいったんさがる！
-#EN:That was a bit too much.../6/7/8I think I'm done for this battle...
+#EN:That was a bit too much.../6/7/8I think I’m done for this battle...
 #EX:
  
  
@@ -149,7 +149,7 @@
  
 #MT:ホーキング
 #JP:いくぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -161,7 +161,7 @@
  
 #MT:ランス
 #JP:生きて帰れると/8思わないことだな！
-#EN:Don't think you can return alive!
+#EN:Don’t think you can return alive!
 #EX:
  
  
@@ -179,7 +179,7 @@
  
 #MT:レーサス
 #JP:くそっ！/8囲まれたか！
-#EN:Shit! I'm trapped!
+#EN:Shit! I’m trapped!
 #EX:
  
  
@@ -245,7 +245,7 @@
  
 #MT:イフリート
 #JP:灰と化すがよい！
-#EN:I'll burn you to ash!
+#EN:I’ll burn you to ash!
 #EX:
  
  
@@ -293,7 +293,7 @@
  
 #MT:ナーギャ
 #JP:二度もこの私に恥を/8かかせるとは。/6/7覚えていなさい！
-#EN:That makes twice/8you've shamed me./6/7/8I won't forget about this!
+#EN:That makes twice/8you’ve shamed me./6/7/8I won’t forget about this!
 #EX:
  
  
@@ -335,7 +335,7 @@
  
 #MT:レディン
 #JP:弱っている今のうちに/8追撃をかけるぞ！/6/7一気にとどめをさすんだ！
-#EN:This is our chance!/6/7/8Now that it's weakened, we can/8follow and finish it for good!
+#EN:This is our chance!/6/7/8Now that it’s weakened, we can/8follow and finish it for good!
 #EX:
  
  
@@ -389,7 +389,7 @@
  
 #MT:ジェシカ
 #JP:その昔、バルディア王国は/8その名で呼ばれておりました。
-#EN:That's what the kingdom of Baldea/8was called in ancient times.
+#EN:That’s what the kingdom of Baldea/8was called in ancient times.
 #EX:
  
  

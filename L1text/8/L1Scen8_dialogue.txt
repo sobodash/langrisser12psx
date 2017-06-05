@@ -5,31 +5,31 @@
  
 #MT:レディン
 #JP:ずいぶんと大きな川だな。/8他に渡れる場所はないのか？
-#EN:This river looks pretty big./8There doesn't appear to be any/8cover for them.
+#EN:This river looks pretty big./8There doesn’t appear to be any/8cover for them.
 #EX:
  
  
 #MT:ジェシカ
 #JP:他の場所は流れがきつく、/8渡川は無理でしょう。
-#EN:Their ground lies pretty deep in/8the current. Crossing there would/8be a bad move./6/7/8We'll need to find another point/8in the river.
+#EN:Their ground lies pretty deep in/8the current. Crossing there would/8be a bad move./6/7/8We’ll need to find another point/8in the river.
 #EX:
  
  
 #MT:テイラー
 #JP:対岸に、敵が防御陣を張って/8待ち受けてるぜ。
-#EN:Ho! The dogs be spread out across/8the other bank!/6/7/8Blimey! They may have been/8expectin' us after all...
+#EN:Ho! The dogs be spread out across/8the other bank!/6/7/8Blimey! They may have been/8expectin’ us after all...
 #EX:
  
  
 #MT:レディン
 #JP:仕方がない。/6/7強行突破だ！
-#EN:It doesn't matter./6/7/8We'll force our way through!
+#EN:It doesn’t matter./6/7/8We’ll force our way through!
 #EX:
  
  
 #MT:ガルヴェス
 #JP:敵が動き始めたか。/6/7予想通りここを強行突破する/8つもりだな！
-#EN:The enemy is moving!/6/7/8It looks like we'll need to break/8through them here!
+#EN:The enemy is moving!/6/7/8It looks like we’ll need to break/8through them here!
 #EX:
  
  
@@ -41,25 +41,25 @@
  
 #MT:セリア
 #JP:このワール川だけは/8絶対に渡川させないわ！
-#EN:There's no way we'll be able to/8cross the Warl at this point.
+#EN:There’s no way we’ll be able to/8cross the Warl at this point.
 #EX:
  
  
 #MT:ソーン
 #JP:敵に水兵がいるぞ！
-#EN:The enemy's forces consist of/8sailor units!
+#EN:The enemy’s forces consist of/8sailor units!
 #EX:
  
  
 #MT:ナーム
 #JP:水上で戦うのは/8かなり不利ね。
-#EN:If we engage them in the water,/8we'd be at a considerable/8disadvantage.
+#EN:If we engage them in the water,/8we’d be at a considerable/8disadvantage.
 #EX:
  
  
 #MT:アルバート
 #JP:あの化け物は陸に/8おびき寄せましょう。
-#EN:Let's try to lure the monsters/8onto the land./6/7/8If we can pull it off, we'll have/8a tactical advantage!
+#EN:Let’s try to lure the monsters/8onto the land./6/7/8If we can pull it off, we’ll have/8a tactical advantage!
 #EX:
  
  
@@ -77,7 +77,7 @@
  
 #MT:ソーン
 #JP:フッ、これは/8久し振りだな、/2。/6/7まさか化け物狩りの途中で/8貴様に会えるとはな。
-#EN:Sigh... How unexpected, /2./6/7/8I never thought I'd encounter you/8while hunting these monsters.
+#EN:Sigh... How unexpected, /2./6/7/8I never thought I’d encounter you/8while hunting these monsters.
 #EX:
  
  
@@ -89,7 +89,7 @@
  
 #MT:ソーン
 #JP:チィッ！逃げられたか。/6/7化け物など無視しろ！/8奴らを追うぞ！
-#EN:Don't let them escape!/6/7/8Just ignore the monsters and keep/8after those guys!
+#EN:Don’t let them escape!/6/7/8Just ignore the monsters and keep/8after those guys!
 #EX:
  
  
@@ -161,13 +161,13 @@
  
 #MT:レディン
 #JP:そうかもしれない。/6/7よし、先を急ぐぞ！
-#EN:If that's the case.../8then it's all more reason to/8hurry!
+#EN:If that’s the case.../8then it’s all more reason to/8hurry!
 #EX:
  
  
 #MT:レディン
 #JP:立ち止まるな！/6/7走れ、突破だ！
-#EN:Don't let up!/6/7/8Keep moving and break through/8their line!
+#EN:Don’t let up!/6/7/8Keep moving and break through/8their line!
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:アルバート
 #JP:意地でも/8ここは通してもらう！
-#EN:I'll carve us a path through/8these guys with sheer power if/8need be!
+#EN:I’ll carve us a path through/8these guys with sheer power if/8need be!
 #EX:
  
  
@@ -281,13 +281,13 @@
  
 #MT:スカルディス
 #JP:バカめ！/8この戦場で私に勝てるとでも/8思っているのか！
-#EN:Curses!/8Do ye expect me to go down/8quietly?/6/7/8Avast, I'll make ya dance with/8ole' Jack Ketch!
+#EN:Curses!/8Do ye expect me to go down/8quietly?/6/7/8Avast, I’ll make ya dance with/8ole’ Jack Ketch!
 #EX:
  
  
 #MT:スカルディス
 #JP:ふざけやがって！
-#EN:I'm not fucking around!
+#EN:I’m not fucking around!
 #EX:
  
  
@@ -299,7 +299,7 @@
  
 #MT:ガルヴェス
 #JP:蹴散らしてくれるわ！
-#EN:Guess I'm gonna have to show/8you what real pain is!
+#EN:Guess I’m gonna have to show/8you what real pain is!
 #EX:
  
  
@@ -311,25 +311,25 @@
  
 #MT:セリア
 #JP:ゼルド様‥‥。/6/7かたきは、このセリアが/8必ず討ってみせます！
-#EN:Lord Zeld.../6/7/8I'll show you what I,/8Celia, can do!
+#EN:Lord Zeld.../6/7/8I’ll show you what I,/8Celia, can do!
 #EX:
  
  
 #MT:セリア
 #JP:今度は、この前のように/8いかないわよ！
-#EN:This won't be like the last time!
+#EN:This won’t be like the last time!
 #EX:
  
  
 #MT:セリア
 #JP:負けるもんですか！
-#EN:I can't be defeated!
+#EN:I can’t be defeated!
 #EX:
  
  
 #MT:セリア
 #JP:ゼルド様‥‥/6/7今、おそばに参ります‥‥。
-#EN:Lord Zeld.../6/7/8I've been defeated...
+#EN:Lord Zeld.../6/7/8I’ve been defeated...
 #EX:
  
  
@@ -371,7 +371,7 @@
  
 #MT:レディン
 #JP:望むところだ！
-#EN:That's just what I wanted/8to hear!
+#EN:That’s just what I wanted/8to hear!
 #EX:
  
  
@@ -419,7 +419,7 @@
  
 #MT:レディン
 #JP:そうかもしれない。/6/7よし、先を急ぐぞ！
-#EN:If that's the case.../8then it's all more reason to/8hurry!
+#EN:If that’s the case.../8then it’s all more reason to/8hurry!
 #EX:
  
  
@@ -455,7 +455,7 @@
  
 #MT:セリア
 #JP:うろたえてどうするの！/6/7バルディアの奴らと一緒に/8叩きつぶしておしまい！
-#EN:... Don't get distracted!/6/7/8Just concentrate on striking down/8those Baldean bastards! Worry about/8the monsters later!
+#EN:... Don’t get distracted!/6/7/8Just concentrate on striking down/8those Baldean bastards! Worry about/8the monsters later!
 #EX:
  
  

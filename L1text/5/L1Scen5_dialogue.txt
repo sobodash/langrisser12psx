@@ -23,7 +23,7 @@
  
 #MT:レディン
 #JP:うむ！/6/7行くぞ、我に続け！
-#EN:All right!/6/7/8Let's go, I won't quit now!
+#EN:All right!/6/7/8Let’s go, I won’t quit now!
 #EX:
  
  
@@ -35,7 +35,7 @@
  
 #MT:ゼルド
 #JP:あやつらごときに/8落とせるものか。/6/7愚か者め、/8返り討ちにしてやれ！
-#EN:It's looks like they finally/8made their way back here./6/7/8/2, what a fool, he'll meet/8his end here!
+#EN:It’s looks like they finally/8made their way back here./6/7/8/2, what a fool, he’ll meet/8his end here!
 #EX:
  
  
@@ -53,7 +53,7 @@
  
 #MT:レディン
 #JP:この城は返してもらうぞ！
-#EN:I'll take back this castle!
+#EN:I’ll take back this castle!
 #EX:
  
  
@@ -65,13 +65,13 @@
  
 #MT:ナーム
 #JP:国王とヴォルコフのかたき、/8討たせてもらうわ！
-#EN:The king and Volkoff's enemies,/8I'll kill you all!
+#EN:The king and Volkoff’s enemies,/8I’ll kill you all!
 #EX:
  
  
 #MT:ナーム
 #JP:これ以上あなた達の/8思い通りにはさせないわ！
-#EN:I won't let you do as you please/8in our castle!
+#EN:I won’t let you do as you please/8in our castle!
 #EX:
  
  
@@ -83,13 +83,13 @@
  
 #MT:一般兵
 #JP:ナーム様、もう無理です。/6/7ここはいったん、/8後退して下さい！
-#EN:Lady Narm, that's enough!/6/7/8Please retreat and leave the rest/8to me!
+#EN:Lady Narm, that’s enough!/6/7/8Please retreat and leave the rest/8to me!
 #EX:
  
  
 #MT:ソーン
 #JP:ここまで来て/8退くわけにはいかん！
-#EN:I didn't come this far just to/8run away!
+#EN:I didn’t come this far just to/8run away!
 #EX:
  
  
@@ -107,7 +107,7 @@
  
 #MT:クリス
 #JP:ここが/2様の/8碁らしてたお城‥‥。/6/7絶対に取り戻さなきゃ。
-#EN:This is Lord /2's castle.../6/7/8You can't stop us from taking it!
+#EN:This is Lord /2’s castle.../6/7/8You can’t stop us from taking it!
 #EX:
  
  
@@ -125,7 +125,7 @@
  
 #MT:レディン
 #JP:もう無理だクリス！/6/7さがるんだ！
-#EN:That's enough, Chris! You need/8to retreat!/6/7/8Back off right now!
+#EN:That’s enough, Chris! You need/8to retreat!/6/7/8Back off right now!
 #EX:
  
  
@@ -137,13 +137,13 @@
  
 #MT:ゼルド
 #JP:ここまでだ！/6/7きさまらに、このゼルド様が/8倒せるものか。/6/7ハッハッハッ！
-#EN:That's far enough!/6/7/8I, the great general Zeld, will/8kill you all!/6/7/8Ha ha ha ha!
+#EN:That’s far enough!/6/7/8I, the great general Zeld, will/8kill you all!/6/7/8Ha ha ha ha!
 #EX:
  
  
 #MT:ゼルド
 #JP:ここまでやるとはな‥‥。/6/7さすがだ‥‥グフッ！/8ダ、ダルシス帝国に/8栄光あれ！
-#EN:I can't believe I was beaten/8here.../6/7/8Most impressive... gwaa!/8Glory to the Dalshis Empire!
+#EN:I can’t believe I was beaten/8here.../6/7/8Most impressive... gwaa!/8Glory to the Dalshis Empire!
 #EX:
  
  
@@ -155,13 +155,13 @@
  
 #MT:テイラー
 #JP:王子！
-#EN:Shiver me timbers!/8If it isn't /2!
+#EN:Shiver me timbers!/8If it isn’t /2!
 #EX:
  
  
 #MT:レディン
 #JP:テイラー！/8無事だったのか！
-#EN:Taylor!/8You're safe!
+#EN:Taylor!/8You’re safe!
 #EX:
  
  
@@ -173,7 +173,7 @@
  
 #MT:レディン
 #JP:いや、そんな事はないさ。
-#EN:No, don't worry about it.
+#EN:No, don’t worry about it.
 #EX:
  
  
@@ -185,7 +185,7 @@
  
 #MT:レディン
 #JP:ジェシカ！/6/7良かった、無事だったのか。
-#EN:Jessica!/6/7/8Thank god, you're still alive!
+#EN:Jessica!/6/7/8Thank god, you’re still alive!
 #EX:
  
  
@@ -209,7 +209,7 @@
  
 #MT:テイラー
 #JP:さっさとラングリッサーを/8取り返し、邪悪のやつを/8封じないとまずい事になるな。
-#EN:Aye, then let's shove off!/6/7/8It's a main disaster, to be sure,/8lettin' those scurvy dogs keep/8Langrisser I say...
+#EN:Aye, then let’s shove off!/6/7/8It’s a main disaster, to be sure,/8lettin’ those scurvy dogs keep/8Langrisser I say...
 #EX:
  
  
@@ -221,7 +221,7 @@
  
 #MT:ジェシカ
 #JP:おそらく知らないでしょう。/6/7これを知っているのは、/8亡き国王と王宮魔導師である/8私だけのはずです。
-#EN:I don't think so, but possibly./6/7/8Only I should know about this, as/8the king's Court Magician.
+#EN:I don’t think so, but possibly./6/7/8Only I should know about this, as/8the king’s Court Magician.
 #EX:
  
  
@@ -239,19 +239,19 @@
  
 #MT:レディン
 #JP:至急ダルシスへ遠征を/8行う必要があるな。
-#EN:We'll have to invade Dalshis/8immediately.
+#EN:We’ll have to invade Dalshis/8immediately.
 #EX:
  
  
 #MT:レディン
 #JP:父上、見ていて下さい。/6/7世界の平和は/8私達が守ってみせます。
-#EN:Father, watch over us./6/7/8We'll protect the peace of this/8world for sure.
+#EN:Father, watch over us./6/7/8We’ll protect the peace of this/8world for sure.
 #EX:
  
  
 #MT:指揮官
 #JP:大変です！/6/7アンゼルの砦がダルシス軍に/8攻撃を受けているとの事です！
-#EN:We've got trouble!/6/7/8Dalshis troops have lain siege to/8Anzel Fortress!
+#EN:We’ve got trouble!/6/7/8Dalshis troops have lain siege to/8Anzel Fortress!
 #EX:
  
  
@@ -269,19 +269,19 @@
  
 #MT:セリア
 #JP:ゼルド様には指一本、/8触れさせないわ！
-#EN:I won't let you lay one finger on/8General Zeld!
+#EN:I won’t let you lay one finger on/8General Zeld!
 #EX:
  
  
 #MT:セリア
 #JP:覚えてらっしゃい！/6/7このかりは必ず返させて/8もらうわ！
-#EN:I won't forget this!/6/7/8This injury can't keep me out of/8battle for long!
+#EN:I won’t forget this!/6/7/8This injury can’t keep me out of/8battle for long!
 #EX:
  
  
 #MT:アントノフ
 #JP:命に代えてもここは通さん！
-#EN:I won't surrender my life here!
+#EN:I won’t surrender my life here!
 #EX:
  
  
@@ -329,7 +329,7 @@
  
 #MT:帝国軍指揮官
 #JP:負けるわけにはいかぬ！
-#EN:There's no way I'll lose!
+#EN:There’s no way I’ll lose!
 #EX:
  
  

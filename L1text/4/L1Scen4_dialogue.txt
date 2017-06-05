@@ -23,7 +23,7 @@
  
 #MT:ソーン
 #JP:フッフッフ、/6/7バルディアの残党か。/8蹴散らしてくれるわ！
-#EN:Ha ha ha./6/7/8We'll scatter the last of Baldea's/8forces!
+#EN:Ha ha ha./6/7/8We’ll scatter the last of Baldea’s/8forces!
 #EX:
  
  
@@ -41,7 +41,7 @@
  
 #MT:レディン
 #JP:だが、/8ここで退くわけにもいかぬ。/6/7みんな、死ぬなよ！
-#EN:That may be, but we can't turn/8back now!/6/7/8Everyone, be careful not to get/8killed!
+#EN:That may be, but we can’t turn/8back now!/6/7/8Everyone, be careful not to get/8killed!
 #EX:
  
  
@@ -77,13 +77,13 @@
  
 #MT:ソーン
 #JP:散開後の指揮は/8お前たちに任せる。/8私は敵の出方に合わせる！
-#EN:I'll leave the rest of the/8deployment to your command./6/7/8I'll join you when you meet the/8enemy!
+#EN:I’ll leave the rest of the/8deployment to your command./6/7/8I’ll join you when you meet the/8enemy!
 #EX:
  
  
 #MT:レディン
 #JP:敵の指揮官を倒すんだ！/8そうすれば、/8敵はバラバラになるぞ！
-#EN:Aim for the enemy's commander!/8If we defeat him, their troops/8will scatter!
+#EN:Aim for the enemy’s commander!/8If we defeat him, their troops/8will scatter!
 #EX:
  
  
@@ -101,7 +101,7 @@
  
 #MT:ソーン
 #JP:バルディアの残党共も/8ずいぶん楽しませてくれる。/6/7戦いとはこうでなくてはな！
-#EN:A chance to pick off the rest of/8Baldea's troops sounds rather/8fun...
+#EN:A chance to pick off the rest of/8Baldea’s troops sounds rather/8fun...
 #EX:
  
  
@@ -131,13 +131,13 @@
  
 #MT:ヴォルコフ
 #JP:熟練の剣技を見せてやろう。
-#EN:Let's see what you can do with/8a sword!
+#EN:Let’s see what you can do with/8a sword!
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:ダルシス帝国にも、/8これ程の力を持った部隊が/8いたのか。
-#EN:So that's the power of the Dalshis/8Empire...
+#EN:So that’s the power of the Dalshis/8Empire...
 #EX:
  
  
@@ -149,31 +149,31 @@
  
 #MT:クリス
 #JP:/2様、/6/7迷惑をかけてごめんなさい。
-#EN:Lord /2,/8I'm sorry for being such trouble.
+#EN:Lord /2,/8I’m sorry for being such trouble.
 #EX:
  
  
 #MT:ナーム
 #JP:あっ！いけない！
-#EN:Ah! This isn't good!
+#EN:Ah! This isn’t good!
 #EX:
  
  
 #MT:ナーム
 #JP:こんなはずじゃなかったのに‥
-#EN:It shouldn't be like this...
+#EN:It shouldn’t be like this...
 #EX:
  
  
 #MT:ソーン
 #JP:行くぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
 #MT:ソーン
 #JP:くっ！/6/7これ以上戦うのは無理か。
-#EN:Shit!/8I can't go on any more.
+#EN:Shit!/8I can’t go on any more.
 #EX:
  
  
@@ -191,7 +191,7 @@
  
 #MT:ソーン
 #JP:私は黒騎士、/8ランス・カルザス！/6/7きさまらなど/8私の敵ではないわ！
-#EN:I am the Black Knight,/8Lance Kalxath!/6/7/8You worms aren't fit to be my/8enemies!
+#EN:I am the Black Knight,/8Lance Kalxath!/6/7/8You worms aren’t fit to be my/8enemies!
 #EX:
  
  
@@ -203,13 +203,13 @@
  
 #MT:レディン
 #JP:私は/2。/6/7バルディアの王子だ！
-#EN:I'm /2./8The prince of Baldea!
+#EN:I’m /2./8The prince of Baldea!
 #EX:
  
  
 #MT:ソーン
 #JP:このかりは、/8いずれ返してもらうぞ。/6/7さらば！
-#EN:I see... Well, for now I must/8retreat./6/7/8Farewell. I can feel we'll cross/8swords again.
+#EN:I see... Well, for now I must/8retreat./6/7/8Farewell. I can feel we’ll cross/8swords again.
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:ソーン
 #JP:毒矢だ！/6/7伏兵がいるぞ！/8まだ近くにいるはずだ！/8急いでさがせ！
-#EN:A poison arrow?!/6/7/8It's an ambush!/8The enemy must still be here!/8Hurry, root them out!
+#EN:A poison arrow?!/6/7/8It’s an ambush!/8The enemy must still be here!/8Hurry, root them out!
 #EX:
  
  
@@ -251,7 +251,7 @@
  
 #MT:ヴォルコフ
 #JP:王子、どうやら私は/8ここまでのようです。
-#EN:My prince... I don't think I'll/8be able to follow you any more...
+#EN:My prince... I don’t think I’ll/8be able to follow you any more...
 #EX:
  
  
@@ -263,7 +263,7 @@
  
 #MT:ヴォルコフ
 #JP:王子‥‥/6/7りっぱな国王になって下さい。
-#EN:Prince... I dreamed of seeing you/8take your father's place.../6/7/8One day... please take your/8throne... and become king...
+#EN:Prince... I dreamed of seeing you/8take your father’s place.../6/7/8One day... please take your/8throne... and become king...
 #EX:
  
  
@@ -275,7 +275,7 @@
  
 #MT:ソーン
 #JP:ライアス！/8あまり無理はするなよ！
-#EN:Laias!/8That's too much, don't be a fool!
+#EN:Laias!/8That’s too much, don’t be a fool!
 #EX:
  
  
@@ -293,7 +293,7 @@
  
 #MT:ソーン
 #JP:それ以上は無理だ！/6/7さがれ、ライアス！/8かたきは私がとってやる！
-#EN:Continuing would be foolish!/6/7/8Back off, Laias!/8I'll take over from here!
+#EN:Continuing would be foolish!/6/7/8Back off, Laias!/8I’ll take over from here!
 #EX:
  
  
@@ -317,7 +317,7 @@
  
 #MT:ソーン
 #JP:レティシア！/6/7無理はするな、さがれ！
-#EN:Laetitia!/6/7/8Don't be a fool, retreat!
+#EN:Laetitia!/6/7/8Don’t be a fool, retreat!
 #EX:
  
  
@@ -341,7 +341,7 @@
  
 #MT:帝国軍指揮官
 #JP:貴様にうらみは無いが/8これも運命だ。/6/7死んでもらおうか！
-#EN:Don't drag this out like a/8grudge, this is just fate./6/7/8Do you want to die!
+#EN:Don’t drag this out like a/8grudge, this is just fate./6/7/8Do you want to die!
 #EX:
  
  
@@ -353,7 +353,7 @@
  
 #MT:帝国軍指揮官
 #JP:我々は負けるわけには/8いかぬのだ！
-#EN:We won't be defeated!
+#EN:We won’t be defeated!
 #EX:
  
  

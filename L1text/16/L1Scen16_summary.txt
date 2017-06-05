@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「禁断の地ヴェルゼリア」/6/7/5謎の石版から禁断の地に/8闇の王子がいることを知った/8レディンたち。/6/7/5歴史に記された通り、彼ら/8ラングリッサーを持つ光輝の/8末裔たちは、ヴェルゼリアへと/8向かった‥‥。/6/7×勝利条件/8/5・ボーゼルを除く全ての敵の撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:/5/8/5/5Scenario-/3/8/5/5/5"The Forbidden Land, Velzeria"/6/7/5/8Thanks to the tablet, Ledin/8learned of the dwelling of the/8prince of darkness./6/7/5/8History has begun to repeat/8itself as descendants of light/8once again wield Langrisser to/8face Velzeria.../6/7/8Winning Conditions/8- Defeat of all enemies except/8  Boser/8Losing Conditions/8- Death of Ledin/6/7
+#EN:/5/8/5/5Scenario-/3/8/5/5/5“The Forbidden Land, Velzeria”/6/7/5/8Thanks to the tablet, Ledin/8learned of the dwelling of the/8prince of darkness./6/7/5/8History has begun to repeat/8itself as descendants of light/8once again wield Langrisser to/8face Velzeria.../6/7/8Winning Conditions/8- Defeat of all enemies except/8  Böser/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

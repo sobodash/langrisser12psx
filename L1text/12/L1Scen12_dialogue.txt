@@ -11,19 +11,19 @@
  
 #MT:ソーン
 #JP:？！/8左右から何か来るぞ！
-#EN:?!/8Something's coming at us from/8our flanks!
+#EN:?!/8Something’s coming at us from/8our flanks!
 #EX:
  
  
 #MT:ジェシカ
 #JP:アッ！/8あれはバジリスク！
-#EN:AAAH!/8They're Basilisks!
+#EN:AAAH!/8They’re Basilisks!
 #EX:
  
  
 #MT:アルバート
 #JP:何？！/6/7それでは、この石像は/8石にされた人間だと/8いうことか！
-#EN:What?!/6/7/8Then these statues.../8My god, they're people!
+#EN:What?!/6/7/8Then these statues.../8My god, they’re people!
 #EX:
  
  
@@ -70,13 +70,13 @@
  
 #MT:ランス
 #JP:話はあとだ！/6/7まずは、あのトカゲ野郎を/8始末するぞ！
-#EN:We'll talk later!/6/7/8First let's kill these damn/8lizards!
+#EN:We’ll talk later!/6/7/8First let’s kill these damn/8lizards!
 #EX:
  
  
 #MT:レディン
 #JP:分かった。/6/7みんな行くぞ！
-#EN:I understand./6/7/8Everyone, let's go!
+#EN:I understand./6/7/8Everyone, let’s go!
 #EX:
  
  
@@ -100,7 +100,7 @@
  
 #MT:ナーム
 #JP:もう戦えないわ。/6/7あとを頼みます！
-#EN:I can't fight anymore./6/7/8Please handle the rest!
+#EN:I can’t fight anymore./6/7/8Please handle the rest!
 #EX:
  
  
@@ -112,7 +112,7 @@
  
 #MT:ソーン
 #JP:くそっ！/6/7足をやられた！/8後はまかせる！
-#EN:Shit!/6/7/8I can't move my leg!/8You'll have to take care/8of them for me!
+#EN:Shit!/6/7/8I can’t move my leg!/8You’ll have to take care/8of them for me!
 #EX:
  
  
@@ -136,13 +136,13 @@
  
 #MT:テイラー
 #JP:この化け物どもめ！/8くたばりやがれ！
-#EN:Arrr...these scurvy monsters!/8Kill every bloody one of 'em!
+#EN:Arrr...these scurvy monsters!/8Kill every bloody one of ’em!
 #EX:
  
  
 #MT:テイラー
 #JP:いったん退却する！/6/7すまん！
-#EN:I'm retreating this time!/6/7/8Sorry!
+#EN:I’m retreating this time!/6/7/8Sorry!
 #EX:
  
  
@@ -154,19 +154,19 @@
  
 #MT:ジェシカ
 #JP:逃がしは、しません！
-#EN:I won't let you harm anyone else!
+#EN:I won’t let you harm anyone else!
 #EX:
  
  
 #MT:ジェシカ
 #JP:私はもうダメです。/6/7いったん下がります。
-#EN:I can't do anything more./6/7/8I'm beaten this time.
+#EN:I can’t do anything more./6/7/8I’m beaten this time.
 #EX:
  
  
 #MT:アルバート
 #JP:いかん！
-#EN:Don't move!
+#EN:Don’t move!
 #EX:
  
  
@@ -178,7 +178,7 @@
  
 #MT:ホーキング
 #JP:いくぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -190,7 +190,7 @@
  
 #MT:ランス
 #JP:よくも、この私を！/6/7ゆるさん！
-#EN:You bastards, how dare you turn/8me to stone!/6/7/8I won't forgive you!
+#EN:You bastards, how dare you turn/8me to stone!/6/7/8I won’t forgive you!
 #EX:
  
  
@@ -232,13 +232,13 @@
  
 #MT:レディン
 #JP:やっと倒したか‥‥。/6/7ランス、約束通り/8状況を説明してくれないか？
-#EN:Well, that looks like the last/8of them./6/7/8So Lance, will you explain why/8you're here like you promised?
+#EN:Well, that looks like the last/8of them./6/7/8So Lance, will you explain why/8you’re here like you promised?
 #EX:
  
  
 #MT:レディン
 #JP:やっと倒したか‥‥。
-#EN:It looks like that's the/8last of them...
+#EN:It looks like that’s the/8last of them...
 #EX:
  
  
@@ -322,7 +322,7 @@
  
 #MT:ランス
 #JP:その剣が邪悪を/8封じていたという話、/8どうやら本当の事のようだな/6/7この際だ。私も協力しよう。/6/7ただし奴らを倒すまでだ。/6/7貴様との決着は、/8その後で必ずつけるからな！
-#EN:It appears there was truth to/8that story of the sword sealing/8away a great evil./6/7/8In this case, I'll cooperate/8with you./6/7/8However, only until the monsters/8are defeated./6/7/8After that, we finish our battle.
+#EN:It appears there was truth to/8that story of the sword sealing/8away a great evil./6/7/8In this case, I’ll cooperate/8with you./6/7/8However, only until the monsters/8are defeated./6/7/8After that, we finish our battle.
 #EX:
  
  

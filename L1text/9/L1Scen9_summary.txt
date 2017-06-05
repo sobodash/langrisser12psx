@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「/5湖上の城/5」/6/7/5進撃を続けるレディンたちは、/8キルヒナーが守る湖上の城/8ヴァルクを包囲した。/8/5強固なこの城さえ落とせば、/8ダルシス城は眼前に見えるはず/8であった。/6/7×勝利条件/8/5・キルヒナーの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:/5/8/5/5Scenario-1/3/8/5/5/5"The Castle on the Lake"/6/7/5/8Continuing their march, the/8Baldean troops surrounded the/8castle on lake Valk, defended/8by Kirchner./6/7/5/8If they can breach these/8walls, Castle Dalshis will be/8in sight./6/7/5/8Winning Conditions/8- Defeat of Kirchner/8Losing Conditions/8- Death of Ledin/6/7
+#EN:/5/8/5/5Scenario-1/3/8/5/5/5“The Castle on the Lake”/6/7/5/8Continuing their march, the/8Baldean troops surrounded the/8castle on lake Valk, defended/8by Kirchner./6/7/5/8If they can breach these/8walls, Castle Dalshis will be/8in sight./6/7/5/8Winning Conditions/8- Defeat of Kirchner/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

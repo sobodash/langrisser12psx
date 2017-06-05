@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「/5/5追撃/5/5」/6/7/5レディンたちの活躍でランスたち/8は撤退、アンゼルの砦は守られた。/8/5新たにアルバートが仲間になり、/8戦力が増強されてゆく。/6/7/5そんな彼らを見てダルシス軍の/8指揮官ザルダフは、後続の部隊と/8合流するために撤退を開始。/8/5それを見たレディンは勝機と見て/8敵軍の追撃を始めた。/6/7×勝利条件/8/5・ロード・ザルダフの撃破/8/5/8×敗北条件/8/5・レディンの死亡/8/5・ロード・ザルダフの逃亡/6/7
-#EN:/5/8/5/5Scenario-0/3/8/5/5/5"Pursuit"/6/7/5/8Ledin succeeded at driving/8Lance from Anzel Fortress and/8protecting Albert./6/7/5/8After the battle, Albert chose/8to join Ledin in his fight, and/8thus the entourage grew one man/8stronger./6/7/5/8Commander Zaldaff, of the/8Dalshis army, retreated to meet/8up with their other forces./6/7/5/8Seeing this as an opportunity,/8Ledin began a hot pursuit of/8the enemy./6/7/5/8Winning Conditions/8- Defeat of Lord Zaldaff/8Losing Conditions/8- Death of Ledin/8- Escape of Lord Zaldaff/6/7
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5“Pursuit”/6/7/5/8Ledin succeeded at driving/8Lance from Anzel Fortress and/8protecting Albert./6/7/5/8After the battle, Albert chose/8to join Ledin in his fight, and/8thus the entourage grew one man/8stronger./6/7/5/8Commander Zaldaff, of the/8Dalshis army, retreated to meet/8up with their other forces./6/7/5/8Seeing this as an opportunity,/8Ledin began a hot pursuit of/8the enemy./6/7/5/8Winning Conditions/8- Defeat of Lord Zaldaff/8Losing Conditions/8- Death of Ledin/8- Escape of Lord Zaldaff/6/7
 #EX:
  
  

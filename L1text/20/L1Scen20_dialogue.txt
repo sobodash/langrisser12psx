@@ -35,19 +35,19 @@
  
 #MT:
 #JP:メサイヤ世界へようこそっス。/8私の名はＯ庭。メサイヤでは、/8ロリ庭と呼ばれているっスよ。
-#EN:Welcome to Masaya World!/8My name is O. You've been invited/8into Masaya's holy garden.
+#EN:Welcome to Masaya World!/8My name is O. You’ve been invited/8into Masaya’s holy garden.
 #EX:
  
  
 #MT:
 #JP:今、この世界は、マスター前で/8フォーエバーって感じですか。
-#EN:It felt like mastering this game/8took forever, didn't it?
+#EN:It felt like mastering this game/8took forever, didn’t it?
 #EX:
  
  
 #MT:
 #JP:そこで私はずっと、/8あなたのような勇気ある者が現れ/8るのを待ってたって感じっス。
-#EN:I've been waiting around for a/8hellla long time for someone/8with your guts to show up.
+#EN:I’ve been waiting around for a/8hellla long time for someone/8with your guts to show up.
 #EX:
  
  
@@ -171,7 +171,7 @@
  
 #MT:
 #JP:今、味方の偵察部隊が/8包囲されています。/6/7/5/8しかし、あなたの部隊もまた/8危険な状態にあります。/6/7/5/8あなたは部隊に対して/8どのように指示しますか？
-#EN:An ally unit has been encircled/8by the enemy. But you're in a/8dangerous position as well./6/7/8What will you do?
+#EN:An ally unit has been encircled/8by the enemy. But you’re in a/8dangerous position as well./6/7/8What will you do?
 #EX:
  
  
@@ -186,7 +186,7 @@
  
  
 #JP:偵察部隊を助けに行く
-#EN:Rush to the unit's aid
+#EN:Rush to the unit’s aid
 #EX:
  
  
@@ -316,7 +316,7 @@
  
  
 #JP:男とは！
-#EN:You're a boy, aren't you?
+#EN:You’re a boy, aren’t you?
 #EX:
  
  

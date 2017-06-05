@@ -5,13 +5,13 @@
  
 #MT:ナーム
 #JP:王子、大変です！/6/7町が狼男の大群に/8襲われています！
-#EN:My prince, we're in trouble!/6/7/8This town is under siege by a /8pack of wolfmen!
+#EN:My prince, we’re in trouble!/6/7/8This town is under siege by a /8pack of wolfmen!
 #EX:
  
  
 #MT:一般兵
 #JP:王子、大変です！/6/7町が狼男の大群に/8襲われています！
-#EN:My prince, we're in trouble!/6/7/8This town is under siege by/8a pack of wolfmen!
+#EN:My prince, we’re in trouble!/6/7/8This town is under siege by/8a pack of wolfmen!
 #EX:
  
  
@@ -23,19 +23,19 @@
  
 #MT:ナーギャ
 #JP:フヒャヒャヒャヒャ‥‥/6/7そうはいきませんな、/8バルディアの王子様‥‥。
-#EN:FYA HA HA HA!/6/7/8I can't allow that to happen/8now, can I?/8Prince of Baldea...
+#EN:FYA HA HA HA!/6/7/8I can’t allow that to happen/8now, can I?/8Prince of Baldea...
 #EX:
  
  
 #MT:レディン
 #JP:何者だ！
-#EN:Who's there?!
+#EN:Who’s there?!
 #EX:
  
  
 #MT:ナーギャ
 #JP:おっと申し遅れました。/6/7私、ナーギャと申します。/8以後、お見知りおきを‥‥
-#EN:Oh ho, he has some fire./6/7/8You may call me Nagya.../8I have a feeling we're going to/8get to know each other VERY well...
+#EN:Oh ho, he has some fire./6/7/8You may call me Nagya.../8I have a feeling we’re going to/8get to know each other VERY well...
 #EX:
  
  
@@ -47,7 +47,7 @@
  
 #MT:ナーギャ
 #JP:それは、できませんな。/6/7彼等には、我らの聖なる/8神へのいけにえと/8なってもらいます。
-#EN:Ah, you see, that may be a bit/8of a problem./6/7/8It would make our dark god/8quite happy to have a/8descendant of light as a sacrifice./8I'd hate to let him down.
+#EN:Ah, you see, that may be a bit/8of a problem./6/7/8It would make our dark god/8quite happy to have a/8descendant of light as a sacrifice./8I’d hate to let him down.
 #EX:
  
  
@@ -89,13 +89,13 @@
  
 #MT:レディン
 #JP:これ以上は/8やらせないぞ！
-#EN:I can't let you do as you please!
+#EN:I can’t let you do as you please!
 #EX:
  
  
 #MT:レディン
 #JP:ダメだ‥‥。/6/7このままでは/8町の人達が‥‥
-#EN:It's useless.../6/7/8At this rate the villagers...
+#EN:It’s useless.../6/7/8At this rate the villagers...
 #EX:
  
  
@@ -113,7 +113,7 @@
  
 #MT:ナーム
 #JP:いったんさがって/8手当をしてくるわ。/6/7それまでお願い！
-#EN:I'm going to have to retreat./6/7/8Please, take care of this!
+#EN:I’m going to have to retreat./6/7/8Please, take care of this!
 #EX:
  
  
@@ -125,7 +125,7 @@
  
 #MT:ソーン
 #JP:くそっ！/6/7ヒザをやられた！/8後はまかせる！
-#EN:Shit!/6/7/8My knees!/8You'll have to handle it from here.
+#EN:Shit!/6/7/8My knees!/8You’ll have to handle it from here.
 #EX:
  
  
@@ -149,7 +149,7 @@
  
 #MT:テイラー
 #JP:くっ、不覚！
-#EN:Kuh, I've failed!
+#EN:Kuh, I’ve failed!
 #EX:
  
  
@@ -161,13 +161,13 @@
  
 #MT:ジェシカ
 #JP:もうダメだわ‥‥
-#EN:It's useless...
+#EN:It’s useless...
 #EX:
  
  
 #MT:アルバート
 #JP:お前達の/8思い通りにはさせん！
-#EN:I won't let you have your way!
+#EN:I won’t let you have your way!
 #EX:
  
  
@@ -185,19 +185,19 @@
  
 #MT:ホーキング
 #JP:いかん！/6/7ここまでか‥‥
-#EN:I can't go on!/6/7/8This looks like the end...
+#EN:I can’t go on!/6/7/8This looks like the end...
 #EX:
  
  
 #MT:ランス
 #JP:これがラングリッサーの/8否、/8私の国がまねいた結果なのか‥‥。/6/7ならば何としても/8再び邪悪を/8封印せねばならぬな。
-#EN:This is all because of my/8kingdom's abuse of the sword,/8Langrisser.../6/7/8We must find a way to reseal/8this evil.
+#EN:This is all because of my/8kingdom’s abuse of the sword,/8Langrisser.../6/7/8We must find a way to reseal/8this evil.
 #EX:
  
  
 #MT:ランス
 #JP:貴様らをこのまま/8生かしては帰さぬ！
-#EN:I won't let you guys get away/8alive!
+#EN:I won’t let you guys get away/8alive!
 #EX:
  
  
@@ -227,7 +227,7 @@
  
 #MT:ルキワード
 #JP:市民は町の中央に/8避難するのだ！/6/7化け物共を町に入れるな！
-#EN:Evacuate the citizens to the/8center of the village!/6/7/8The monsters can't be allowed/8further into the town!
+#EN:Evacuate the citizens to the/8center of the village!/6/7/8The monsters can’t be allowed/8further into the town!
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:アキセル
 #JP:一体何匹いるのだ！/6/7こやつらは底なしか？！
-#EN:Killing one of these beasts/8does nothing!/6/7/8There's just no end to them!
+#EN:Killing one of these beasts/8does nothing!/6/7/8There’s just no end to them!
 #EX:
  
  
@@ -251,7 +251,7 @@
  
 #MT:レディン
 #JP:な、なにっ？！/6/7市民が全滅したのか‥‥。/6/7私の力が/8およばぬばかりに‥‥
-#EN:Wh- What?!/6/7/8The villagers are being/8massacred.../6/7/8I don't have the strength to/8save them...
+#EN:Wh- What?!/6/7/8The villagers are being/8massacred.../6/7/8I don’t have the strength to/8save them...
 #EX:
  
  
@@ -293,13 +293,13 @@
  
 #MT:ナーギャ
 #JP:我が神の素晴らしさ、/8お教えしましょう。
-#EN:Our god is awesome, I'll/8show you some of his power.
+#EN:Our god is awesome, I’ll/8show you some of his power.
 #EX:
  
  
 #MT:ナーギャ
 #JP:残念ながら/8今日はここまでのようですね。/6/7しかし闇の王子、ボーゼル様が/8よみがえった今、あなた達に/8勝ち目はありません。/6/7では、またいずれ/8お会いしましょう。/8光輝の末裔の方々。
-#EN:What a shame, today doesn't/8seem to be going our way./6/7/8But the Prince of Darkness,/8B�ser, will hear of this./8And you fools have NO chance/8against him!/6/7/8So then, I guess we'll meet/8again, descendants of light.
+#EN:What a shame, today doesn’t/8seem to be going our way./6/7/8But the Prince of Darkness,/8Böser, will hear of this./8And you fools have NO chance/8against him!/6/7/8So then, I guess we’ll meet/8again, descendants of light.
 #EX:
  
  
@@ -334,13 +334,13 @@
  
 #MT:レディン
 #JP:いや、この程度/8大した事はありません。
-#EN:Ah, it's not that great/8of a feat, really.
+#EN:Ah, it’s not that great/8of a feat, really.
 #EX:
  
  
 #MT:ルキワード
 #JP:/2王子に、/8この町に伝わる秘宝を/8お渡ししましょう。
-#EN:Prince /2, for your help,/8we'd like to give you our/8town's secret treasure.
+#EN:Prince /2, for your help,/8we’d like to give you our/8town’s secret treasure.
 #EX:
  
  
@@ -352,13 +352,13 @@
  
 #MT:レディン
 #JP:ありがとう。/8大切に使わせて/8もらいましょう。
-#EN:Thank you, I'm sure it will/8aid us.
+#EN:Thank you, I’m sure it will/8aid us.
 #EX:
  
  
 #MT:ルキワード
 #JP:何かお礼をとは/8思ったのですが、/8この町には何もありません。
-#EN:It's something to remember our/8town's eternal gratitude by.
+#EN:It’s something to remember our/8town’s eternal gratitude by.
 #EX:
  
  
@@ -370,25 +370,25 @@
  
 #MT:クリス
 #JP:でも、/2様。/6/7ボーゼルとは/8何者でしょうか？
-#EN:But Lord /2./6/7/8What kind of a man is this Boser?
+#EN:But Lord /2./6/7/8What kind of a man is this Böser?
 #EX:
  
  
 #MT:一般兵
 #JP:しかし/2様。/6/7ボーゼルとは/8何者でしょうか？
-#EN:However, Lord /2./6/7/8What kind of a man is this Boser?
+#EN:However, Lord /2./6/7/8What kind of a man is this Böser?
 #EX:
  
  
 #MT:レディン
 #JP:わからぬ。/6/7ジェシカは知らないか？
-#EN:I don't really know./6/7/8Jessica, do you know anything/8about him?
+#EN:I don’t really know./6/7/8Jessica, do you know anything/8about him?
 #EX:
  
  
 #MT:ジェシカ
 #JP:かなり昔、混沌の力を/8復活させようとした男の名も、/8ボーゼルだったと思いますが‥/6/7闇の王子と呼ばれるからには/8おそらく同一人物でしょう。
-#EN:I know much of Boser.../6/7/8Boser is the name of the man/8who, since ancient times,/8has tried to raise the power/8to revive his dark god, Chaos./6/7/8Since Nagya called him the/8"Prince of Darkness," the man he/8spoke of and the man I mention are/8likely one and the same.
+#EN:I know much of Böser.../6/7/8Böser is the name of the man/8who, since ancient times,/8has tried to raise the power/8to revive his dark god, Chaos./6/7/8Since Nagya called him the/8“Prince of Darkness,” the man he/8spoke of and the man I mention are/8likely one and the same.
 #EX:
  
  

@@ -29,13 +29,13 @@
  
 #MT:キルヒナー
 #JP:フン！こりもせずに/8また来たか。
-#EN:Shit! You've come even this far...
+#EN:Shit! You’ve come even this far...
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:何度やっても/8無駄だと言う事を/8たっぷり教えてやる！
-#EN:Ho! How many times till you swabs/8learn you're wasting your time?/6/7/8Prepare yourselves, Baldeans.
+#EN:Ho! How many times till you swabs/8learn you’re wasting your time?/6/7/8Prepare yourselves, Baldeans.
 #EX:
  
  
@@ -65,7 +65,7 @@
  
 #MT:レディン
 #JP:あわてるな！/6/7早く城を落とすんだ！
-#EN:Don't be distracted!/6/7/8We must act quickly to bring down/8the castle if we're to succeed!
+#EN:Don’t be distracted!/6/7/8We must act quickly to bring down/8the castle if we’re to succeed!
 #EX:
  
  
@@ -77,13 +77,13 @@
  
 #MT:一般兵
 #JP:援軍だ！/6/7援軍が来るぞ！
-#EN:It's reinforcements!/6/7/8Reinforcements are coming!
+#EN:It’s reinforcements!/6/7/8Reinforcements are coming!
 #EX:
  
  
 #MT:キルヒナー
 #JP:おお、待ちわびたぞ。/8よし反撃に移れ！
-#EN:Don't falter!/8The time to strike is now!
+#EN:Don’t falter!/8The time to strike is now!
 #EX:
  
  
@@ -95,7 +95,7 @@
  
 #MT:レディン
 #JP:いくぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -107,25 +107,25 @@
  
 #MT:キルヒナー
 #JP:この難攻不落とうたわれる/8ヴァルク城を落とそうとは、/8とんだ思い上がり共だな。/8ハッハッハッ！
-#EN:You'll never make it through the/8walls of Castle Valk!/6/7/8What on Earth are you thinking?!/8HA HA HA HA!
+#EN:You’ll never make it through the/8walls of Castle Valk!/6/7/8What on Earth are you thinking?!/8HA HA HA HA!
 #EX:
  
  
 #MT:ナーム
 #JP:女だからって/8甘く見ない方がいいわよ！
-#EN:Don't take me lightly just/8because I'm a woman!
+#EN:Don’t take me lightly just/8because I’m a woman!
 #EX:
  
  
 #MT:ナーム
 #JP:いけない！
-#EN:You're not going anywhere!
+#EN:You’re not going anywhere!
 #EX:
  
  
 #MT:ソーン
 #JP:邪魔をするな！
-#EN:You're in my way!
+#EN:You’re in my way!
 #EX:
  
  
@@ -155,7 +155,7 @@
  
 #MT:テイラー
 #JP:くそっ！/6/7やるじゃねえか！
-#EN:Shit!/6/7/8You're pretty good!
+#EN:Shit!/6/7/8You’re pretty good!
 #EX:
  
  
@@ -167,7 +167,7 @@
  
 #MT:ジェシカ
 #JP:あぁ、もう戦えないわ！
-#EN:Aah! I can't fight anymore!
+#EN:Aah! I can’t fight anymore!
 #EX:
  
  
@@ -179,7 +179,7 @@
  
 #MT:アルバート
 #JP:ここまでか‥‥。
-#EN:I can't fall here...
+#EN:I can’t fall here...
 #EX:
  
  
@@ -197,7 +197,7 @@
  
 #MT:帝国軍指揮官
 #JP:サカナのエサにしてやる！
-#EN:You're fish food!
+#EN:You’re fish food!
 #EX:
  
  
@@ -221,13 +221,13 @@
  
 #MT:一般兵
 #JP:まずい、/8城門が突破されるぞ！
-#EN:This isn't good, the port has/8fallen!
+#EN:This isn’t good, the port has/8fallen!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:クッ、やるな！/8だが、ここは通さぬ！
-#EN:Tsk, not bad!/8But I can't let you past here!
+#EN:Tsk, not bad!/8But I can’t let you past here!
 #EX:
  
  
@@ -245,25 +245,25 @@
  
 #MT:帝国軍指揮官
 #JP:今度会ったら/8タダじゃすまないわよ！
-#EN:When next we meet,/8I won't forgive this!
+#EN:When next we meet,/8I won’t forgive this!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:血祭りにしてやる！
-#EN:I'll kill you next time!
+#EN:I’ll kill you next time!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:よくここまで来たな。/6/7しかし、これまでだ！
-#EN:You're pretty good to have made/8it here./6/7/8However, this will be your end!
+#EN:You’re pretty good to have made/8it here./6/7/8However, this will be your end!
 #EX:
  
  
 #MT:帝国軍指揮官
 #JP:私は神に見捨てられた/8ようだな‥‥。
-#EN:Time me to meet my maker.../8I'll give your regards to God.
+#EN:Time me to meet my maker.../8I’ll give your regards to God.
 #EX:
  
  
@@ -275,7 +275,7 @@
  
 #MT:キルヒナー
 #JP:このヴァルク城を/8貴様らの自由にさせん！
-#EN:I can't turn over this castle!
+#EN:I can’t turn over this castle!
 #EX:
  
  
@@ -299,7 +299,7 @@
  
 #MT:レディン
 #JP:放っておいても/8かまわないだろう。
-#EN:Don't worry about them, they're/8no longer of any consequence.
+#EN:Don’t worry about them, they’re/8no longer of any consequence.
 #EX:
  
  
@@ -311,7 +311,7 @@
  
 #MT:ホーキング
 #JP:お久し振りです、王子。
-#EN:It's been a while, my prince.
+#EN:It’s been a while, my prince.
 #EX:
  
  
@@ -323,7 +323,7 @@
  
 #MT:ホーキング
 #JP:私も共に戦いましょう。/6/7私では足手まといですかな？
-#EN:I've come to fight by your side./6/7/8Would I be of hinderance to you?
+#EN:I’ve come to fight by your side./6/7/8Would I be of hinderance to you?
 #EX:
  
  
@@ -341,7 +341,7 @@
  
 #MT:レディン
 #JP:ええ。/6/7準備が整いしだい/8すぐに出発します。
-#EN:Yeah./6/7/8It's time to prepare for the/8final stage of our advance!
+#EN:Yeah./6/7/8It’s time to prepare for the/8final stage of our advance!
 #EX:
  
  
@@ -353,7 +353,7 @@
  
 #MT:ジェシカ
 #JP:それはワンドですわ。/6/7役に立ちますから/8持って行きましょう。
-#EN:It's a magical wand./6/7/8It may be useful to take it with/8you.
+#EN:It’s a magical wand./6/7/8It may be useful to take it with/8you.
 #EX:
  
  
@@ -371,7 +371,7 @@
  
 #MT:レディン
 #JP:よし、このまま一気に/8ダルシス城まで進軍するぞ！
-#EN:Good, now we're only a stroke/8away from Dalshis Castle!
+#EN:Good, now we’re only a stroke/8away from Dalshis Castle!
 #EX:
  
  
@@ -383,13 +383,13 @@
  
 #MT:ディスタン
 #JP:ディスタン様のお通りだ！/6/7どけどけどけぇーっ！
-#EN:You heard Lord Distin's orders!/6/7/8Outta' the way!
+#EN:You heard Lord Distin’s orders!/6/7/8Outta’ the way!
 #EX:
  
  
 #MT:ディスタン
 #JP:よくも俺の地竜を！/6/7おぼえてろよ！
-#EN:How dare they, my Earth Dragon!/6/7/8I won't forget this!
+#EN:How dare they, my Earth Dragon!/6/7/8I won’t forget this!
 #EX:
  
  

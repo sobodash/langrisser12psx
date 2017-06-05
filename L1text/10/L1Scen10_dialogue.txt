@@ -5,7 +5,7 @@
  
 #MT:ソーン
 #JP:これが皇帝ディゴスの居城、/8ツインキャッスル！
-#EN:We're here, it's the Twin Castle/8of Emperor Digos!
+#EN:We’re here, it’s the Twin Castle/8of Emperor Digos!
 #EX:
  
  
@@ -17,7 +17,7 @@
  
 #MT:レディン
 #JP:よし、目指すは/8皇帝ディゴスただ１人！/6/7雑兵にはかまうな、続け！
-#EN:OK, our aim may be Emperor Digos/8alone!/6/7/8But don't ignore the other/8soldiers!
+#EN:OK, our aim may be Emperor Digos/8alone!/6/7/8But don’t ignore the other/8soldiers!
 #EX:
  
  
@@ -29,19 +29,19 @@
  
 #MT:ジェシカ
 #JP:王子、あの男を/8許すわけには参りません。/6/7私が礼儀というものを/8教えましょう！
-#EN:Prince, don't listen to that man./6/7/8He needs to learn some manners.
+#EN:Prince, don’t listen to that man./6/7/8He needs to learn some manners.
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:せっかくひろった命を/8捨てたいのか？/6/7ならば、今度こそ息の根を/8止めてくれるわ！
-#EN:Will you so carelessly throw away/8your life?/6/7/8If that's the case, then come/8here!
+#EN:Will you so carelessly throw away/8your life?/6/7/8If that’s the case, then come/8here!
 #EX:
  
  
 #MT:ソーン
 #JP:チッ！遅かったか！/6/7/2め、/8これ以上はやらせん。/8今度こそ決着をつけてやる！
-#EN:Tsk, think you can reach the/8Emperor, do you?/6/7/8/2, our last match was a nice/8warm-up but now it's time for/8the finale!
+#EN:Tsk, think you can reach the/8Emperor, do you?/6/7/8/2, our last match was a nice/8warm-up but now it’s time for/8the finale!
 #EX:
  
  
@@ -59,7 +59,7 @@
  
 #MT:ソーン
 #JP:バカな？！/6/7こいつらが、この城を/8攻めてくるなど！
-#EN:Impossible?!/6/7/8Are they're trying to attack the/8castle too?!
+#EN:Impossible?!/6/7/8Are they’re trying to attack the/8castle too?!
 #EX:
  
  
@@ -83,7 +83,7 @@
  
 #MT:レディン
 #JP:ここは通してもらう！
-#EN:I won't be stopped now!
+#EN:I won’t be stopped now!
 #EX:
  
  
@@ -101,7 +101,7 @@
  
 #MT:ナーム
 #JP:どうあっても/8ディゴスの所まで/8行かせてもらうわ！
-#EN:I'll never let you stop me from/8reaching Emperor Digos!
+#EN:I’ll never let you stop me from/8reaching Emperor Digos!
 #EX:
  
  
@@ -113,13 +113,13 @@
  
 #MT:ソーン
 #JP:ここまで来て/8退くわけにはいかん！
-#EN:After coming this far,/8there's no way I'll turn back!
+#EN:After coming this far,/8there’s no way I’ll turn back!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7後は頼むぞ！
-#EN:Shit!/6/7/8You're going to have to go on/8without me!
+#EN:Shit!/6/7/8You’re going to have to go on/8without me!
 #EX:
  
  
@@ -149,7 +149,7 @@
  
 #MT:ジェシカ
 #JP:思う存分、/8戦わせてもらいましょう。
-#EN:I'll never give up the fight!
+#EN:I’ll never give up the fight!
 #EX:
  
  
@@ -167,13 +167,13 @@
  
 #MT:アルバート
 #JP:ダメだ！
-#EN:It's no use!
+#EN:It’s no use!
 #EX:
  
  
 #MT:ホーキング
 #JP:行くぞ！
-#EN:Let's go!
+#EN:Let’s go!
 #EX:
  
  
@@ -209,13 +209,13 @@
  
 #MT:サー・ガリウス
 #JP:貴様ごときが/8この私に勝てるものか！
-#EN:Come at me as you please, you'll/8never defeat me!
+#EN:Come at me as you please, you’ll/8never defeat me!
 #EX:
  
  
 #MT:サー・ガリウス
 #JP:くっ、仕方ない。/6/7上で待ってるぞ、/8バルディアの小僧ども！
-#EN:Kuh, I'm helpless./6/7/8Wait for me, youngster from/8Baldea!
+#EN:Kuh, I’m helpless./6/7/8Wait for me, youngster from/8Baldea!
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:バレンツ
 #JP:さすがだ、バルディアの/8諸君。私の完敗だ‥‥
-#EN:Most impressive, ladies and/8gentlemen of Baldea./8You've managed to best me...
+#EN:Most impressive, ladies and/8gentlemen of Baldea./8You’ve managed to best me...
 #EX:
  
  
@@ -263,7 +263,7 @@
  
 #MT:ソーン
 #JP:貴様など私の敵ではない！/6/7死ね！
-#EN:Someone like you isn't fit to be/8my enemy!/6/7/8Die! God damn you, DIE!
+#EN:Someone like you isn’t fit to be/8my enemy!/6/7/8Die! God damn you, DIE!
 #EX:
  
  
@@ -275,7 +275,7 @@
  
 #MT:レディン
 #JP:ランス、ここから引け！/6/7その傷では戦えないはずだ！
-#EN:Lance, that's enough!/6/7/8With that injury, there's no way/8you can continue to fight!
+#EN:Lance, that’s enough!/6/7/8With that injury, there’s no way/8you can continue to fight!
 #EX:
  
  
@@ -287,7 +287,7 @@
  
 #MT:レディン
 #JP:無用な戦いをする気はない。/6/7我々は、ディゴスを倒して/8ラングリッサーを/8取り戻したいだけだ！
-#EN:There's no need to continue this/8useless battle!/6/7/8We will defeat Digos and/8retrieve Langrisser at any cost.
+#EN:There’s no need to continue this/8useless battle!/6/7/8We will defeat Digos and/8retrieve Langrisser at any cost.
 #EX:
  
  
@@ -299,13 +299,13 @@
  
 #MT:レディン
 #JP:ラングリッサーを/8取り戻さなければ、平和を/8得る事ができないのだ。/6/7ラングリッサーの封印が/8解かれたから、あのモンスター/8が暴れているんだぞ！
-#EN:If we don't recover Langrisser,/8there can never be peace./6/7/8Because the seal of Langrisser/8has been broken, monsters are/8awakening in our land!
+#EN:If we don’t recover Langrisser,/8there can never be peace./6/7/8Because the seal of Langrisser/8has been broken, monsters are/8awakening in our land!
 #EX:
  
  
 #MT:ソーン
 #JP:‥‥。/8信じられんな。
-#EN:....../6/7/8I don't believe you.
+#EN:....../6/7/8I don’t believe you.
 #EX:
  
  
@@ -329,7 +329,7 @@
  
 #MT:ソーン
 #JP:いいか、おぼえておけ。/8力なくして平和などありえぬ。/6/7そしてラングリッサーこそ/8その力だ！/6/7陛下は戦乱をおさめるために/8力を欲した。/6/7陛下は大義のために/8立ったのだ。/6/7決して貴様らなどには/8負けたりせぬ！/8さらばだ！
-#EN:It's OK, without great power,/8there will never be peace./6/7/8Langrisser has that power!/6/7/8His majesty desired power to/8bring an end to the wars./6/7/8For that purpose alone he sought/8Langrisser./6/7/8His majesty has always been the/8epitome of righteousness./6/7/8I will never believe he can be/8defeated by people like you./8Farewell.
+#EN:It’s OK, without great power,/8there will never be peace./6/7/8Langrisser has that power!/6/7/8His majesty desired power to/8bring an end to the wars./6/7/8For that purpose alone he sought/8Langrisser./6/7/8His majesty has always been the/8epitome of righteousness./6/7/8I will never believe he can be/8defeated by people like you./8Farewell.
 #EX:
  
  
@@ -359,7 +359,7 @@
  
 #MT:ジェシカ
 #JP:さあ、急いで行きましょう！
-#EN:Come on, let's hurry!
+#EN:Come on, let’s hurry!
 #EX:
  
  
@@ -371,7 +371,7 @@
  
 #MT:レディン
 #JP:よし。二手に別れて/8ディゴスのいる最上階まで、/8突撃するぞ！
-#EN:OK. Let's divide up into two/8groups./6/7/8Digos has to be on the top floor.
+#EN:OK. Let’s divide up into two/8groups./6/7/8Digos has to be on the top floor.
 #EX:
  
  
