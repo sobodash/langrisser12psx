@@ -5,13 +5,13 @@
  
 #MT:クリス
 #JP:/2様、大変です！
-#EN:Lord /2! It's terrible!
+#EN:Lord /2! It’s terrible!
 #EX:
  
  
 #MT:レディン
 #JP:クリス、こんな夜更けに、/8どうしたんだい？
-#EN:Chris, what's wrong, why are you/8up so late?
+#EN:Chris, what’s wrong, why are you/8up so late?
 #EX:
  
  
@@ -47,7 +47,7 @@
  
 #MT:レディン
 #JP:あの異様に変な男が/8こいつらを率いているのか？/6/7奴を倒せばこいつらも/8しばらくの間、/8おとなしくなるだろう！
-#EN:That one seems to be the/8leader... but why isn't he/8attacking?/6/7/8Maybe he's just scared after/8seeing all his buddies get/8killed!
+#EN:That one seems to be the/8leader... but why isn’t he/8attacking?/6/7/8Maybe he’s just scared after/8seeing all his buddies get/8killed!
 #EX:
  
  
@@ -65,7 +65,7 @@
  
 #MT:レディン
 #JP:しまった！/6/7あんな所にもいたのか！
-#EN:Damn it!/6/7/8Even that place isn't safe!
+#EN:Damn it!/6/7/8Even that place isn’t safe!
 #EX:
  
  
@@ -77,7 +77,7 @@
  
 #MT:レディン
 #JP:すまない、ホーキング公。
-#EN:I'll do my best.
+#EN:I’ll do my best.
 #EX:
  
  
@@ -89,19 +89,19 @@
  
 #MT:レディン
 #JP:これ以上やらせるな！/6/7１人残らず町から追い出せ！
-#EN:You won't make it past me!/6/7/8I'll drive every last one of you/8out of the town!
+#EN:You won’t make it past me!/6/7/8I’ll drive every last one of you/8out of the town!
 #EX:
  
  
 #MT:レディン
 #JP:私の力が/8およばぬばかりに‥‥。
-#EN:My power just wasn't enough...
+#EN:My power just wasn’t enough...
 #EX:
  
  
 #MT:ヴォルコフ
 #JP:素人め！/6/7力量の差に気付かぬようでは/8戦場で生き残れんぞ！
-#EN:Amateurs!/6/7/8If you can't see the difference/8in our power, you have no place/8on the battlefield!
+#EN:Amateurs!/6/7/8If you can’t see the difference/8in our power, you have no place/8on the battlefield!
 #EX:
  
  
@@ -113,19 +113,19 @@
  
 #MT:ソーン
 #JP:貴様ら/8しつこすぎるぞ！
-#EN:You're too persistent for your/8own good!
+#EN:You’re too persistent for your/8own good!
 #EX:
  
  
 #MT:ソーン
 #JP:くそっ！/6/7やられた！
-#EN:Shit!/8Don't mess with me!
+#EN:Shit!/8Don’t mess with me!
 #EX:
  
  
 #MT:レディン
 #JP:後退するんだ！/6/7後は私がやる！
-#EN:I'm here to back you up!/6/7/8Leave the rest to me!
+#EN:I’m here to back you up!/6/7/8Leave the rest to me!
 #EX:
  
  
@@ -161,7 +161,7 @@
  
 #MT:レディン
 #JP:クリス、ここは危ない！/6/7さがっていろ！
-#EN:Chris! It's dangerous here!/8Please stay back!
+#EN:Chris! It’s dangerous here!/8Please stay back!
 #EX:
  
  
@@ -227,7 +227,7 @@
  
 #MT:レディン
 #JP:私の力が/8およばぬばかりに‥‥。
-#EN:It seems my power just wasn't/8enough....
+#EN:It seems my power just wasn’t/8enough....
 #EX:
  
  
@@ -239,7 +239,7 @@
  
 #MT:ホーキング
 #JP:私の町で自由にはさせぬ！
-#EN:I won't permit savages to disturb/8the peace of my town!
+#EN:I won’t permit savages to disturb/8the peace of my town!
 #EX:
  
  
@@ -257,7 +257,7 @@
  
 #MT:ホーキング
 #JP:すみません、後は任せます！
-#EN:I'm sorry... I have to leave the/8rest to you.
+#EN:I’m sorry... I have to leave the/8rest to you.
 #EX:
  
  
@@ -377,7 +377,7 @@
  
 #MT:村人
 #JP:助けていただいて/8ありがとうございます。/6/7このネックレスを/8使ってください。/8きっとお役に立つはずです。
-#EN:Thank you for saving me./6/7/8Please accept this Necklace,/8I'm sure some day it will be/8useful.
+#EN:Thank you for saving me./6/7/8Please accept this Necklace,/8I’m sure some day it will be/8useful.
 #EX:
  
  
@@ -419,7 +419,7 @@
  
 #MT:レディン
 #JP:そんな！/6/7父上はどうなったのだ！
-#EN:WHAT?!/6/7/8My father?! What's happened to/8my father?!
+#EN:WHAT?!/6/7/8My father?! What’s happened to/8my father?!
 #EX:
  
  
@@ -437,7 +437,7 @@
  
 #MT:ホーキング
 #JP:では、私は兵を集めしだい/8向かいます。/8それまで無理はなさらぬよう。
-#EN:Then allow me to find some/8soldiers to send with you./6/7/8That's the least I can do for/8you.
+#EN:Then allow me to find some/8soldiers to send with you./6/7/8That’s the least I can do for/8you.
 #EX:
  
  
@@ -461,7 +461,7 @@
  
 #MT:ナーム
 #JP:このまま引き下がるわけには/8参りません。
-#EN:It's not enough to keep me out/8of the battlefield.
+#EN:It’s not enough to keep me out/8of the battlefield.
 #EX:
  
  
@@ -473,7 +473,7 @@
  
 #MT:クリス
 #JP:行ってしまわれるのですね、/8/2様‥‥。
-#EN:It looks like you'll be leaving/8then, Lord /2...
+#EN:It looks like you’ll be leaving/8then, Lord /2...
 #EX:
  
  
@@ -485,7 +485,7 @@
  
 #MT:クリス
 #JP:ご武運を/8お祈りしています‥‥。
-#EN:I'll pray for your safety in/8battle...
+#EN:I’ll pray for your safety in/8battle...
 #EX:
  
  
@@ -509,13 +509,13 @@
  
 #MT:ナーム
 #JP:申し訳ありません‥‥。
-#EN:There's no way I can apologize/8for what has happened...
+#EN:There’s no way I can apologize/8for what has happened...
 #EX:
  
  
 #MT:レディン
 #JP:いや、ナームのせいではない。/6/7気にするな。
-#EN:No, Narm, it's not your fault./6/7/8Don't be distressed.
+#EN:No, Narm, it’s not your fault./6/7/8Don’t be distressed.
 #EX:
  
  
@@ -533,7 +533,7 @@
  
 #MT:ナーム
 #JP:ならば、帝国軍をあざむくため、/8死霊の森から向かいましょう。
-#EN:To avoid the imperial troops,/8we'll need to cross through the/8Forest of Death.
+#EN:To avoid the imperial troops,/8we’ll need to cross through the/8Forest of Death.
 #EX:
  
  

@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「ダルシス城」/6/7/5ヴァルクを攻略し、/8順調に進撃するレディンたち。/8さらにホーキングがサルラスから/8軍を率いて、一行に合流した。/6/7/5戦力が整ったバルディア軍は/8ついにダルシス城を包囲、/8皇帝ディゴスとの直接対決を/8迎えようとしていた。/6/7×勝利条件/8/5・レディンが最上階の階段に着く/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"Dalshis Castle"/6/7/5/8Ledin and company were able/8to capture Valk. Furthermore,/8Lord Hawking led an army from/8Salrath to join their forces in/8the fight./6/7/5/8After careful preparation, the/8Baldea troops have encircled/8Dalshis Castle for a final/8showdown with Emperor Digos./6/7/8Winning Conditions/8- Ledin reaches the first floor stairway/8- Death of all enemies/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

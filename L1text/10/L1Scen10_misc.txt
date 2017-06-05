@@ -4,32 +4,32 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:- Death of /2
 #EX:
  
  
 #JP:/5・レディンが最上階の階段に
-#EN:
+#EN:- Ledin reaches the first
 #EX:
  
  
 #JP:/5/5たどり着く
-#EN:
+#EN:  floor stairway
 #EX:
  
  
 #JP:/5・敵の全滅
-#EN:
+#EN:- Death of all enemies
 #EX:
  
  

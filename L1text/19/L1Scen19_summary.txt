@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「/5闇の封印/5」/6/7/5ニコリスを倒し、神殿最深部へと/8たどりついたレディンたち光輝の/8末裔たち。/6/7/5しかし、すでに混沌の象徴である/8カオス復活の儀式は始まろうと/8していた。/8/5光輝の末裔と闇の末裔たちとの/8最後の戦いが、闇の集う地下神殿で/8開始されようとしている。/6/7×勝利条件/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"Seal of Evil"/6/7/5/8After the defeat of Nicolis,/8Ledin and the descendants of/8light struggled onward to the/8deepest point of the temple./6/7/5/8However, the ceremony to/8revive the god of darkness and/8death, Chaos, had alreay begun./6/7/5/8Now, in this ancient temple/8of darkness, the last battle/8between the descendants of light/8and the children of darkness has/8begun./6/7/8Winning Conditions/8- Defeat of all enemies/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

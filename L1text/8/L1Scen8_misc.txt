@@ -4,32 +4,32 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:- Death of /2
 #EX:
  
  
 #JP:/5・レディンがマップ上の
-#EN:
+#EN:- Ledin reaches the road
 #EX:
  
  
 #JP:/5/5街道の入り口に着く
-#EN:
+#EN:  at the top of the map
 #EX:
  
  
 #JP:/5・敵の全滅
-#EN:
+#EN:- Total defeat of enemies
 #EX:
  
  

@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「邪竜のさけび」/6/7/5邪悪の目覚めに呼応して、/8魔物たちが次々と出現し始めた。/6/7/5その中でも最強である邪竜が/8ラングリッサーを狙って/8レディンたちの前に現れた。/8/5町の人々を守りつつレディンは/8戦いを開始する。/6/7×勝利条件/8/5・ドラゴンの撃破/8/5/8×敗北条件/8/5・レディンの死亡/8/5・ＮＰＣの全滅/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"Cry of the Demonic Dragon"/6/7/5/8Like a chorus of evil, demons/8began appearing one after/8another in the land./6/7/5/8An evil dragon, one of the/8strongest of all demons,/8appeared before Ledin seeking/8to take Langrisser./6/7/5/8To save the people of the/8village, Ledin engaged in a/8desparate fight./6/7/8Winning Conditions/8- Defeat of the evil dragon/8Losing Conditions/8- Death of Ledin/8- Death of all NPCs/6/7
 #EX:
  
  

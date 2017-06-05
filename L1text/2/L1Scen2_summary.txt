@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「/5/5襲撃/5/5」/6/7/5サルラスの領主ホーキングと/8会見したレディンたち。/8/5だが、平和な町で心休める暇なく、/8野盗たちが夜襲をかけてきた。/6/7/5その事態を知ったクリスは、/8レディンに知らせるため、/8彼の元に向かう。/8/5夜襲を知ったレディンは/8町を守るため、ヴォルコフと共に/8立ち上がった。/6/7×勝利条件/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/8/5・シビリアンの全滅/6/7
-#EN:/5/8/5/5Scenario-0/3/8/5/5/5"/5/5Ambush!/5/5"/6/7/5In Salrath, Hawking was briefed/8on what had occurred in Baldea as/8he and Ledin rested in the inn./6/7/5But the night's tranquility was/8disrupted as the thieves began/8an ambush./6/7/5Chris awoke Ledin as the attack/8began. Rousing his old sword master,/8the two set out to defend the/8town./6/7Winning Conditions/8/5- Defeat of all enemies/8/5/8Losing Conditions/8/5- Death of Ledin/8/5- Death of villagers/6/7
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5“Ambush!”/6/7/5In Salrath, Hawking was briefed/8on what had occurred in Baldea as/8he and Ledin rested in the inn./6/7/5But the night’s tranquility was/8disrupted as the thieves began/8an ambush./6/7/5Chris awoke Ledin as the attack/8began. Rousing his old sword master,/8the two set out to defend the/8town./6/7Winning Conditions/8/5- Defeat of all enemies/8/5/8Losing Conditions/8/5- Death of Ledin/8/5- Death of villagers/6/7
 #EX:
  
  

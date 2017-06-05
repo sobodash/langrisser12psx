@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「暗闇の中で」/6/7/5激しい戦いの末、ついに邪竜を/8撃退したレディンたち。/8/5しかし邪竜はまだ死んでいない。/8/5弱っているうちに倒して/8おかなければ、被害が大きくなる。/6/7/5一行は竜が逃げた谷の洞窟に/8向かう。/8/5そこにはかつて勇者が竜を倒した/8というドラゴンスレイヤーがあると/8言われていた‥‥。/6/7×勝利条件/8/5・ドラゴンの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"In the Deepest Black"/6/7/5/8After an extreme battle, Ledin/8succeeded in repelling the/8demonic dragon./6/7/5/8However, the dragon was yet/8undefeated. Having sustained/8serious injury, it retreated/8to a cave./6/7/5/8Ledin and company have formed/8a line in the valley where the/8beast's cave lies./6/7/5/8It is said that within lies the/8Dragon Slayer, a sword used by/8a hero to slay the beast in/8ancient times.../6/7/8Winning Conditions/8- Defeat of the dragon/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

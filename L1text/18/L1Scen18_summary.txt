@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「/5地下神殿/5」/6/7/5敵に対抗するため、捨て身の/8攻撃を敢行するランス。/8/5彼の命を無駄にしないため、/8レディンは地下神殿へと突入した。/6/7/5しかし、そこには/8闇の使者ニコリスが、/8一行を包囲するように布陣し/8待ちかまえていた。/6/7×勝利条件/8/5・ニコリスの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"The Underground Sanctuary"/6/7/5/8To allow everyone to continue/8their assault, Lance stayed/8behind, alone, to curb the/8enemy's attack./6/7/5/8Vowing not to waste his/8sacrifice, Ledin rushed onward/8to the underground sanctuary./6/7/5/8However, the agent of evil,/8Nicolis, had already surrounded/8the area and was awaiting them./6/7/8Winning Conditions/8- Defeat of Nicolis/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

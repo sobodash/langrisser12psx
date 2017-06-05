@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「/5石像の町/5」/6/7/5ディゴスを倒したものの、/8それは新たなる戦いの序曲で/8あった。/6/7/5封印を解かれ、復活した邪悪なる/8存在の行方を追って、/8レディンたちは、人々が石化された/8町へとおもむいていた。/6/7×勝利条件/8/5・敵の全滅/8/5/8×敗北条件/8/5・レディンの死亡/8/5・全指揮官石化/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"The Village of Stone"/6/7/5/8Though Digos was defeated,/8a new battle has begun./6/7/5/8With Langrisser's seal broken,/8evil has been unleashed on the/8world once again./6/7/5/8Ledin and company discover a/8village that has been turned to/8stone by the powers of darkness./6/7/8Winning Conditions/8- Defeat of all enemies/8Losing Conditions/8- Death of Ledin/8- All commanders are turned to/8  stone/6/7
 #EX:
  
  

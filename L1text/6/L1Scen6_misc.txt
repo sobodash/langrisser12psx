@@ -4,22 +4,22 @@
  
  
 #JP:×勝利条件
-#EN:
+#EN:Winning Conditions
 #EX:
  
  
 #JP:×敗北条件
-#EN:
+#EN:Losing Conditions
 #EX:
  
  
 #JP:/5・/2の死亡
-#EN:
+#EN:- Death of /2
 #EX:
  
  
 #JP:/5・ベルヌーイの撃破
-#EN:
+#EN:- Defeat of Bernoulli
 #EX:
  
  
@@ -34,7 +34,7 @@
  
  
 #JP:/5・アルバートの死亡
-#EN:
+#EN:- Death of Albert
 #EX:
  
  

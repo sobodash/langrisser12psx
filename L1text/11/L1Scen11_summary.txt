@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－/3/8/5/5/5「ツインキャッスル」/6/7/5ダルシス城内部に突入した/8レディンたちは、二手に別れて/8ディゴスのいる部屋へと向かった。/8/5/8/5最後の戦いは近い。/6/7×勝利条件/8/5・ディゴスの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-/3/8/5/5/5"Twin Castle"/6/7/5/8Ledin and company broke into/8two groups as they entered/8Twin Castle, seeking the room/8where Digos is./6/7/5/8Their last battle is at hand./6/7/8Winning Conditions/8- Defeat of Digos/8Losing Conditions/8- Death of Ledin/6/7
 #EX:
  
  

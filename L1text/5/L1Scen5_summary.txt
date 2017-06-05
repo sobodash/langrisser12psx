@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「バルディア城の攻防」/6/7/5ランスを撃退したが、/8ヴォルコフが敵の毒矢を受け/8帰らぬ人となった。/8/5その悲しみを乗り越え、/8ついにバルディア城へと/8たどり着いた一行。/6/7だが、城にはダルシス帝国の猛将/8ゼルドが、布陣を整え/8立ちはだかっていた。/6/7×勝利条件/8/5・占領軍指令ゼルドの撃破/8/5/8×敗北条件/8/5・レディンの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5"Battle at Baldea Castle"/6/7/5Though they defeated Lance and/8the imperial guards, Volkoff was/8killed by a poison arrow./6/7After recovering from the/8sadness of his death, the/8company finally arrived at/8Baldea Castle./6/7However, the great general of/8the Dalshis Empire, Zeld, had/8already positioned his forces/8around the perimeter to meet/8them./6/7Winning Conditions/8/5- Defeat of Zeld, the occupation/8/5  army commander./8Losing Conditions/8/5- Death of Ledin/6/7
 #EX:
  
  

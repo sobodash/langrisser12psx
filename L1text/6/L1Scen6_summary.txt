@@ -4,7 +4,7 @@
  
  
 #JP:/5/8/5/5ＳＣＥＮＡＲＩＯ－０/3/8/5/5/5「/5砦の勇者/5」/6/7/5城を取り戻し、閉じこめられて/8いたジェシカとテイラーを救った/8ものの、秘剣のラングリッサーは/8奪われた後だった。/6/7/5その直後、バルディア防衛の要所/8であるアンゼルの砦が、/8帝国軍に襲われているという情報が/8もたらされた。/6/7×勝利条件/8/5・ベルヌーイの撃破/8/5/8×敗北条件/8/5・レディンの死亡/8/5・アルバートの死亡/6/7
-#EN:
+#EN:/5/8/5/5Scenario-0/3/8/5/5/5"Hero of the Fortress"/6/7/5Baldea castle was finally/8reclaimed. Though Jessica and/8Taylor, who had been imprisoned,/8were freed, Langrisser had been/8taken./6/7/8/5There was little time to/8celebrate though, as a soldier/8arrived bearing news that Anzel/8Fortress had fallen under/8Dalshis attack./6/7/8Winning Conditions/8- Defeat of Bernoulli/8Losing Conditions/8- Death of Ledin/8- Death of Albert/6/7
 #EX:
  
  
